@@ -1,0 +1,190 @@
+﻿feature_id|feature_name|feature_class|census_code|census_class_code|gsa_code|opm_code|state_name|state_numeric|county_sequence|county_name|county_numeric|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec
+1390347|Chalan Kanoa|Populated Place|11800|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||150844N|1454157E|15.1455556|145.6991667
+1390407|Garapan|Populated Place|17700|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||151225N|1454254E|15.2069444|145.715
+1390505|Marasu|Populated Place|22420|U6|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|01/01/2000|06/07/2022||||180940N|1454615E|18.1611111|145.7708333
+1390540|Oleai|Populated Place|23880|U6|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||150942N|1454236E|15.1616667|145.71
+1390588|San Antonio|Populated Place|41300|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||150757N|1454137E|15.1325|145.6936111
+1390589|San Jose|Populated Place|47210|U5|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|01/01/2000|06/07/2022||||145810N|1453722E|14.9694444|145.6227778
+1390590|San Jose|Populated Place|47200|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||151000N|1454232E|15.1666667|145.7088889
+1390591|San Roque|Populated Place|53100|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022||||151449N|1454622E|15.2469444|145.7727778
+1390601|Shomushon|Populated Place|62930|U6|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|01/01/2000|06/07/2022|Official|Board Decision|01/01/1955|180740N|1454601E|18.1277778|145.7669444
+1390603|Songsong|Populated Place|64900|U5|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|01/01/2000|06/07/2022||||140823N|1450828E|14.1397222|145.1411111
+1390625|Tanapag|Populated Place|76700|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|01/01/2000|06/07/2022|Official|Board Decision|01/01/1955|151428N|1454509E|15.2411111|145.7525
+1867672|Capital Hill|Populated Place|05900|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||151200N|1454507E|15.2|145.7519444
+1867674|Gualo Rai|Populated Place|17900|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||151127N|1454321E|15.1908333|145.7225
+1867675|Kagman|Populated Place|19500|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||151000N|1454643E|15.1666667|145.7786111
+1867676|Koblerville|Populated Place|19600|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||150714N|1454223E|15.1205556|145.7063889
+1867677|Navy Hill|Populated Place|22650|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||151234N|1454401E|15.2094444|145.7336111
+1867678|San Vicente|Populated Place|59000|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||150906N|1454416E|15.1516667|145.7377778
+1867679|Susupe|Populated Place|70800|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|05/15/2000|06/07/2022||||150923N|1454221E|15.1563889|145.7058333
+1927035|District 1|Civil|13700|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|07/17/2001|03/26/2023||||140926N|1451252E|14.1573291|145.2144622
+1927036|District 1|Civil|13750|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|03/26/2023||||150732N|1454335E|15.1256099|145.72645
+1927037|District 1|Civil|13800|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|07/17/2001|03/26/2023||||150009N|1453736E|15.0025436|145.6267943
+1927038|District 2|Civil|13850|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|07/17/2001|02/04/2009||||140825N|1450824E|14.1402778|145.14
+1927039|District 2|Civil|13900|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|03/26/2023||||150843N|1454233E|15.1452986|145.7092171
+1927040|District 2|Civil|13950|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|07/17/2001|02/04/2009||||150234N|1453713E|15.0427778|145.6202778
+1927041|District 3|Civil|14000|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|07/17/2001|02/04/2009||||140760N|1450548E|14.1333333|145.0966667
+1927042|District 3|Civil|14050|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||150841N|1454215E|15.1447222|145.7041667
+1927043|District 4|Civil|14100|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|07/17/2001|02/04/2009||||140704N|1451233E|14.1177778|145.2091667
+1927044|District 4|Civil|14150|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|03/26/2023||||151430N|1454708E|15.241757|145.7854507
+1927045|District 5|Civil|14200|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|03/26/2023||||151019N|1454539E|15.1718186|145.7608052
+1927046|District 6|Civil|14250|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||150716N|1454118E|15.1211111|145.6883333
+1927047|District 7|Civil|14300|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|03/26/2023||||151141N|1454352E|15.1946887|145.7312134
+1927048|District 8|Civil|14350|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||151252N|1454648E|15.2144444|145.78
+1927049|District 9|Civil|14400|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||151523N|1454841E|15.2563889|145.8113889
+1927050|District 10|Civil|14450|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||150856N|1454719E|15.1488889|145.7886111
+1927051|District 11|Civil|14500|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|07/17/2001|02/04/2009||||151314N|1454327E|15.2205556|145.7241667
+1927052|Northern Islands District|Civil|22900|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|07/17/2001|02/04/2009||||180507N|1454436E|18.0852778|145.7433333
+2414003|Capital Hill Census Designated Place (historical)|Census|05900|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151208N|1454503E|15.2021115|145.750805
+2414005|Chalan Kanoa Census Designated Place (historical)|Census|11800|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150842N|1454214E|15.1450828|145.703928
+2414010|Dandan Census Designated Place (historical)|Census|13625|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150758N|1454417E|15.1327167|145.73796
+2414021|Garapan Census Designated Place (historical)|Census|17700|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151222N|1454305E|15.2060356|145.718121
+2414023|Gualo Rai Census Designated Place (historical)|Census|17900|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151128N|1454323E|15.1910665|145.722981
+2414053|Kagman Census Designated Place (historical)|Census|19500|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150951N|1454641E|15.1641196|145.777961
+2414076|Koblerville Census Designated Place (historical)|Census|19600|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150712N|1454223E|15.1200691|145.706404
+2414109|Navy Hill Census Designated Place (historical)|Census|22650|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151228N|1454402E|15.2077518|145.733847
+2414131|San Antonio Census Designated Place (historical)|Census|41300|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150806N|1454201E|15.1350372|145.70033
+2414132|San Jose Census Designated Place (historical)|Census|47200|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151003N|1454233E|15.1676183|145.709238
+2414133|San Jose Census Designated Place (historical)|Census|47210|X0|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|03/14/2008|07/19/2010||||145806N|1453712E|14.9682292|145.619981
+2414134|San Roque Census Designated Place (historical)|Census|53100|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151453N|1454622E|15.2480053|145.772798
+2414135|San Vicente Census Designated Place (historical)|Census|59000|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150903N|1454416E|15.1508078|145.737861
+2414140|Songsong Census Designated Place (historical)|Census|64900|X0|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|03/14/2008|07/19/2010||||140808N|1450840E|14.1355751|145.144385
+2414141|Susupe Census Designated Place (historical)|Census|70800|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||150922N|1454221E|15.1561517|145.705712
+2414144|Tanapag Census Designated Place (historical)|Census|76700|X0|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|07/19/2010||||151418N|1454516E|15.2382947|145.754327
+2414263|Dandan|Populated Place|13625|U5|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|03/14/2008|06/07/2022||||150748N|1454401E|15.130053|145.733586
+2574397|District 4|Civil|14075|Z1|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|12/17/2009|03/26/2023||||180818N|1454704E|18.1382615|145.784577
+2631658|Village of Achugao|Civil|00300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151437N|1454558E|15.2436344|145.7660072
+2631659|Village of Afatung|Civil|00400|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140753N|1451249E|14.1313636|145.213715
+2631660|Village of Afetnas|Civil|00450|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150738N|1454153E|15.127207|145.6981707
+2631661|Village of Agatasi (Payapai)|Civil|00500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140738N|1451315E|14.1272326|145.2207884
+2631662|Village of Agingan|Civil|00600|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150658N|1454207E|15.1161358|145.7018692
+2631663|Village of Agrihan|Civil|01100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/24/2023||||184616N|1454004E|18.771055|145.6676717
+2631664|Village of Aguijan|Civil|01150|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/25/2023||||145109N|1453331E|14.8524263|145.55865
+2631665|Village of Agusan|Civil|01170|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141126N|1451336E|14.1904518|145.2267519
+2631666|Village of Alaguan|Civil|01200|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140842N|1451349E|14.1449273|145.230267
+2631667|Village of Alamagan|Civil|01220|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/25/2023||||173559N|1454958E|17.5997051|145.8328243
+2631668|Village of American Memorial Park|Civil|01250|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151300N|1454323E|15.2168023|145.7229224
+2631669|Village of Anatahan|Civil|01280|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/24/2023||||162108N|1454037E|16.3522577|145.6769317
+2631670|Village of Annex F|Civil|01300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140823N|1450853E|14.1398225|145.1479613
+2631671|Village of Apanon|Civil|01350|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140644N|1451028E|14.1121558|145.1744875
+2631672|Village of As Akina|Civil|01400|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151355N|1454555E|15.2320528|145.7652523
+2631673|Village of As Akoddo|Civil|01450|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140913N|1451018E|14.1536896|145.1716056
+2631674|Village of As Dudo|Civil|01500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141032N|1451649E|14.1754822|145.2801468
+2631675|Village of As Falipe|Civil|01600|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151133N|1454408E|15.1924546|145.7355721
+2631676|Village of As Gonna|Civil|01650|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150712N|1454249E|15.1201011|145.7135897
+2631677|Village of As Lito|Civil|01700|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150749N|1454317E|15.1302386|145.721467
+2631678|Village of As Mahetog|Civil|01750|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151409N|1454522E|15.2358299|145.755979
+2631679|Village of As Matuis|Civil|01800|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151504N|1454707E|15.2510902|145.7852424
+2631680|Village of As Niebes (Nieves)|Civil|01850|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140956N|1451609E|14.1656887|145.2690284
+2631681|Village of As Palacios|Civil|01900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151255N|1454348E|15.2153395|145.7299175
+2631682|Village of As Perdido|Civil|01950|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150749N|1454225E|15.1303117|145.7068967
+2631683|Village of As Rabagau|Civil|02000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151306N|1454429E|15.2183272|145.7415277
+2631684|Village of As Teo|Civil|02500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151147N|1454553E|15.1964056|145.7646148
+2631685|Village of As Terlaje|Civil|03000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150922N|1454326E|15.15612|145.7237728
+2631686|Village of Asuncion|Civil|03100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/25/2023||||194129N|1452414E|19.6914022|145.4037866
+2631687|Village of Banaderu|Civil|03500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151646N|1454902E|15.2793867|145.8170936
+2631688|Village of Bird Island|Civil|04000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151527N|1454849E|15.2575249|145.813665
+2631689|Village of Capitol Hill|Civil|06000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151249N|1454517E|15.2137203|145.7546639
+2631690|Village of Carolinas|Civil|06500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/25/2023||||145636N|1453836E|14.9432933|145.6434241
+2631691|Village of Carolinas Heights|Civil|07000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/24/2023||||145758N|1453903E|14.9660485|145.6507674
+2631692|Village of Chacha|Civil|07500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151102N|1454553E|15.1840051|145.7647664
+2631693|Village of Chalan Galaide|Civil|08000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151228N|1454425E|15.2078562|145.740256
+2631694|Village of Chalan Kanoa I|Civil|11820|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150844N|1454227E|15.145569|145.7075137
+2631695|Village of Chalan Kanoa II|Civil|11850|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150857N|1454209E|15.1490525|145.7026203
+2631696|Village of Chalan Kanoa III|Civil|11860|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150840N|1454214E|15.1445405|145.7039534
+2631697|Village of Chalan Kanoa IV|Civil|11870|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150837N|1454206E|15.1436659|145.7017279
+2631698|Village of Chalan Kiya|Civil|12000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150950N|1454314E|15.1638264|145.7205809
+2631699|Village of Chalan Laulau|Civil|13000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151034N|1454254E|15.1761061|145.7151311
+2631700|Village of Chalan Piao|Civil|13500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150811N|1454205E|15.1364815|145.701437
+2631701|Village of Chalan Rueda|Civil|13600|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151023N|1454347E|15.1729777|145.7296835
+2631702|Village of China Town|Civil|13610|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151213N|1454321E|15.2035076|145.7224055
+2631703|Village of Dagu|Civil|13620|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150832N|1454337E|15.1423536|145.7268606
+2631704|Village of Dandan|Civil|13625|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150810N|1454412E|15.136221|145.7367783
+2631705|Village of Duge|Civil|14550|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141118N|1451622E|14.1881956|145.272821
+2631706|Village of Eastern Tinian (Marpo Valley)|Civil|14650|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/25/2023||||150013N|1453909E|15.003648|145.6525152
+2631707|Village of Fananganan|Civil|14700|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151221N|1454338E|15.205803|145.7271466
+2631708|Village of Fanlagon|Civil|14750|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140756N|1451145E|14.1321059|145.1957648
+2631709|Village of Fanonchuluyan|Civil|14800|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151530N|1454810E|15.2583164|145.8029021
+2631710|Village of Farallon de Medinilla|Civil|14850|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/24/2023||||160107N|1460333E|16.0186871|146.0591708
+2631711|Village of Finasisu|Civil|14900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150836N|1454301E|15.143206|145.7168803
+2631712|Village of Finata|Civil|14950|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140841N|1451318E|14.1446494|145.2217152
+2631713|Village of Forbidden Island|Civil|15000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150901N|1454728E|15.1502801|145.7910688
+2631714|Village of Gagani|Civil|15500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140719N|1451007E|14.1218534|145.1686292
+2631715|Village of Gampapa|Civil|15550|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||141033N|1451559E|14.1759238|145.2664422
+2631716|Village of Gaonan|Civil|16000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140701N|1451214E|14.1168279|145.203852
+2631717|Village of Garapan|Civil|17700|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151226N|1454307E|15.2072574|145.7186224
+2631718|Village of Gayaugan (Kaan)|Civil|17800|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140837N|1450931E|14.1436848|145.1585129
+2631719|Village of Ginalangan (Chudan)|Civil|17850|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140913N|1451254E|14.1536892|145.2150525
+2631720|Village of Gualo Rai|Civil|17900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151125N|1454330E|15.1901796|145.7250052
+2631721|Village of Guguan|Civil|17950|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/25/2023||||171835N|1455029E|17.3097384|145.8413188
+2631722|Village of Hilaihai|Civil|18000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151120N|1454623E|15.1887634|145.7730699
+2631723|Village of I Akgak|Civil|18020|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151134N|1454510E|15.192779|145.7528293
+2631724|Village of I Chenchon|Civil|18050|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140934N|1451522E|14.1594806|145.2560228
+2631725|Village of I Denni|Civil|18100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151220N|1454601E|15.2055587|145.766905
+2631726|Village of I Fadang|Civil|18150|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150714N|1454353E|15.1205536|145.7314511
+2631727|Village of I Koridot|Civil|18200|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140913N|1451420E|14.1535832|145.2389493
+2631728|Village of I Liyang|Civil|18250|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151121N|1454302E|15.1891051|145.7173398
+2631729|Village of I Maddok|Civil|18300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151558N|1454912E|15.2660014|145.8200815
+2631730|Village of I Naftan|Civil|18350|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150638N|1454453E|15.1106439|145.7479289
+2631731|Village of I Pitot|Civil|18400|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151158N|1454638E|15.1993897|145.7771134
+2631732|Village of Kagman|Civil|19500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151023N|1454606E|15.1730065|145.7682447
+2631733|Village of Kagman I|Civil|19520|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151058N|1454634E|15.1827224|145.7760387
+2631734|Village of Kagman II|Civil|19530|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151037N|1454634E|15.1768102|145.7760173
+2631735|Village of Kagman III|Civil|19540|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150945N|1454653E|15.162389|145.7814646
+2631736|Village of Kagman IV|Civil|19550|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151042N|1454656E|15.1784522|145.7821161
+2631737|Village of Kalabera|Civil|19560|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151421N|1454804E|15.2391803|145.8011662
+2631738|Village of Kannat Tabla|Civil|19570|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150950N|1454357E|15.163819|145.7325044
+2631739|Village of Koblerville|Civil|19600|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150721N|1454217E|15.12237|145.7046219
+2631740|Village of Laulau Bay|Civil|19650|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151001N|1454516E|15.1669233|145.75432
+2631741|Village of Lempanai|Civil|19700|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140759N|1451011E|14.1330394|145.1697377
+2631742|Village of Liyu|Civil|19750|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140801N|1450804E|14.1336134|145.1343289
+2631743|Village of Lower Base|Civil|19800|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151347N|1454438E|15.2297935|145.744017
+2631744|Village of Makmak|Civil|19850|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140954N|1451148E|14.1650608|145.196593
+2631745|Village of Managaha|Civil|19900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151429N|1454244E|15.2415049|145.7123266
+2631746|Village of Mananana|Civil|19950|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140910N|1451124E|14.1527631|145.1899064
+2631747|Village of Marpi|Civil|22430|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151557N|1454738E|15.265945|145.7937733
+2631748|Village of Marpo Heights|Civil|22440|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/24/2023||||145850N|1453824E|14.9805765|145.6399906
+2631749|Village of Matansa|Civil|22450|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151527N|1454708E|15.2575835|145.7856934
+2631750|Village of Matpo|Civil|22460|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140844N|1450855E|14.1455137|145.1485199
+2631751|Village of Maturana Hill|Civil|22470|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151218N|1454405E|15.2049391|145.7347116
+2631752|Village of Maug|Civil|22500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/25/2023||||200118N|1451400E|20.0217397|145.233472
+2631753|Village of Mochong|Civil|22530|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141133N|1451521E|14.1924269|145.2559159
+2631754|Village of Mount Sabana (Minachage)|Civil|22550|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140825N|1451106E|14.1401731|145.1850254
+2631755|Village of Mount Taipingot|Civil|22575|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/25/2023||||140732N|1450739E|14.1254731|145.1273638
+2631756|Village of Nanasu|Civil|22600|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151420N|1454707E|15.238982|145.7853443
+2631757|Village of Navy Hill|Civil|22650|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151245N|1454355E|15.2125978|145.7320239
+2631758|Village of Northern Tinian|Civil|23100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/25/2023||||150342N|1453754E|15.0615838|145.6315464
+2631759|Village of Opyan|Civil|23900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150634N|1454324E|15.1095635|145.723338
+2631760|Village of Pagan|Civil|23950|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/25/2023||||180660N|1454600E|18.1165824|145.7667667
+2631761|Village of Papago|Civil|23980|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151038N|1454453E|15.1771846|145.7481608
+2631762|Village of Pekngasu|Civil|23990|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141139N|1451432E|14.1940447|145.2421726
+2631763|Village of Pidos Kahalo|Civil|24000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151627N|1454825E|15.2741141|145.8069937
+2631764|Village of Puerto Rico|Civil|24100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151323N|1454402E|15.2230015|145.73378
+2631765|Village of Sabaneta|Civil|25100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151702N|1454822E|15.2837537|145.8060961
+2631766|Village of Sadog Tasi|Civil|25200|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151331N|1454449E|15.2253499|145.7470484
+2631767|Village of Sailigai Papa|Civil|25300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140915N|1450924E|14.1541364|145.1566974
+2631768|Village of San Antonio|Civil|41300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150754N|1454142E|15.1316468|145.6950098
+2631769|Village of San Jose (Oleai)|Civil|47210|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||150956N|1454245E|15.1654538|145.7125161
+2631770|Village of San Jose (Tinian Municipality)|Civil|47205|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/24/2023||||145809N|1453729E|14.9692365|145.6247067
+2631771|Village of San Roque|Civil|53100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151455N|1454633E|15.2485732|145.7757068
+2631772|Village of San Vicente|Civil|59000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150912N|1454425E|15.1534577|145.740228
+2631773|Village of Sayan Gigani|Civil|61000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141060N|1451254E|14.1833304|145.215131
+2631774|Village of Sinapalo|Civil|62000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141032N|1451404E|14.1754844|145.2345704
+2631775|Village of Songsong|Civil|64900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140826N|1450830E|14.1406035|145.1415975
+2631776|Village of Susupe|Civil|70800|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150925N|1454233E|15.1568093|145.7090484
+2631777|Village of Tagolo Ogso|Civil|70900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140842N|1451016E|14.1450846|145.1710264
+2631778|Village of Taimama|Civil|71000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140926N|1450918E|14.1571561|145.1550764
+2631779|Village of Talafofo|Civil|72000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151311N|1454632E|15.2197099|145.7756507
+2631780|Village of Talakhaya|Civil|73000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140717N|1451109E|14.1213444|145.1857856
+2631781|Village of Talo|Civil|74000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140958N|1451230E|14.1661938|145.2084093
+2631782|Village of Tanapag|Civil|76700|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151420N|1454513E|15.2388516|145.7535126
+2631783|Village of Tangke|Civil|76900|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/25/2023||||151439N|1454736E|15.2441691|145.7933547
+2631784|Village of Tapochao|Civil|77000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||151151N|1454442E|15.1974919|145.7450528
+2631785|Village of Tatachok|Civil|77100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140949N|1451029E|14.1636482|145.1747155
+2631786|Village of Tatgua|Civil|77200|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||141026N|1451210E|14.1739727|145.2026993
+2631787|Village of Tenetu|Civil|77300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140816N|1450916E|14.1378515|145.1545188
+2631788|Village of Tottotville|Civil|89000|C9|||Commonwealth of the Northern Mariana Islands|69|1|Saipan|110|08/30/2010|03/24/2023||||150740N|1454245E|15.1276863|145.7124785
+2631789|Village of Ugis|Civil|89100|C9|||Commonwealth of the Northern Mariana Islands|69|1|Rota|100|08/30/2010|03/24/2023||||140926N|1450905E|14.1571657|145.151316
+2631790|Village of Uracus (Farallon de Pajaros)|Civil|89200|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|08/30/2010|03/24/2023||||203240N|1445337E|20.5444559|144.8937267
+2631791|Village of Western Tinian|Civil|89300|C9|||Commonwealth of the Northern Mariana Islands|69|1|Tinian|120|08/30/2010|03/25/2023||||150043N|1453641E|15.0118381|145.6113823
+2633594|Village of Sarigan|Civil|60500|C9|||Commonwealth of the Northern Mariana Islands|69|1|Northern Islands|085|07/20/2010|03/25/2023||||164216N|1454644E|16.7043799|145.7788893

@@ -1,0 +1,7 @@
+FILE STORE
+https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/GeographicNames/FederalCodes/
+
+ALL CODES WEBSITE
+https://www.usgs.gov/us-board-on-geographic-names/download-gnis-data
+
+DOWNLOAD FedCodes_AllStates_Text.zip
