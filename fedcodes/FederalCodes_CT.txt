@@ -1,0 +1,1251 @@
+﻿feature_id|feature_name|feature_class|census_code|census_class_code|gsa_code|opm_code|state_name|state_numeric|county_sequence|county_name|county_numeric|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec
+205033|Abington|Populated Place|00170|U6|0003|3|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415138N|0720024W|41.8606534|-72.0067411
+205046|Addison|Populated Place|00240|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414306N|0723436W|41.7184328|-72.5767558
+205073|Allingtown|Populated Place|00520|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411751N|0725736W|41.2975971|-72.9601032
+205076|Almyville|Populated Place|00660|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414305N|0715158W|41.7181545|-71.8661829
+205084|Amesville|Populated Place|00800|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415746N|0732233W|41.962871|-73.3759526
+205090|Amston|Populated Place|00940|U6|0005|5|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413731N|0722035W|41.6253766|-72.3431379
+205094|Andover|Populated Place|01010|U6|0007|7|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414414N|0722213W|41.7373212|-72.37036
+205107|Ansonia|Populated Place|01150|P1|0010|10|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412046N|0730444W|41.3462078|-73.0789969
+205113|Aqua Vista|Populated Place|01330|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412646N|0732638W|41.4462057|-73.4440108
+205121|Arnolds|Populated Place|01345|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412757N|0723052W|41.4659324|-72.5145334
+205147|Attawan Beach|Populated Place|01640|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411811N|0721224W|41.3031533|-72.2067451
+205148|Attawaugan|Populated Place|01710|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415202N|0715252W|41.8673204|-71.8811831
+205154|Atwoodville|Populated Place|01780|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414705N|0721028W|41.7848206|-72.1745219
+205157|Augerville|Populated Place|01815|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412219N|0725421W|41.3720415|-72.9059353
+205171|Avon|Populated Place|01990|U6|0015|15|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414835N|0724950W|41.8098209|-72.8306541
+205188|Backus Corner|Populated Place|02200|U4|||Connecticut|09|1|Southeastern Connecticut|180|08/27/2002|06/07/2022||||413052N|0720616W|41.5145426|-72.1045222
+205200|Baileyville|Populated Place|02270|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413047N|0724328W|41.5131535|-72.7245407
+205209|Bakersville|Populated Place|02340|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414955N|0730148W|41.8320412|-73.0301066
+205236|Ballouville|Populated Place|02410|U6|0017|17|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415236N|0715140W|41.8767649|-71.8611827
+205240|Baltic|Census|02550|U5|0020|20|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/02/2022||||413701N|0720504W|41.6170428|-72.0845212
+205245|Bantam|Populated Place|02690|P1|0030|30|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414328N|0731410W|41.7245409|-73.2362262
+205321|Bayview|Populated Place|03110|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411244N|0730148W|41.2123196|-73.0301052
+205332|Beacon Falls|Populated Place|03180|U6|0038|38|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412634N|0730345W|41.4428745|-73.062608
+205383|Beaverbrook|Populated Place|03390|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412440N|0732511W|41.411206|-73.4198433
+205393|Beckettville|Populated Place|03460|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412335N|0732821W|41.3931504|-73.4726229
+205400|Bedlam Corner|Populated Place|03495|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414647N|0720916W|41.7798206|-72.1545215
+205437|Belle Haven|Populated Place|03670|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410032N|0733753W|41.0089864|-73.6315153
+205439|Belltown|Populated Place|03810|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410437N|0733143W|41.0770411|-73.528734
+205451|Berkshire|Populated Place|03950|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412431N|0731534W|41.4087069|-73.2595601
+205453|Berkshire Estates|Populated Place|04020|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412633N|0731530W|41.4425957|-73.2584489
+205454|Berlin|Populated Place|04230|U6|0046|46|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413717N|0724444W|41.621488|-72.7456519
+205458|Beseck Lake|Populated Place|04405|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413107N|0724405W|41.5187091|-72.7348188
+205469|Bethany|Populated Place|04510|U6|0049|49|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412518N|0725949W|41.4217637|-72.9970496
+205475|Bethel|Populated Place|04790|U5|0050|50|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412216N|0732450W|41.3712063|-73.4140097
+205478|Bethlehem|Populated Place|04860|U3|0051|51|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413823N|0731230W|41.6398185|-73.2084471
+205498|Bigelow Corners|Populated Place|04965|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412819N|0733016W|41.4720385|-73.5045685
+205513|Birch Groves|Populated Place|05000|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413249N|0732628W|41.5470388|-73.4412331
+205521|Birchwood|Populated Place|05210|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415352N|0724316W|41.8978756|-72.7212048
+205535|Bishops Corner|Populated Place|05350|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413452N|0725208W|41.5812091|-72.8689899
+205545|Black Hall|Populated Place|05490|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|411755N|0721906W|41.2987091|-72.3184155
+205551|Black Point|Populated Place|05560|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411710N|0721219W|41.2862088|-72.205356
+205552|Black Point Beach Club|Populated Place|05630|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411748N|0721214W|41.2967644|-72.2039672
+205560|Black Rock|Populated Place|05700|U4|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||410931N|0731331W|41.1587079|-73.2253911
+205590|Bloomfield|Populated Place|05840|U6|0060|60|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414935N|0724348W|41.826488|-72.7300945
+205625|Bolton|Populated Place|06190|U6|0064|64|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414608N|0722600W|41.7689878|-72.4334173
+205651|Botsford|Populated Place|06680|U6|0067|67|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412159N|0731525W|41.3664848|-73.2570601
+205694|Branford|Populated Place|07240|U3|0070|70|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411646N|0724854W|41.2795414|-72.8150989
+205711|Bretton Heights|Populated Place|07660|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413237N|0723934W|41.5437096|-72.6595381
+205720|Bridgeport|Populated Place|08000|P1|0080|80|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022|Official|Board Decision|01/01/1931|411001N|0731217W|41.1670412|-73.2048348
+205723|Bridgewater|Populated Place|08140|U6|0083|83|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413206N|0732158W|41.5350949|-73.3662305
+205725|Brightview|Populated Place|08350|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411618N|0725348W|41.2717638|-72.8967678
+205727|Bristol|Populated Place|08420|P1|0090|90|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414018N|0725657W|41.6717648|-72.9492703
+205729|Broad Brook|Populated Place|08770|U5|0095|95|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415444N|0723242W|41.9123196|-72.5450873
+205743|Brockway Landing|Populated Place|08810|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412319N|0722318W|41.3887098|-72.3884182
+205748|Brookfield|Populated Place|08910|U6|0098|98|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412857N|0732434W|41.4825947|-73.4095652
+205749|Brookfield Center|Populated Place|09050|U5|0096|96|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/12/2022||||412758N|0732315W|41.466206|-73.38762
+205750|Brooklyn|Census|09120|U5|0099|99|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/02/2022||||414717N|0715659W|41.7881541|-71.9497957
+205757|Brooksvale|Populated Place|09295|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412809N|0725457W|41.4692638|-72.9159362
+205796|Buckingham|Populated Place|09540|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414244N|0723120W|41.7123215|-72.5223093
+205827|Bulls Bridge|Populated Place|09750|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414032N|0733026W|41.6756496|-73.5073469
+205834|Bunker Hill|Populated Place|09960|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413416N|0730348W|41.571208|-73.0634415
+205849|Burnham|Populated Place|10240|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414757N|0723705W|41.7992659|-72.6181459
+205856|Burnside|Populated Place|10310|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414647N|0723625W|41.7798216|-72.6070344
+205857|Burnt Hill|Populated Place|10380|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413427N|0730202W|41.5742638|-73.0339959
+205873|Burrville|Populated Place|10520|U4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415206N|0730505W|41.8684293|-73.084831
+205902|Byram|Census|10660|U5|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022|Official|Board Decision|01/01/1966|410015N|0733913W|41.0042642|-73.6537385
+205923|Calhoun Corners|Populated Place|10695|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414813N|0732254W|41.8037057|-73.3817868
+205998|Canaan|Populated Place|10870|U5|0100|100|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420138N|0731945W|42.0273147|-73.3292834
+206000|Canaan Valley|Populated Place|11045|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420226N|0731524W|42.0406482|-73.2567806
+206009|Candlewood Knolls|Populated Place|11430|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412846N|0732748W|41.4795387|-73.4634559
+206010|Candlewood Lake Club|Populated Place|11500|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412940N|0732625W|41.4945388|-73.4403995
+206013|Candlewood Orchards|Populated Place|11640|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412807N|0732610W|41.4687057|-73.4362328
+206014|Candlewood Pines|Populated Place|11675|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412724N|0732710W|41.4567612|-73.4529
+206015|Candlewood Shores|Populated Place|11780|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412855N|0732631W|41.4820388|-73.4420663
+206021|Cannondale|Census|11990|U5|0102|102|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||411259N|0732531W|41.2164848|-73.4253986
+206026|Canterbury|Populated Place|12060|U6|0104|104|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414154N|0715815W|41.6984319|-71.9709075
+206028|Canton|Populated Place|12200|U6|0101|101|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414928N|0725337W|41.8245424|-72.8937122
+206072|Cedar Beach|Populated Place|12480|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411042N|0730552W|41.1784306|-73.0978857
+206076|Cedar Heights|Populated Place|12550|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412653N|0732608W|41.4481503|-73.4356772
+206088|Cedar Land|Populated Place|12830|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412826N|0731333W|41.4739847|-73.2259476
+206116|Cedarhurst|Populated Place|12620|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412536N|0731316W|41.4267626|-73.2212253
+206132|Center Groton|Populated Place|13110|U6|0575|575|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412301N|0720140W|41.3837096|-72.0278529
+206148|Centerbrook|Populated Place|13040|U6|0103|103|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412105N|0722457W|41.3514878|-72.4159193
+206149|Centerville|Populated Place|13250|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412302N|0725425W|41.383986|-72.9070465
+206156|Central Village|Populated Place|13460|U6|0105|105|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414322N|0715424W|41.7228766|-71.9067393
+206161|Chaffeeville|Populated Place|13530|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414741N|0721230W|41.7948205|-72.2084113
+206182|Chaplin|Populated Place|13740|U6|0108|108|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414741N|0720738W|41.7948205|-72.1272989
+206224|Cheshire|Populated Place|14090|U3|0110|110|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412956N|0725402W|41.4989861|-72.900658
+206228|Chester|Populated Place|14335|U3|0120|0120|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412411N|0722703W|41.4031547|-72.4509204
+206232|Chesterfield|Populated Place|14440|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412538N|0721252W|41.4273202|-72.2145238
+206290|City Point|Populated Place|14930|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411659N|0725542W|41.2831527|-72.9284355
+206309|Clarks Corner|Populated Place|15000|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414605N|0720533W|41.7681541|-72.0925761
+206310|Clarks Falls|Populated Place|15070|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412722N|0714851W|41.4562103|-71.8142363
+206314|Clarks Village|Populated Place|15140|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412137N|0715040W|41.3603774|-71.8445136
+206320|Clinton|Populated Place|15420|U5|0130|130|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411643N|0723139W|41.2787104|-72.5275904
+206323|Clinton Beach|Populated Place|15490|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411559N|0723001W|41.2664886|-72.5003674
+206328|Clintonville|Populated Place|15630|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412339N|0724901W|41.3942639|-72.8170437
+206361|Colchester|Populated Place|15840|U5|0140|140|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413432N|0721955W|41.5756543|-72.3320269
+206371|Colebrook|Populated Place|15980|U6|0145|145|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415922N|0730544W|41.9895388|-73.0956646
+206383|Collinsville|Populated Place|16120|U5|0150|150|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414846N|0725512W|41.8128757|-72.9201022
+206390|Columbia|Populated Place|16330|U6|0151|151|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414207N|0721804W|41.7020432|-72.3011917
+206406|Compo|Populated Place|16525|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410641N|0732118W|41.1114857|-73.3551173
+206417|Conantville|Populated Place|16680|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414419N|0721207W|41.7387099|-72.2020224
+206463|Cornwall|Populated Place|17170|U6|0154|154|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415037N|0731945W|41.8437058|-73.3292848
+206464|Cornwall Bridge|Populated Place|17310|U6|0155|155|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414907N|0732215W|41.8187057|-73.3709531
+206471|Cos Cob|Census|17520|U5|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022|Official|Board Decision|01/01/1944|410200N|0733558W|41.0334305|-73.5995698
+206476|Cottage Grove|Populated Place|17590|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414917N|0724144W|41.821488|-72.6956488
+206505|Cranbury|Populated Place|17870|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410850N|0732342W|41.1473187|-73.3951191
+206518|Crescent Beach|Populated Place|18010|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411854N|0721207W|41.3150978|-72.2020228
+206520|Crescent Park|Populated Place|18025|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411837N|0721211W|41.3103755|-72.2031339
+206527|Cromwell|Populated Place|18150|U6|0160|160|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413542N|0723843W|41.5950989|-72.6453705
+206549|Crystal Lake|Populated Place|18220|U5|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415554N|0722242W|41.9317636|-72.3784156
+206580|Danbury|Populated Place|18430|P1|0170|170|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412341N|0732714W|41.394817|-73.4540111
+206590|Danielson|Populated Place|18780|P1|0180|180|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414809N|0715309W|41.8025986|-71.8859054
+206593|Darien|Populated Place|18920|U5|0185|185|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410443N|0732809W|41.0787079|-73.4692873
+206628|Dayville|Populated Place|18990|U6|0188|188|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415047N|0715315W|41.8464872|-71.8875721
+206649|Deep River|Populated Place|19165|U3|0190|0190|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412308N|0722608W|41.3856546|-72.4356422
+206671|Derby|Populated Place|19480|P1|0200|200|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||411914N|0730520W|41.3206523|-73.0889973
+206679|Devon|Populated Place|19900|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411208N|0730606W|41.2023193|-73.101775
+206708|Dodgingtown|Populated Place|20250|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412245N|0732122W|41.3792621|-73.3562301
+206725|Double Beach|Populated Place|20460|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411529N|0724955W|41.2581526|-72.8320438
+206760|Durham|Populated Place|20740|U5|0205|0205|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412854N|0724052W|41.4817647|-72.6812059
+206761|Durham Center|Populated Place|20880|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|10/17/2019||||412829N|0724049W|41.4748202|-72.6803725
+206779|East Berlin|Populated Place|21020|U6|0209|209|Connecticut|09|1|Capitol|110|04/18/2023|04/18/2023||||413706N|0724249W|41.6184324|-72.7137063
+206779|East Berlin|Populated Place|21020|U6|0209|209|Connecticut|09|2|Lower Connecticut River Valley|130|04/18/2023|04/18/2023||||413706N|0724249W|41.6184324|-72.7137063
+206796|East Bridgeport|Populated Place|21090|U4|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411027N|0731049W|41.1742636|-73.1803893
+206797|East Bristol|Populated Place|21125|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413959N|0725442W|41.6664872|-72.9117689
+206799|East Brooklyn|Populated Place|21160|U5|0210|210|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414748N|0715350W|41.7967653|-71.8972946
+206800|East Canaan|Populated Place|21300|U6|0211|211|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420048N|0731701W|42.0134264|-73.2837269
+206808|East Derby|Populated Place|21440|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||411850N|0730439W|41.3139857|-73.0776079
+206810|East Farmington Heights|Populated Place|21650|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414354N|0724634W|41.7317668|-72.7762081
+206811|East Farms|Populated Place|21720|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413246N|0725857W|41.5462083|-72.9826052
+206813|East Glastonbury|Populated Place|21930|U6|0216|216|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414139N|0723201W|41.694266|-72.5336988
+206814|East Granby|Populated Place|22000|U6|0214|214|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415628N|0724338W|41.9412081|-72.7273158
+206816|East Haddam|Populated Place|22210|U6|0217|217|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412711N|0722740W|41.4531547|-72.4611984
+206818|East Hampton|Populated Place|22420|U5|0220|220|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413433N|0723009W|41.5759325|-72.5025877
+206819|East Hartford|Populated Place|22700|U5|0225|225|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414656N|0723643W|41.7823216|-72.6120346
+206821|East Hartford Gardens|Populated Place|22755|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414407N|0723646W|41.7353776|-72.6128682
+206822|East Hartland|Populated Place|22840|U6|0213|213|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415956N|0725419W|41.9989841|-72.9053787
+206823|East Haven|Populated Place|22980|U5|0222|222|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411634N|0725206W|41.2762081|-72.8684337
+206827|East Killingly|Populated Place|23190|U6|0221|221|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415057N|0714907W|41.8492652|-71.8186818
+206836|East Mountain|Populated Place|23610|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413148N|0730048W|41.530097|-73.0134397
+206840|East New London|Populated Place|23680|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412159N|0720557W|41.3664872|-72.0992432
+206841|East Norwalk|Populated Place|23750|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410620N|0732354W|41.1056523|-73.398452
+206845|East River|Populated Place|24240|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411707N|0723818W|41.2853759|-72.638427
+206862|East Thompson|Populated Place|24380|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||420032N|0714831W|42.0089865|-71.8086816
+206863|East Village|Populated Place|24520|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||412130N|0731111W|41.3584295|-73.1865015
+206864|East Wallingford|Populated Place|24590|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412637N|0724720W|41.4437085|-72.7889873
+206868|East Windsor Hill|Populated Place|24870|U6|0223|223|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415137N|0723611W|41.860376|-72.6031451
+206870|East Woodstock|Populated Place|24940|U6|0218|218|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415901N|0715838W|41.9837082|-71.977296
+206878|Eastford|Populated Place|21790|U6|0215|215|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415407N|0720447W|41.9020418|-72.0797979
+206880|Easton|Populated Place|23820|U6|0227|227|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411510N|0731750W|41.2528738|-73.2973394
+206885|Ebbs Corner|Populated Place|25010|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||420107N|0724452W|42.0187066|-72.7478715
+206928|Ellington|Populated Place|25290|U6|0228|228|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415414N|0722811W|41.9039863|-72.4698071
+206934|Ellithorpe|Populated Place|25465|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415942N|0721850W|41.995096|-72.3139692
+206944|Elmville|Populated Place|25640|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414953N|0715235W|41.8314874|-71.8764607
+206945|Elmwood|Populated Place|25780|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414359N|0724321W|41.7331558|-72.7225949
+206964|Enfield|Populated Place|25920|U6|0229|0229|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415834N|0723530W|41.9762077|-72.5917554
+206971|Essex|Populated Place|26200|U3|0230|230|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412112N|0722326W|41.353432|-72.3906406
+206987|Fabyan|Populated Place|26550|U6|0231|231|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||420049N|0715623W|42.013708|-71.9397953
+206990|Fair Haven|Populated Place|26830|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411840N|0725344W|41.3112082|-72.8956569
+206991|Fair Haven East|Populated Place|26900|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411752N|0725314W|41.2978749|-72.8873233
+206992|Fair Lawn|Populated Place|26970|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413245N|0730012W|41.5459304|-73.0034393
+206996|Fairfield|Populated Place|26690|U6|0235|235|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||410828N|0731549W|41.1412078|-73.2637258
+207005|Fairmount|Populated Place|27040|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413510N|0730319W|41.5862081|-73.0553856
+207025|Falls Village|Census|27390|U5|0236|0236|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/02/2022||||415721N|0732147W|41.9559266|-73.3631745
+207036|Farmington|Populated Place|27530|U6|0237|237|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414311N|0724955W|41.7198216|-72.8320435
+207043|Farmington Station|Populated Place|27460|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414315N|0725146W|41.7209325|-72.862878
+207058|Fenwick|Populated Place|27810|P1|0240|240|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411615N|0722113W|41.2709316|-72.3536947
+207060|Fenwood|Populated Place|27880|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411609N|0722159W|41.2692651|-72.3664729
+207073|Firetown|Populated Place|28230|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415418N|0724922W|41.9050972|-72.8228755
+207090|Fitchville|Populated Place|28300|U6|0242|242|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413353N|0720914W|41.5648205|-72.1539671
+207093|Five Points|Populated Place|28440|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415944N|0724743W|41.9956514|-72.7953737
+207101|Flanders|Populated Place|28580|U6|0219|219|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|412208N|0721303W|41.3689867|-72.2175791
+207122|Fogelmarks Corners|Populated Place|28895|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413608N|0723611W|41.6023213|-72.6031467
+207131|Forbes Village|Populated Place|28930|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414400N|0723558W|41.733433|-72.5995344
+207134|Forest Heights|Populated Place|29070|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411421N|0730236W|41.2392638|-73.0434393
+207137|Forest Village|Populated Place|29265|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414452N|0723547W|41.7478776|-72.5964786
+207138|Forestville|Populated Place|29280|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414036N|0725512W|41.676765|-72.9201026
+207155|Fort Trumbull|Populated Place|29440|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411235N|0730323W|41.2098195|-73.0564952
+207167|Four Corners|Populated Place|29525|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412658N|0721141W|41.4495425|-72.1948014
+207188|Foxon|Populated Place|29630|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411928N|0725007W|41.3245415|-72.8353774
+207235|Gales Ferry|Census|30190|U5|0246|246|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/02/2022||||412547N|0720455W|41.4298204|-72.0820212
+207270|Gaylordsville|Populated Place|30470|U6|0247|247|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413847N|0732903W|41.646483|-73.4842905
+207283|Georgetown|Populated Place|30540|U5|0248|0248|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411520N|0732605W|41.2556513|-73.4348438
+207284|Germantown|Populated Place|30610|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412429N|0732632W|41.4081504|-73.4423441
+207291|Giants Neck|Populated Place|30680|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411801N|0721357W|41.3003753|-72.232579
+207296|Gilbert Corners|Populated Place|30855|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411032N|0732622W|41.1756518|-73.4395653
+207300|Gildersleeve|Populated Place|30890|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413548N|0723715W|41.5967657|-72.6209252
+207320|Glastonbury|Populated Place|31170|U6|0255|255|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1892|414244N|0723629W|41.7123218|-72.608146
+207326|Glen Ridge|Populated Place|31450|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413004N|0730355W|41.5012077|-73.0653861
+207327|Glenbrook|Populated Place|31380|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410353N|0733134W|41.064819|-73.5262337
+207329|Glenville|Census|31520|U5|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||410207N|0733935W|41.035375|-73.6598501
+207344|Golden Spur|Populated Place|31730|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412209N|0721147W|41.3692646|-72.1964675
+207351|Goodrich Heights|Populated Place|31960|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413735N|0723908W|41.6264881|-72.6523151
+207352|Goodrichville|Populated Place|31980|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415840N|0724849W|41.9778738|-72.8137081
+207374|Goshen|Populated Place|32220|U6|0261|261|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414954N|0731330W|41.8317624|-73.2251145
+207391|Granbrook Park|Populated Place|32485|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415610N|0724614W|41.9362081|-72.7706508
+207392|Granby|Populated Place|32570|U6|0258|258|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415714N|0724719W|41.9539855|-72.7887071
+207397|Graniteville|Populated Place|32745|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412006N|0720913W|41.335098|-72.1536886
+207491|Greenfield Hill|Populated Place|33340|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411035N|0731730W|41.1764854|-73.2917826
+207496|Greens Farms|Populated Place|33480|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410726N|0731909W|41.1239856|-73.3192829
+207501|Greenville|Populated Place|33550|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413201N|0720326W|41.5337093|-72.057299
+207503|Greenwich|Census|33690|U5|0256|256|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||410135N|0733742W|41.0264862|-73.6284598
+207528|Griswoldville|Populated Place|33970|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414137N|0724014W|41.6937108|-72.6706486
+207530|Grosvenor Dale|Populated Place|34040|U6|0259|259|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415806N|0715341W|41.9684309|-71.8947944
+207531|Groton|Populated Place|34180|P1|0260|260|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412100N|0720442W|41.3500984|-72.0784092
+207535|Groton Long Point|Populated Place|34460|P1|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411852N|0720028W|41.3145432|-72.0078517
+207538|Grove Beach|Populated Place|34600|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411629N|0722900W|41.2748217|-72.4834223
+207548|Grover Hill|Populated Place|34810|U4|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||410847N|0731342W|41.1464857|-73.2284467
+207555|Guilford|Populated Place|34880|U3|0265|265|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411720N|0724054W|41.2889866|-72.6817616
+207580|Haddam|Populated Place|35160|U6|0266|266|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412838N|0723043W|41.4773213|-72.5120333
+207588|Hadlyme|Populated Place|35370|U6|0270|270|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412513N|0722423W|41.4203766|-72.4064743
+207593|Hale Court|Populated Place|35440|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410717N|0732103W|41.1214856|-73.3509506
+207627|Hamburg|Populated Place|35580|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412304N|0722100W|41.3845428|-72.3500836
+207629|Hamden|Populated Place|35720|U6|0267|267|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412345N|0725348W|41.3959304|-72.8967684
+207637|Hammertown|Populated Place|35835|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420235N|0732445W|42.0431475|-73.4126189
+207649|Hampton|Populated Place|35930|U6|0268|268|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414702N|0720317W|41.7839873|-72.0547977
+207663|Hanover|Populated Place|36210|U6|0269|269|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413833N|0720355W|41.6425984|-72.065354
+207672|Harbor View|Populated Place|36420|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411548N|0723055W|41.2634328|-72.5153679
+207673|Harborview|Populated Place|36350|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410455N|0732431W|41.0820413|-73.4087298
+207689|Harrisville|Populated Place|36560|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|12/13/2019||||415534N|0715612W|41.9262088|-71.9367397
+207721|Hattertown|Populated Place|37350|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412028N|0731832W|41.3412068|-73.3090062
+207732|Hawks Nest Beach|Populated Place|37420|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411700N|0721700W|41.283431|-72.283414
+207737|Hawleyville|Populated Place|37490|U6|0288|288|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412539N|0732118W|41.4275952|-73.3551189
+207739|Hawthorne Terrace|Populated Place|37560|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412732N|0732548W|41.4589835|-73.4301215
+207744|Hayestown|Populated Place|37700|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412512N|0732713W|41.4200947|-73.4537334
+207751|Hazardville|Populated Place|37770|U5|0290|290|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415914N|0723241W|41.9873187|-72.5448093
+207762|Hebron|Populated Place|37840|U6|0293|293|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413928N|0722157W|41.6578767|-72.3659161
+207807|Higganum|Populated Place|38050|U5|0295|295|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412949N|0723325W|41.4970432|-72.5570348
+207816|High Ridge|Populated Place|38190|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411008N|0733349W|41.1689848|-73.5637364
+207822|Highland|Populated Place|38085|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413356N|0724417W|41.5656541|-72.738152
+207824|Highland Park|Populated Place|38120|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414554N|0722945W|41.7650991|-72.495919
+207835|Hillcrest|Populated Place|38330|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413239N|0730607W|41.5442633|-73.1020541
+207863|Hoadley Neck|Populated Place|38505|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411546N|0724357W|41.2628748|-72.7325965
+207867|Hockanum|Populated Place|38540|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414426N|0723801W|41.7406555|-72.6337024
+207897|Hollywyle Park|Populated Place|38680|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412750N|0732733W|41.4639833|-73.4592891
+207925|Honeypot Glen|Populated Place|38750|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413121N|0725311W|41.5225974|-72.8864907
+207942|Hopeville|Populated Place|38820|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413153N|0730207W|41.5314858|-73.0353849
+207947|Hopewell|Populated Place|38985|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413952N|0723500W|41.6645437|-72.5834232
+207955|Horse Heaven|Populated Place|39010|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413702N|0731701W|41.617318|-73.2837277
+207973|Hoskins|Populated Place|39050|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415401N|0724709W|41.9003753|-72.7859296
+207976|Hotchkissville|Populated Place|39170|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413402N|0731301W|41.5673182|-73.2170585
+208032|Hunting Ridge|Populated Place|39330|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410726N|0733419W|41.1239852|-73.5720695
+208035|Huntington|Populated Place|39380|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||411747N|0730846W|41.2964854|-73.146222
+208054|Hydeville|Populated Place|39520|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415935N|0721634W|41.9931516|-72.2761905
+208084|Indian Neck|Populated Place|39730|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411540N|0724802W|41.261208|-72.800654
+208111|Ives Corner|Populated Place|39765|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412802N|0725421W|41.4673194|-72.9059358
+208112|Ivoryton|Populated Place|39800|U6|0300|300|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412054N|0722621W|41.3484324|-72.4392535
+208160|Jewett City|Populated Place|39940|P1|0310|0310|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413624N|0715851W|41.6067651|-71.9809081
+208203|Jordan|Populated Place|40000|U3|0811|811|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022|Official|Board Decision|01/01/1892|412021N|0720839W|41.3392648|-72.1442439
+208251|Kelseytown|Populated Place|40100|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411748N|0723156W|41.296766|-72.5323127
+208265|Kensington|Populated Place|40150|U5|0325|325|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413807N|0724607W|41.6353769|-72.7687083
+208267|Kent|Populated Place|40220|U6|0326|0326|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414329N|0732837W|41.7248164|-73.4770682
+208288|Killingly Center|Populated Place|40570|U6|0330|330|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415019N|0715209W|41.8387095|-71.8692383
+208292|Killingworth|Populated Place|40640|U6|0332|332|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412129N|0723349W|41.3581545|-72.5637023
+208307|Kings Corner|Populated Place|40780|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415640N|0723608W|41.9445414|-72.6023114
+208325|Knollcrest|Populated Place|40920|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412955N|0732759W|41.4987053|-73.4665116
+208326|Knollwood|Populated Place|40990|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411600N|0722300W|41.2667653|-72.3834181
+208357|Lake View Terrace|Populated Place|41760|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415649N|0722200W|41.9470411|-72.3667485
+208361|Lakeside|Populated Place|41690|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412559N|0731334W|41.4331515|-73.2262255
+208362|Lakeside|Populated Place|41620|U6|0333|333|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414056N|0731414W|41.6823185|-73.2373373
+208366|Lakeville|Census|41830|U5|0335|335|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/02/2022||||415752N|0732624W|41.9645371|-73.4401214
+208367|Lakewood|Populated Place|41900|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413447N|0730147W|41.5798193|-73.0298291
+208383|Lanesville|Populated Place|41970|U6|0570|570|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413208N|0732522W|41.5356501|-73.422899
+208398|Laurel Beach|Populated Place|42110|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411058N|0730537W|41.1828751|-73.0937189
+208401|Laurel Glen|Populated Place|42160|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412820N|0714853W|41.4723213|-71.8147922
+208416|Laysville|Populated Place|42250|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412055N|0721754W|41.3487091|-72.2984149
+208424|Lebanon|Populated Place|42320|U6|0338|338|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413810N|0721245W|41.6362097|-72.2125789
+208440|Leetes Island|Populated Place|42810|U6|0340|340|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411555N|0724251W|41.2653751|-72.7142626
+208455|Liberty Hill|Populated Place|42950|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413956N|0721517W|41.6656543|-72.2548017
+208472|Lime Rock|Populated Place|43090|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415601N|0732321W|41.9337045|-73.3892865
+208497|Litchfield|Populated Place|43300|P1|0350|0350|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414450N|0731119W|41.747319|-73.1887243
+208506|Little City|Populated Place|43510|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412651N|0723600W|41.4475986|-72.6000921
+208511|Little Haddam|Populated Place|43530|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412851N|0722645W|41.4809323|-72.44592
+208550|Long Hill|Populated Place|43580|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411556N|0731327W|41.2656518|-73.224281
+208552|Long Hill|Populated Place|43720|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413356N|0730122W|41.5656527|-73.0228844
+208579|Long Ridge|Populated Place|43860|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410920N|0733546W|41.1556515|-73.5962375
+208604|Lords Point|Populated Place|44070|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412009N|0715537W|41.3359325|-71.927016
+208605|Lordship|Populated Place|44000|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||410914N|0730643W|41.1539863|-73.1120528
+208624|Lower Merryall|Populated Place|44100|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413848N|0732456W|41.6467614|-73.4156769
+208640|Lydallville|Populated Place|44115|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414743N|0722925W|41.7953765|-72.4903633
+208646|Lyme Station|Populated Place|44230|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411806N|0721936W|41.3017648|-72.3267491
+208654|Lyons Plain|Populated Place|44280|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1948|411330N|0732046W|41.225096|-73.3462295
+208668|Madison|Populated Place|44595|U3|0360|0360|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411646N|0723554W|41.279543|-72.5984258
+208692|Manitock Spring|Populated Place|44875|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|412110N|0720942W|41.3528758|-72.1617444
+208693|Manchester|Populated Place|44690|U5|0365|0365|Connecticut|09|1|Capitol|110|09/12/1979|06/16/2010||||414633N|0723117W|41.7759324|-72.5214755
+208694|Manchester Green|Populated Place|44840|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414706N|0723001W|41.7850989|-72.5003636
+208699|Mansfield Center|Populated Place|45120|U5|0368|368|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414555N|0721153W|41.7653764|-72.1981334
+208700|Mansfield Hollow|Populated Place|45400|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414527N|0721109W|41.7575987|-72.185911
+208713|Marble Dale|Populated Place|45540|U6|0372|372|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413949N|0732208W|41.6637062|-73.3690086
+208717|Margerie Manor|Populated Place|45610|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412708N|0732802W|41.4523167|-73.467345
+208722|Marion|Populated Place|45680|U6|0371|371|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413349N|0725532W|41.5637086|-72.9256587
+208729|Marlborough|Populated Place|45750|U6|0369|369|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413753N|0722735W|41.631488|-72.459808
+208783|Mayberry Village|Populated Place|46170|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414643N|0723511W|41.7787104|-72.586478
+208789|McClaveville|Populated Place|44350|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022|Official|Board Decision|01/01/1960|420223N|0730546W|42.0398155|-73.0962194
+208811|Mechanicsville|Populated Place|46240|U6|0373|373|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415624N|0715337W|41.9400977|-71.8936833
+208812|Mechanicsville|Populated Place|46230|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415808N|0724737W|41.9689852|-72.7937072
+208819|Melville Village|Populated Place|46380|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411128N|0731404W|41.1912076|-73.2345586
+208834|Meriden|Populated Place|46450|P1|0370|370|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||413217N|0724825W|41.5381535|-72.8070435
+208848|Merwinsville|Populated Place|46695|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413851N|0732858W|41.6475941|-73.4829015
+208855|Mianus|Populated Place|46730|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410238N|0733528W|41.0439859|-73.5912362
+208860|Middle Beach|Populated Place|46800|U3|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411613N|0723539W|41.2703764|-72.5942591
+208863|Middle Haddam|Populated Place|47220|U6|0377|377|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413314N|0723300W|41.5539879|-72.5500896
+208872|Middlebury|Populated Place|46870|U6|0375|375|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413140N|0730739W|41.5278742|-73.1276107
+208874|Middlefield|Populated Place|47010|U6|0376|376|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413102N|0724243W|41.5173203|-72.7120402
+208877|Middletown|Populated Place|47290|P1|0380|380|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413344N|0723902W|41.5623209|-72.6506488
+208882|Milford|Populated Place|47500|P1|0385|0385|Connecticut|09|1|South Central Connecticut|170|09/12/1979|03/18/2011||||411320N|0730323W|41.2223194|-73.0564953
+208886|Milford Lawns|Populated Place|47570|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411329N|0730027W|41.2248196|-73.0076042
+208901|Mill Hill|Populated Place|47850|U4|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411038N|0730936W|41.1773192|-73.1601107
+208907|Mill Plain|Populated Place|47990|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412342N|0733056W|41.3950946|-73.5156799
+208927|Millbrook|Populated Place|47640|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412245N|0725334W|41.3792638|-72.8928793
+208928|Milldale|Populated Place|47780|U6|0382|382|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413357N|0725330W|41.565931|-72.8917685
+208938|Millstone|Populated Place|48060|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411839N|0720959W|41.3109313|-72.1664664
+208941|Millville|Populated Place|48130|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412927N|0730401W|41.4909299|-73.0670528
+208978|Mixville|Populated Place|48340|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413120N|0725608W|41.5223194|-72.9356591
+208987|Mohegan|Populated Place|48410|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412836N|0720559W|41.4767649|-72.0997997
+208995|Momauguin|Populated Place|48480|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411507N|0725234W|41.2520414|-72.8762117
+209004|Montowese|Populated Place|48760|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412101N|0725135W|41.3503749|-72.8598227
+209006|Palmertown|Populated Place|58860|U6|0386|386|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|412651N|0720751W|41.4475982|-72.1309112
+209012|Moodus|Populated Place|49110|U5|0389|389|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413010N|0722700W|41.5028768|-72.4500867
+209029|Moosup|Populated Place|49180|U5|0390|390|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414246N|0715251W|41.7128767|-71.8809054
+209049|Morningside|Populated Place|49250|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411246N|0730035W|41.2128752|-73.0098265
+209051|Morningside Park|Populated Place|49320|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412053N|0720738W|41.3481538|-72.1272992
+209052|Morris|Populated Place|49390|U6|0388|388|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414103N|0731146W|41.6842633|-73.1962245
+209055|Morris Cove|Populated Place|49530|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022|Official|Board Decision|01/01/1891|411529N|0725329W|41.2581526|-72.8914898
+209079|Mount Hope|Populated Place|49670|U6|||Connecticut|09|1|Capitol|110|09/12/1979|03/18/2010||||414926N|0721015W|41.8239869|-72.1709107
+209087|Mount Parnassus|Populated Place|49680|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412818N|0722446W|41.4717656|-72.4128634
+209164|Myrtle Beach|Populated Place|49740|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411146N|0730435W|41.1962084|-73.076496
+209165|Mystic|Populated Place|49810|U5|0400|0400|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412115N|0715759W|41.3542656|-71.966462
+209191|Naugatuck|Populated Place|49880|P1|0410|410|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412909N|0730302W|41.48593|-73.0506632
+209192|Naugatuck Gardens|Populated Place|50020|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411246N|0730543W|41.2128748|-73.0953859
+209217|New Britain|Populated Place|50370|P1|0420|420|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413940N|0724646W|41.6612104|-72.7795419
+209223|New Canaan|Populated Place|50650|U6|0425|425|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410848N|0732941W|41.146763|-73.4948446
+209228|New Fairfield|Populated Place|50790|U6|0426|426|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412759N|0732908W|41.4664832|-73.4856789
+209229|New Hartford|Populated Place|51385|U3|0428|0428|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415256N|0725837W|41.8823187|-72.9770488
+209231|New Haven|Populated Place|52000|P1|0430|430|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022|Official|Board Decision|01/01/1951|411829N|0725541W|41.3081527|-72.9281578
+209237|New London|Populated Place|52280|P1|0440|440|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412120N|0720558W|41.3556539|-72.0995209
+209242|New Milford|Populated Place|52560|U5|0450|450|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413437N|0732430W|41.5770391|-73.4084542
+209251|New Preston|Populated Place|52770|U5|0454|454|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414030N|0732106W|41.6750953|-73.3517858
+209260|Newberry Corner|Populated Place|50300|U4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414721N|0730824W|41.7892634|-73.1401111
+209262|Newent|Populated Place|50720|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413616N|0720104W|41.6045427|-72.0178534
+209263|Newfield|Populated Place|51000|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410625N|0733152W|41.1070409|-73.5312344
+209264|Newfield|Populated Place|50930|U4|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411041N|0730958W|41.1781525|-73.1662221
+209272|Newington|Populated Place|52210|U5|0435|435|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414152N|0724325W|41.6978777|-72.7237063
+209273|Newington Junction|Populated Place|52245|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414251N|0724413W|41.7142668|-72.73704
+209274|Newtown|Populated Place|52910|P1|0460|460|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412450N|0731812W|41.4139844|-73.3034505
+209276|Niantic|Populated Place|53120|U5|0470|470|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411931N|0721135W|41.3253756|-72.1931338
+209296|Noank|Populated Place|53260|U5|0490|490|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411940N|0715926W|41.3278767|-71.9906292
+209306|Norfolk|Census|53400|U5|0491|491|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/02/2022||||415938N|0731207W|41.9939828|-73.2020577
+209310|Noroton|Populated Place|53540|U6|0185|185|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410352N|0732919W|41.0645413|-73.4887323
+209311|Noroton Heights|Populated Place|53610|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410430N|0732930W|41.0750968|-73.491788
+209327|North Branford|Populated Place|53820|U6|0495|495|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411939N|0724602W|41.3275971|-72.7673198
+209344|North Colebrook|Populated Place|54150|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420103N|0730653W|42.0175938|-73.1148317
+209348|North Cromwell|Populated Place|54260|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413641N|0723837W|41.611488|-72.6437037
+209355|North Greenwich|Populated Place|54695|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410545N|0734121W|41.0959297|-73.6892962
+209356|North Grosvenor Dale|Populated Place|54730|U5|0500|500|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415908N|0715355W|41.9856531|-71.8986833
+209358|North Guilford|Populated Place|54800|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412201N|0724301W|41.3670419|-72.7170405
+209359|North Haven|Populated Place|54940|U5|0502|502|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412327N|0725134W|41.3909305|-72.859545
+209361|North Lyme|Populated Place|55055|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412443N|0722012W|41.4120428|-72.3367497
+209362|North Madison|Populated Place|55100|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412135N|0723812W|41.3598204|-72.6367601
+209364|North Mianus|Populated Place|55150|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410329N|0733453W|41.0581525|-73.5815136
+209375|North Somers|Populated Place|55260|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||420058N|0722653W|42.0162071|-72.4481398
+209377|North Stamford|Populated Place|55290|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410817N|0733236W|41.1381518|-73.5434574
+209379|North Stonington|Populated Place|55430|U6|0505|505|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412627N|0715252W|41.4409323|-71.8811827
+209381|North Thompsonville|Populated Place|55570|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||420058N|0723532W|42.016207|-72.5923109
+209382|North Westchester|Populated Place|55710|U6|0507|507|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413451N|0722404W|41.5809322|-72.4011956
+209383|North Windham|Populated Place|55780|U6|0508|508|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||414458N|0720916W|41.7495431|-72.1545216
+209384|North Woodbury|Populated Place|55850|U3|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413301N|0731219W|41.5503738|-73.2053913
+209389|Northfield|Populated Place|54380|U6|0496|496|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414141N|0730638W|41.6948193|-73.1106655
+209394|Northford|Populated Place|54450|U6|0497|497|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412337N|0724728W|41.3937084|-72.7912096
+209405|Norwalk|Populated Place|55990|P1|0510|510|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410703N|0732428W|41.1175966|-73.4078968
+209410|Norwich|Populated Place|56200|P1|0520|520|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413127N|0720433W|41.5242649|-72.0759105
+209413|Norwichtown|Populated Place|56340|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413311N|0720619W|41.5531539|-72.1053552
+209429|Nut Plains|Populated Place|56410|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411928N|0724103W|41.3245421|-72.6842617
+209442|Oakdale|Populated Place|56480|U6|0533|533|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412758N|0720926W|41.4662093|-72.1573008
+209443|Oakdale Manor|Populated Place|56550|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412640N|0731508W|41.4445401|-73.2523376
+209445|Oakland|Populated Place|56585|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414822N|0723104W|41.8062098|-72.5178642
+209446|Oakland Gardens|Populated Place|56620|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414433N|0724710W|41.7426001|-72.7862084
+209448|Oakville|Populated Place|56690|U5|0535|535|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413536N|0730507W|41.5934302|-73.0853867
+209452|Obtuse Hill|Populated Place|56725|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412759N|0732141W|41.4664839|-73.3615079
+209456|Occum|Populated Place|56760|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413542N|0720302W|41.5950983|-72.0506318
+209476|Old Greenwich|Census|56900|U5|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||410122N|0733353W|41.022875|-73.564846
+209482|Old Lyme|Populated Place|56970|U6|0539|0539|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411857N|0721944W|41.3159315|-72.3289715
+209483|Old Lyme Shores|Populated Place|57110|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411725N|0721629W|41.2903754|-72.2748026
+209491|Old Mystic|Populated Place|57180|U5|0543|0543|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412329N|0715742W|41.3914877|-71.9617401
+209498|Old Saybrook|Populated Place|57355|U3|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|411730N|0722234W|41.2917652|-72.3761956
+209515|Oneco|Populated Place|57530|U6|0534|0534|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|11/08/2019||||414137N|0714830W|41.6937102|-71.8084037
+209519|Orange|Populated Place|57670|U5|0538|0538|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411642N|0730132W|41.2784304|-73.0256609
+209525|Orcutts|Populated Place|57740|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415836N|0721918W|41.976763|-72.3217473
+209534|Oronoke|Populated Place|57810|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413229N|0730521W|41.5414855|-73.0892758
+209543|Oswegatchie|Populated Place|57950|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412118N|0721034W|41.355098|-72.1761892
+209546|Otter Cove Estates|Populated Place|58040|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412014N|0722214W|41.3373207|-72.3706398
+209562|Overlook|Populated Place|58090|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413400N|0730253W|41.5667636|-73.0481631
+209565|Owenoke|Populated Place|58160|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410624N|0732137W|41.1067635|-73.3603951
+209600|Palmers Hill|Populated Place|58825|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410349N|0733357W|41.063708|-73.5659576
+209655|Pawcatuck|Populated Place|59140|U5|0540|540|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412238N|0715001W|41.3773218|-71.8336802
+209659|Paynes Corners|Populated Place|59160|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412243N|0730004W|41.3787081|-73.0012162
+209695|Pemberwick|Census|59210|U5|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||410132N|0733938W|41.0256529|-73.6606834
+209709|Paucatuck Eastern Pequot Reservation|Civil|9280R|D4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|03/21/2023||||412643N|0715618W|41.4452725|-71.9382999
+209738|Phoenixville|Populated Place|59420|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415237N|0720509W|41.877042|-72.0859092
+209757|Pine Bridge|Populated Place|59490|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412541N|0730403W|41.4281523|-73.0676081
+209769|Pine Grove|Populated Place|59630|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412010N|0721106W|41.336209|-72.1850782
+209770|Pine Grove|Populated Place|59560|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415959N|0732116W|41.9998151|-73.3545629
+209789|Pine Meadow|Populated Place|59700|U6|0545|545|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415235N|0725801W|41.8764855|-72.9670484
+209794|Pine Orchard|Populated Place|59770|U6|0548|548|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411601N|0724637W|41.2670413|-72.7770422
+209801|Pine Rock Park|Populated Place|59840|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||411542N|0730543W|41.2617635|-73.0953862
+209815|Pinneys Corners|Populated Place|59880|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411111N|0733121W|41.1864848|-73.5226239
+209831|Plainfield|Populated Place|59910|U3|0550|550|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414035N|0715454W|41.6764876|-71.915073
+209834|Plainville|Populated Place|60190|U6|0555|555|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414028N|0725129W|41.6745432|-72.8581558
+209840|Plantsville|Populated Place|60260|U6|0560|560|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413501N|0725332W|41.583709|-72.8923241
+209842|Platts Mills|Populated Place|60330|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413052N|0730307W|41.5145411|-73.0520523
+209843|Plattsville|Populated Place|60365|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411322N|0731522W|41.2228741|-73.2562266
+209844|Pleasant Acres|Populated Place|60470|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412551N|0732651W|41.430928|-73.4476221
+209846|Pleasant Valley|Populated Place|60540|U6|0570|570|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415444N|0725916W|41.9123182|-72.9878825
+209852|Pleasure Beach|Populated Place|60610|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411836N|0720843W|41.3100981|-72.1453548
+209864|Plymouth|Populated Place|60680|U6|0572|572|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414019N|0730310W|41.6720418|-73.0528853
+209869|Lake Pocotopaug|Populated Place|41410|U5|||Connecticut|09|1|Lower Connecticut River Valley|130|08/27/2002|06/07/2022||||413554N|0723037W|41.5984325|-72.5103654
+209877|Point Beach|Populated Place|60820|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|07/20/2011||||411221N|0730109W|41.2059308|-73.0192713
+209882|Point O'Woods|Populated Place|60890|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411735N|0721516W|41.2931531|-72.254524
+209894|Pomfret|Populated Place|60960|U6|0573|0573|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|12/13/2019||||415351N|0715745W|41.8975977|-71.9625736
+209896|Pomfret Landing|Populated Place|61170|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|12/13/2019||||415058N|0715609W|41.8495425|-71.9359064
+209907|Pond Meadow|Populated Place|61310|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411939N|0722804W|41.3275993|-72.4678658
+209917|Ponset|Populated Place|61450|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|412754N|0723322W|41.4650988|-72.5562016
+209920|Ponus|Populated Place|61485|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410736N|0733111W|41.1267631|-73.5198453
+209924|Pootatuck Park|Populated Place|61520|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412545N|0731535W|41.4292624|-73.2598379
+209938|Poquonock|Populated Place|61660|U6|0576|0576|Connecticut|09|1|Capitol|110|09/12/1979|12/02/2019|Official|Board Decision|01/01/1906|415417N|0724043W|41.9048198|-72.6787032
+209939|Poquonock Bridge|Populated Place|61730|U5|0575|0575|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|08/25/2011||||412042N|0720129W|41.3450986|-72.0247969
+209949|Portland|Populated Place|61870|U5|0580|580|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413422N|0723826W|41.5728766|-72.6406483
+209979|Pratts Corner|Populated Place|61940|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413329N|0725112W|41.5581534|-72.8534339
+209993|Prospect|Populated Place|62360|U6|0585|585|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413008N|0725843W|41.5023192|-72.9787163
+210020|Putnam|Populated Place|62640|U5|0590|0590|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|11/05/2019||||415454N|0715432W|41.9150978|-71.9089613
+210025|Putnam Heights|Populated Place|62780|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|11/05/2019||||415332N|0715205W|41.8923203|-71.8681272
+210037|Quaker Farms|Populated Place|62990|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412539N|0730920W|41.4275962|-73.1556671
+210039|Quaker Hill|Populated Place|63060|U6|0600|600|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412412N|0720621W|41.4034315|-72.1059103
+210048|Quarryville|Populated Place|63130|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415152N|0722516W|41.8645422|-72.4211946
+210052|Quebec|Populated Place|63200|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414757N|0715316W|41.7992653|-71.8878499
+210055|Quinebaug|Populated Place|63270|U5|0603|0603|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||420125N|0715659W|42.0237078|-71.9497955
+210060|Quinnipiac|Populated Place|63305|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|11/05/2019||||412600N|0725002W|41.4334306|-72.8339888
+210146|Redding|Populated Place|63410|U6|0605|605|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1977|411809N|0732300W|41.3025956|-73.3834532
+210148|Redding Ridge|Populated Place|63690|U6|0607|607|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411850N|0732101W|41.3139845|-73.3503965
+210168|Reynolds Bridge|Populated Place|63760|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413926N|0730447W|41.6573194|-73.0798309
+210176|Richards Corner|Populated Place|63795|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412857N|0725418W|41.4825972|-72.9051026
+210183|Ridgefield|Populated Place|63900|U5|0610|610|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411653N|0732953W|41.2814842|-73.4981792
+210186|Ridgeway|Populated Place|64100|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410400N|0733320W|41.0667635|-73.5556794
+210187|Ridgewood|Populated Place|64180|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411534N|0723034W|41.259544|-72.5095344
+210201|Rising Corner|Populated Place|64320|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||420209N|0724243W|42.0359285|-72.712037
+210203|River Glen|Populated Place|64460|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414441N|0725145W|41.7448216|-72.8626002
+210204|Rivercliff|Populated Place|64390|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411141N|0730615W|41.1948193|-73.104275
+210206|Riverside|Census|64530|U5|0612|0612|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/02/2022||||410201N|0733441W|41.0337082|-73.57818
+210207|Riverside|Populated Place|64740|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412317N|0731021W|41.3881518|-73.1726122
+210208|Riverside|Populated Place|64600|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412542N|0731448W|41.4284291|-73.2467818
+210219|Riversville|Populated Place|64810|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410340N|0734030W|41.061208|-73.6751287
+210220|Riverton|Populated Place|64880|U6|0614|614|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415746N|0730100W|41.9628729|-73.0167726
+210252|Rock Raymond|Populated Place|65110|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411727N|0731627W|41.2909293|-73.2742829
+210253|Rock Ridge|Populated Place|65160|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410206N|0733845W|41.0350972|-73.6459606
+210259|Rockland|Populated Place|65065|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412442N|0723921W|41.4117648|-72.6559273
+210262|Rockville|Populated Place|65230|U5|0620|0620|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415200N|0722658W|41.8667645|-72.4495287
+210270|Rocky Glen|Populated Place|65300|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412557N|0731615W|41.4325957|-73.2709493
+210273|Rocky Hill|Populated Place|65440|U6|0630|630|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|413953N|0723821W|41.6648216|-72.6392587
+210280|Rogers|Populated Place|65510|U6|0631|631|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415025N|0715422W|41.8403761|-71.9061836
+210300|Roseland Park|Populated Place|65580|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415701N|0715722W|41.9503752|-71.9561845
+210308|Round Beach|Populated Place|65615|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410444N|0732345W|41.0789858|-73.3959516
+210330|Rowayton|Populated Place|65720|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410350N|0732611W|41.0639858|-73.4365082
+210334|Roxbury|Populated Place|65860|U6|0629|629|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413323N|0731831W|41.5564843|-73.3087285
+210338|Roxbury Station|Populated Place|66020|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413327N|0731952W|41.5575952|-73.3312293
+210353|Russian Village|Populated Place|66030|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412646N|0731508W|41.4462068|-73.2523376
+210608|Salisbury|Populated Place|66350|U6|0634|634|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415900N|0732516W|41.983426|-73.4212318
+210632|Sandy Beach|Populated Place|66630|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414140N|0731310W|41.6945409|-73.2195588
+210639|Sandy Hook|Populated Place|66700|U6|0636|636|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412512N|0731655W|41.4200956|-73.2820608
+210642|Sandy Point|Populated Place|66720|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412054N|0721102W|41.3484312|-72.1839671
+210653|Saugatuck|Populated Place|66770|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410721N|0732212W|41.1225967|-73.370118
+210656|Saugatuck Shores|Populated Place|66840|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410550N|0732214W|41.097319|-73.3706732
+210657|Saunders Point|Populated Place|66910|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412027N|0721108W|41.3409312|-72.1856337
+210680|Saybrook Manor|Populated Place|67050|U5|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411707N|0722356W|41.2853765|-72.3989743
+210682|Saybrook Point|Populated Place|67120|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411702N|0722114W|41.2839872|-72.3539724
+210687|Schaghticoke Reservation|Civil|9350R|D4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|03/21/2023||||414133N|0733033W|41.692509|-73.5091254
+210703|Scitico|Populated Place|67260|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415905N|0723056W|41.9848187|-72.5156417
+210705|Scotland|Populated Place|67330|U6|0637|637|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414154N|0720453W|41.6984319|-72.081465
+210724|Sea Bluff|Populated Place|67420|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411514N|0725753W|41.2539861|-72.9648252
+210730|Seaside|Populated Place|67440|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||411814N|0720757W|41.303987|-72.1325768
+210733|Seaview Beach|Populated Place|67470|U3|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411623N|0723502W|41.2731543|-72.5839809
+210758|Sellecks Corners|Populated Place|67575|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411107N|0733202W|41.1853737|-73.5340131
+210763|Seymour|Populated Place|67680|U6|0640|0640|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412348N|0730433W|41.3967634|-73.0759416
+210772|Shady Rest|Populated Place|67750|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412659N|0731634W|41.4498178|-73.2762273
+210774|Shailerville|Populated Place|67820|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412815N|0722943W|41.4709325|-72.495366
+210778|Sharon|Census|67890|U5|0649|649|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/02/2022||||415245N|0732836W|41.8792599|-73.4767897
+210782|Sharon Valley|Populated Place|68030|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415302N|0732932W|41.8839819|-73.4923458
+210800|Shelton|Populated Place|68100|P1|0650|650|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||411859N|0730535W|41.3164856|-73.0931641
+210817|Sherman Corner|Populated Place|68380|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414612N|0720810W|41.7700985|-72.1361879
+210827|Shewville|Populated Place|68485|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412918N|0715940W|41.4884314|-71.99452
+210834|Shippan Point|Populated Place|68520|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410140N|0733125W|41.0278749|-73.5237332
+210842|Short Beach|Populated Place|68660|U6|0657|657|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411541N|0725025W|41.2614859|-72.8403773
+210855|Silver Beach|Populated Place|68730|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411206N|0730351W|41.201764|-73.0642733
+210867|Silvermine|Populated Place|68800|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410905N|0732642W|41.1514852|-73.4451208
+210878|Simsbury|Populated Place|68870|U3|0660|660|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415233N|0724804W|41.8759311|-72.8012082
+210942|Snug Harbor|Populated Place|69100|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412634N|0732703W|41.4428724|-73.4509555
+210944|Sodom|Populated Place|69120|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420209N|0731751W|42.0359258|-73.2976155
+210950|Somers|Census|69150|U5|0663|663|Connecticut|09|1|Capitol|110|09/12/1979|06/02/2022||||415907N|0722646W|41.9853742|-72.4461952
+210952|Somersville|Populated Place|69360|U6|0664|664|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415858N|0722916W|41.9828744|-72.487863
+210955|Sound View|Populated Place|69430|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411720N|0721715W|41.2889866|-72.2875809
+210963|South Britain|Populated Place|69500|U6|0667|667|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412815N|0731505W|41.470929|-73.2515041
+210977|South Chaplin|Populated Place|69850|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414636N|0720752W|41.7767652|-72.1311878
+210983|South End|Populated Place|70130|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410223N|0733213W|41.0398192|-73.5370672
+210984|South End|Populated Place|70200|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411438N|0725338W|41.243986|-72.8939899
+210988|South Farms|Populated Place|70270|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413315N|0723834W|41.5542654|-72.6428707
+210990|South Glastonbury|Populated Place|70340|U6|0672|672|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414001N|0723548W|41.6670438|-72.596757
+210992|South Killingly|Populated Place|70690|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414728N|0714959W|41.7912099|-71.8331265
+210993|South Lyme|Populated Place|70760|U6|0683|683|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411819N|0721530W|41.3053753|-72.2584131
+210994|South Meriden|Populated Place|70900|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||413058N|0725001W|41.5162087|-72.8337112
+210998|South Norwalk|Populated Place|70970|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410537N|0732507W|41.0937079|-73.4187303
+211014|South Wethersfield|Populated Place|71110|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414125N|0723920W|41.6903774|-72.655648
+211015|South Wilton|Populated Place|71215|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411005N|0732458W|41.1681519|-73.4162311
+211016|South Windham|Populated Place|71250|U5|0682|682|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||414046N|0721013W|41.679543|-72.1703556
+211017|South Windsor|Populated Place|71320|U6|0686|686|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414925N|0723716W|41.8237099|-72.6212015
+211019|South Woodstock|Populated Place|71530|U5|0670|670|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415620N|0715734W|41.9389864|-71.9595179
+211020|Southbury|Populated Place|69570|U6|0669|669|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412853N|0731247W|41.4814848|-73.2131693
+211028|Southford|Populated Place|70305|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412752N|0730942W|41.4645405|-73.1617785
+211030|Southington|Populated Place|70480|U6|0680|680|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413547N|0725239W|41.5964869|-72.8776013
+211032|Southport|Census|71040|U5|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/02/2022||||410811N|0731700W|41.1364856|-73.2834486
+211077|Spring Glen|Populated Place|71880|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412148N|0725431W|41.3634304|-72.9087132
+211081|Spring Hill|Populated Place|71950|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414713N|0721326W|41.7870428|-72.2239671
+211089|Springdale|Populated Place|71810|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410516N|0733127W|41.0878745|-73.5242894
+211122|Stafford|Populated Place|72020|U6|0691|691|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415905N|0721720W|41.9848183|-72.2889686
+211125|Stafford Springs|Populated Place|72300|U5|0690|690|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415715N|0721808W|41.9542632|-72.3023023
+211126|Staffordville|Populated Place|72370|U6|0695|695|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415938N|0721531W|41.9939848|-72.25869
+211129|Stamford|Populated Place|73000|P1|0700|700|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410312N|0733219W|41.0534302|-73.5387341
+211141|Stanwich|Populated Place|73140|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410710N|0733709W|41.1195407|-73.6192935
+211160|Sterling|Populated Place|73350|U6|0705|705|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414227N|0714943W|41.707599|-71.828682
+211166|Stetson Corner|Populated Place|73525|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414710N|0720027W|41.7862094|-72.0075747
+211174|Stevenson|Populated Place|73560|U6|0707|707|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||412259N|0731104W|41.3831518|-73.1845571
+211194|Stillmans Corner|Populated Place|73630|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413345N|0725151W|41.5625978|-72.8642676
+211209|Stonington|Populated Place|73700|P1|0710|0710|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412009N|0715421W|41.3359327|-71.9059042
+211223|Stony Creek|Populated Place|73910|U6|0711|711|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411552N|0724446W|41.2645413|-72.746208
+211241|Straitsville|Populated Place|74050|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412811N|0730159W|41.469819|-73.0331625
+211244|Stratfield|Populated Place|74120|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411224N|0731409W|41.2067631|-73.2359477
+211246|Stratford|Populated Place|74260|U5|0715|715|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411104N|0730759W|41.1845415|-73.1331651
+211279|Suffield|Populated Place|74470|U6|0718|718|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415854N|0723902W|41.9817631|-72.6506462
+211329|Taconic|Populated Place|74750|U6|0720|720|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022|Official|Board Decision|01/01/1960|420208N|0732428W|42.0356476|-73.4078967
+211334|Taftville|Populated Place|74820|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413411N|0720250W|41.5698204|-72.0472986
+211342|Talcottville|Populated Place|74960|U6|0722|722|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414907N|0723002W|41.8187096|-72.5006413
+211343|Talmadge Hill|Populated Place|75030|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410707N|0732956W|41.1187076|-73.499011
+211359|Tariffville|Populated Place|75100|U5|0723|723|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415431N|0724536W|41.9087087|-72.7600951
+211392|Terryville|Populated Place|75240|U5|0725|725|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414041N|0730039W|41.6781533|-73.0109393
+211398|Thamesville|Populated Place|75450|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413036N|0720517W|41.5100982|-72.088133
+211445|Thomaston|Census|75660|U5|0740|740|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/02/2022||||414026N|0730423W|41.6739862|-73.073164
+211447|Thompson|Populated Place|75800|U6|0749|749|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415731N|0715145W|41.9587089|-71.8625715
+211454|Thompsonville|Populated Place|75940|U5|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415949N|0723556W|41.9970407|-72.5989777
+211490|Toilsome Hill|Populated Place|76080|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411207N|0731321W|41.2020409|-73.2226138
+211510|Torringford|Populated Place|76430|U4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414916N|0730448W|41.8212077|-73.0801086
+211514|Torrington|Populated Place|76500|P1|0760|0760|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414802N|0730716W|41.8006523|-73.1212214
+211535|Town Plot Hill|Populated Place|76920|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413220N|0730310W|41.5389857|-73.0528855
+211543|Tracy|Populated Place|76990|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||413008N|0724842W|41.5023197|-72.811766
+211578|Trumbull|Populated Place|77270|U5|0765|765|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411434N|0731202W|41.2428742|-73.2006687
+211588|Tunxis Hill|Populated Place|77410|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411034N|0731426W|41.1762077|-73.2406698
+211609|Turn of River|Populated Place|77480|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410611N|0733253W|41.1031521|-73.5481795
+211632|Twin Lakes|Populated Place|77550|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420106N|0732312W|42.0184257|-73.3867855
+211641|Tyler Lake Heights|Populated Place|77620|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415016N|0731613W|41.8378731|-73.2703939
+211652|Uncasville|Populated Place|77690|U3|0770|770|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412604N|0720635W|41.4345426|-72.1097996
+211654|Union|Populated Place|77760|U6|0775|775|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415927N|0720926W|41.9909296|-72.1572992
+211667|Union City|Populated Place|77900|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412948N|0730254W|41.4967634|-73.048441
+211676|Unionville|Populated Place|77970|U6|0780|780|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414528N|0725310W|41.7578769|-72.8862121
+211706|Upper Stepney|Populated Place|78110|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411921N|0731554W|41.3225959|-73.265116
+211753|Voluntown|Populated Place|78530|U6|0787|787|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||413414N|0715213W|41.5706544|-71.8703497
+211781|Wallingford|Populated Place|78810|U3|0790|0790|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412725N|0724923W|41.4570418|-72.8231552
+211782|Walnut Beach|Populated Place|78950|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411135N|0730459W|41.1931528|-73.083163
+211806|Wapping|Populated Place|79230|U6|0792|792|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414938N|0723311W|41.8273207|-72.5531433
+211815|Warehouse Point|Populated Place|79370|U6|0800|800|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415545N|0723705W|41.9292639|-72.6181454
+211824|Warrenville|Populated Place|79580|U6|0803|803|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415148N|0720945W|41.8634309|-72.1625772
+211851|Waterbury|Populated Place|80000|P1|0810|810|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413329N|0730305W|41.5581525|-73.0514966
+211862|Watertown|Census|80420|U5|0817|817|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/02/2022||||413622N|0730705W|41.6062078|-73.1181658
+211867|Waterville|Populated Place|80560|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413525N|0730303W|41.5903748|-73.050941
+211875|Wauregan|Populated Place|80630|U5|0820|820|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414439N|0715433W|41.7442655|-71.9092393
+211900|Welles Village|Populated Place|80980|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414340N|0723558W|41.7278775|-72.5995344
+211912|Wequetequock|Populated Place|81190|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412132N|0715245W|41.3589883|-71.879237
+211916|West Ashford|Populated Place|81330|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415124N|0721042W|41.8567644|-72.1784108
+211943|West Cheshire|Populated Place|81820|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413041N|0725506W|41.5114861|-72.9184364
+211945|West Cornwall|Populated Place|82030|U6|0821|821|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415217N|0732142W|41.8714831|-73.3617859
+211948|West Goshen|Populated Place|82450|U6|0824|824|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414938N|0731506W|41.8273178|-73.2517822
+211950|West Granby|Populated Place|82520|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415722N|0725033W|41.9562073|-72.8425984
+211952|West Hartford|Populated Place|82660|U5|0823|823|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414543N|0724431W|41.7620447|-72.7420399
+211953|West Haven|Populated Place|82800|P1|0825|825|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411614N|0725649W|41.2706527|-72.9470471
+211967|West Mystic|Populated Place|83080|U3|0830|830|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412102N|0715855W|41.3506544|-71.982018
+211983|West Shore|Populated Place|83780|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411432N|0725814W|41.2423194|-72.9706587
+211989|West Side Hill|Populated Place|83920|U4|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413314N|0730340W|41.5539857|-73.0612192
+211995|West Stafford|Populated Place|84060|U6|0839|839|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415814N|0722118W|41.970652|-72.3550816
+211996|West Suffield|Populated Place|84130|U6|0834|834|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415919N|0724131W|41.9887073|-72.6920365
+212003|West Torrington|Populated Place|84270|U4|0760|760|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414906N|0730837W|41.8184296|-73.1437223
+212005|West Wauregan|Populated Place|84550|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414455N|0715456W|41.7487099|-71.9156283
+212007|West Willington|Populated Place|84620|U6|0833|833|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415252N|0721807W|41.8812085|-72.3020246
+212008|West Woodstock|Populated Place|84830|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415716N|0720243W|41.9545415|-72.0453528
+212009|Westbrook|Populated Place|81610|U3|0822|822|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411707N|0722651W|41.285377|-72.4475874
+212014|Westfield|Populated Place|82310|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413505N|0724202W|41.584821|-72.7006505
+212017|Westford|Populated Place|82380|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415513N|0721034W|41.9203748|-72.1761885
+212021|Westminster|Populated Place|83010|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414234N|0720105W|41.7095429|-72.0181306
+212024|Weston|Populated Place|83360|U6|0832|832|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411203N|0732250W|41.2009294|-73.3806748
+212029|Westport|Populated Place|83570|U5|0835|835|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410829N|0732128W|41.1414855|-73.3578955
+212033|Westview Heights|Populated Place|84410|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413207N|0730539W|41.5353744|-73.094276
+212034|Westville|Populated Place|84480|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411950N|0725818W|41.3306527|-72.9717704
+212042|Wethersfield|Populated Place|84970|U5|0838|838|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414251N|0723909W|41.7142665|-72.6525922
+212065|Whigville|Populated Place|85180|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414359N|0725631W|41.7331541|-72.9420476
+212084|White Sands Beach|Populated Place|85600|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||411700N|0721815W|41.2834312|-72.3042482
+212099|Whitneyville|Populated Place|85670|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412039N|0725444W|41.3442638|-72.9123243
+212133|Wildermere Beach|Populated Place|85740|U4|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411122N|0730514W|41.1895417|-73.0873298
+212149|Willimantic|Populated Place|85810|U5|0840|840|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||414238N|0721229W|41.7106543|-72.2081338
+212166|Wilson|Populated Place|86160|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414843N|0723926W|41.8120435|-72.6573141
+212174|Wilsonville|Populated Place|86230|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||420044N|0715324W|42.0123194|-71.8900721
+212175|Wilton|Populated Place|86300|U3|0841|841|Connecticut|09|1|Western Connecticut|190|09/12/1979|01/29/2011||||411143N|0732616W|41.1953739|-73.4378988
+212184|Windham|Populated Place|86720|U6|0843|843|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||414159N|0720925W|41.6998208|-72.1570219
+212187|Windsor|Populated Place|86930|U6|0842|842|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415109N|0723837W|41.8525984|-72.6437022
+212188|Windsor Locks|Populated Place|87140|U5|0845|845|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415545N|0723738W|41.9292639|-72.6273124
+212190|Windsorville|Populated Place|87210|U6|0847|847|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415327N|0723207W|41.890931|-72.5353647
+212195|Winnipauk|Populated Place|87280|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410847N|0732518W|41.1464853|-73.4217866
+212198|Winsted|Populated Place|87350|U5|0850|850|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415516N|0730336W|41.9212066|-73.0601078
+212205|Winthrop|Populated Place|87420|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412142N|0722919W|41.3617661|-72.4886998
+212212|Wolcott|Populated Place|87490|U6|0852|852|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413608N|0725912W|41.6023196|-72.9867718
+212235|Woodbridge|Populated Place|87770|U6|0854|854|Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412109N|0730030W|41.352597|-73.0084385
+212238|Woodbury|Populated Place|87945|U3|0857|0857|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413240N|0731232W|41.5445404|-73.2090025
+212247|Woodmont|Populated Place|88050|P1|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411341N|0725929W|41.228153|-72.9914925
+212261|Woodstock|Populated Place|88120|U6|0858|858|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415654N|0715826W|41.9484307|-71.9739626
+212265|Woodstock Valley|Populated Place|88260|U6|0859|859|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415627N|0720418W|41.9409304|-72.0717422
+212266|Woodtick|Populated Place|88330|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413444N|0725841W|41.5789863|-72.9781605
+212303|Yalesville|Populated Place|88540|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412937N|0724925W|41.4937085|-72.8237109
+212305|Yantic|Populated Place|88610|U4|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413335N|0720725W|41.5598205|-72.1236889
+212329|Town of East Windsor|Civil|24800|T1|||Connecticut|09|1|Capitol|110|09/12/1979|03/24/2023||||415418N|0723402W|41.9048954|-72.5672056
+212330|Town of Ellington|Civil|25360|T1|||Connecticut|09|1|Capitol|110|08/27/2002|03/24/2023||||415455N|0722654W|41.9151794|-72.4484487
+212332|Town of Enfield|Civil|25990|T1|||Connecticut|09|1|Capitol|110|08/27/2002|03/24/2023||||415903N|0723317W|41.9840305|-72.5547385
+212338|Hartford County (historical)|Civil|99003|X0|||Connecticut|09|2|Naugatuck Valley|140|04/18/2023|04/18/2023||||414823N|0724358W|41.8064288|-72.7328123
+212338|Hartford County (historical)|Civil|99003|X0|||Connecticut|09|3|Northwest Hills|160|04/18/2023|04/18/2023||||414823N|0724358W|41.8064288|-72.7328123
+212338|Hartford County (historical)|Civil|99003|X0|||Connecticut|09|1|Capitol|110|04/18/2023|04/18/2023||||414823N|0724358W|41.8064288|-72.7328123
+212346|Town of Somers|Civil|69220|T1|||Connecticut|09|1|Capitol|110|08/27/2002|03/24/2023||||415942N|0722711W|41.9949843|-72.4530838
+212349|Town of Stafford|Civil|72090|T1|||Connecticut|09|1|Capitol|110|08/27/2002|03/24/2023||||415915N|0721844W|41.9875408|-72.3122991
+212351|Town of Suffield|Civil|74540|T1|||Connecticut|09|1|Capitol|110|09/12/1979|03/24/2023||||415940N|0724044W|41.9945144|-72.6789927
+212354|Town of Windsor|Civil|87000|T1|||Connecticut|09|1|Capitol|110|09/12/1979|03/24/2023||||415216N|0724025W|41.8710488|-72.6736145
+212355|Town of Windsor Locks|Civil|87070|T1|||Connecticut|09|1|Capitol|110|09/12/1979|03/24/2023||||415536N|0723916W|41.926711|-72.6543945
+212373|Dolphin Cove|Populated Place|20315|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1982|410133N|0733257W|41.0259305|-73.5492898
+212409|Ashford|Populated Place|01360|U6|0012|12|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415223N|0720717W|41.8731532|-72.1214653
+212410|Aspetuck|Populated Place|01570|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411305N|0731915W|41.2181517|-73.3209508
+212415|Barkhampsted Center|Populated Place|02730|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415544N|0725759W|41.9289848|-72.9664927
+212416|Barkhamsted|Populated Place|02750|U6|0033|33|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415545N|0725450W|41.9292629|-72.9139904
+212417|Bashan|Populated Place|03040|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413047N|0722600W|41.5131545|-72.4334194
+212421|Bradleyville|Populated Place|07000|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413124N|0730455W|41.5234299|-73.0820534
+212422|Branchville|Populated Place|07100|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411603N|0732630W|41.2675956|-73.4417885
+212423|Breakneck|Populated Place|07555|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415312N|0723933W|41.8867646|-72.6592581
+212424|Brockway|Populated Place|08790|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412340N|0722248W|41.394543|-72.3800846
+212426|Buckland|Populated Place|09610|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414746N|0723302W|41.79621|-72.5506433
+212428|Burlington|Populated Place|10030|U6|0089|89|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414609N|0725752W|41.7692648|-72.9645484
+212430|Campville|Populated Place|10835|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414414N|0730620W|41.7373195|-73.1056652
+212431|Candlewood Point|Populated Place|11710|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413211N|0732626W|41.5364833|-73.4406775
+212432|Candlewood Springs|Populated Place|11850|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413335N|0732622W|41.5598166|-73.4395664
+212433|Canton Center|Populated Place|12340|U6|0106|106|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415123N|0725454W|41.8564862|-72.9151019
+212434|Cherry Park|Populated Place|14055|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414841N|0725313W|41.8114871|-72.8870453
+212435|Clayville|Populated Place|15175|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413702N|0715839W|41.6173206|-71.9775747
+212436|Cobalt|Populated Place|15700|U6|0136|136|Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413344N|0723319W|41.5623212|-72.5553674
+212443|Doaneville|Populated Place|20180|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413418N|0715230W|41.5717655|-71.8750721
+212444|Drakeville|Populated Place|20670|U4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415118N|0730926W|41.8550958|-73.1573339
+212445|East Cornwall|Populated Place|21370|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414833N|0731826W|41.809262|-73.3073398
+212446|East Kent|Populated Place|23175|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414404N|0732413W|41.7345393|-73.4037323
+212447|East Litchfield|Populated Place|23260|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414543N|0730706W|41.7620416|-73.1184435
+212448|East Morris|Populated Place|23540|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414118N|0731048W|41.68843|-73.1801128
+212449|East Plymouth|Populated Place|24030|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414135N|0725953W|41.6931534|-72.9981609
+212450|East Putnam|Populated Place|24170|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|11/05/2019||||415449N|0714900W|41.9137093|-71.8167372
+212451|East Willington|Populated Place|24660|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415225N|0721413W|41.8737085|-72.2370229
+212452|Ekonk|Populated Place|25150|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||413844N|0715051W|41.6456545|-71.8475714
+212453|Elliotts|Populated Place|25430|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415000N|0720042W|41.8334313|-72.0117413
+212454|Ellsworth|Populated Place|25500|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414948N|0732537W|41.830094|-73.4270661
+212456|Exeter|Populated Place|26515|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413711N|0721551W|41.6198208|-72.2642467
+212457|Farnhams|Populated Place|27705|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415146N|0723334W|41.8628759|-72.5595324
+212459|Flanders|Populated Place|28510|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414426N|0732718W|41.74065|-73.4551231
+212460|Floydville|Populated Place|28860|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415543N|0724647W|41.9287082|-72.779818
+212461|Fort Trumbull|Populated Place|29460|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412037N|0720535W|41.3437094|-72.0931317
+212462|Franklin|Populated Place|29840|U6|0244|244|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413632N|0720845W|41.6089873|-72.1459112
+212463|Gilead|Populated Place|30960|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414024N|0722430W|41.6734323|-72.4084172
+212464|Gilman|Populated Place|31030|U6|0254|0254|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413437N|0721157W|41.5770428|-72.1992457
+212465|Glasgo|Populated Place|31100|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413321N|0715317W|41.555932|-71.888128
+212466|Grantville|Populated Place|32780|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415704N|0730923W|41.9512057|-73.1565004
+212467|Grappaville|Populated Place|32815|U6|||Connecticut|09|1|Northwest Hills|160|08/27/2002|06/07/2022||||414315N|0731341W|41.7209298|-73.2281702
+212468|Gurleyville|Populated Place|35090|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414851N|0721316W|41.8142648|-72.2211893
+212469|Hallville|Populated Place|35510|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412936N|0720159W|41.4934314|-72.0331319
+212470|Hampsted|Populated Place|35880|U6|||Connecticut|09|1|Capitol|110|04/18/2023|04/18/2023||||415701N|0725343W|41.9503738|-72.8953784
+212470|Hampsted|Populated Place|35880|U6|||Connecticut|09|2|Northwest Hills|160|04/18/2023|04/18/2023||||415701N|0725343W|41.9503738|-72.8953784
+212471|Hancock|Populated Place|36100|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413811N|0730125W|41.6364863|-73.0237177
+212472|Happyland|Populated Place|36280|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412822N|0720352W|41.472876|-72.0645212
+212473|Harrisons|Populated Place|36490|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412312N|0720601W|41.386765|-72.1003545
+212474|Hartland|Populated Place|37130|U6|0282|282|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415946N|0725846W|41.996206|-72.9795488
+212475|Harwinton|Populated Place|37210|U6|0286|286|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414616N|0730335W|41.7712085|-73.05983
+212476|Hayden|Populated Place|37630|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415321N|0723745W|41.8892645|-72.629257
+212478|Hickory Haven|Populated Place|37945|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413730N|0732339W|41.6250949|-73.3942872
+212479|Hilliardville|Populated Place|38365|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414703N|0723319W|41.7842658|-72.5553657
+212480|Hope Valley|Populated Place|38785|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||413801N|0722230W|41.63371|-72.3750833
+212481|Hopeville|Populated Place|38890|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413645N|0715618W|41.6125985|-71.938407
+212482|Hopewell|Populated Place|38970|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412050N|0732011W|41.3473178|-73.3365072
+212483|Hungary|Populated Place|39295|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415836N|0724644W|41.9767629|-72.7789842
+212484|Huntingtown|Populated Place|39450|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412129N|0731707W|41.3581514|-73.2853943
+212485|Huntsville|Populated Place|39485|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415641N|0731845W|41.944816|-73.3126174
+212487|Jericho|Populated Place|39860|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412012N|0721754W|41.3367647|-72.2984148
+212489|Kent Furnace|Populated Place|40360|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414415N|0732809W|41.7375943|-73.4692902
+212490|Kenyonville|Populated Place|40395|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415546N|0720457W|41.9295416|-72.0825758
+212491|Kitemaug|Populated Place|40850|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412644N|0720518W|41.4456538|-72.0884103
+212493|Lattins Landing|Populated Place|42040|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412657N|0732544W|41.4492614|-73.4290103
+212495|Leesville|Populated Place|42740|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413042N|0722852W|41.5117658|-72.4811987
+212496|Lower City|Populated Place|44085|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415529N|0731634W|41.9248164|-73.2762273
+212497|Macedonia|Populated Place|44420|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414434N|0732956W|41.7428718|-73.4990135
+212498|Mansfield City|Populated Place|45190|U6|0369|0369|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414557N|0721401W|41.7659319|-72.2336896
+212499|Maromas|Populated Place|45960|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413236N|0723338W|41.5434322|-72.5606456
+212500|Mashapaug|Populated Place|46030|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||420138N|0720817W|42.0273181|-72.1381323
+212501|Massapeag|Populated Place|46100|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412728N|0720451W|41.457876|-72.0809103
+212502|Melrose|Populated Place|46310|U6|0374|374|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415615N|0723116W|41.9375971|-72.5211975
+212503|Midway|Populated Place|47395|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412029N|0720200W|41.3414875|-72.0334082
+212506|Millington|Populated Place|47920|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||412909N|0722119W|41.4859319|-72.3553615
+212507|Milton|Populated Place|48200|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414612N|0731621W|41.770096|-73.2726165
+212508|Minortown|Populated Place|48270|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413434N|0731027W|41.5762074|-73.174279
+212509|Miramichi|Populated Place|48285|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413259N|0724202W|41.5498206|-72.7006507
+212510|Miry Brook|Populated Place|48300|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412159N|0732856W|41.3664838|-73.4823454
+212511|Mitcheltown|Populated Place|48315|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415130N|0732737W|41.8584268|-73.4604004
+212512|Monroe|Populated Place|48550|U6|0387|387|Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411957N|0731226W|41.3325962|-73.2073358
+212513|Mooreville|Populated Place|49145|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415434N|0730336W|41.90954|-73.0601078
+212514|Murray|Populated Place|49720|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411140N|0731708W|41.1945408|-73.2856716
+212515|Mystic Seaport|Populated Place|49830|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412140N|0715759W|41.36121|-71.9664621
+212516|Naugatuck Junction|Populated Place|50055|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411227N|0730620W|41.207597|-73.1056641
+212518|Nepaug|Populated Place|50230|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414947N|0725956W|41.8298192|-72.9989941
+212519|Newfield|Populated Place|51070|U4|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415128N|0730745W|41.8578737|-73.1292772
+212520|Newfield Heights|Populated Place|51140|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413327N|0724030W|41.5575986|-72.6750942
+212521|Nichols|Populated Place|53190|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411427N|0730940W|41.2409299|-73.1612225
+212522|North Ashford|Populated Place|53680|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415715N|0720617W|41.9542636|-72.1047983
+212523|North Bloomfield|Populated Place|53750|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415310N|0724447W|41.8862091|-72.7464835
+212524|North Canton|Populated Place|54100|U6|0494|494|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415352N|0725333W|41.8978746|-72.8926008
+212525|North Franklin|Populated Place|54520|U6|0498|498|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413800N|0720948W|41.6334318|-72.1634114
+212526|North Goshen|Populated Place|54625|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415355N|0731244W|41.898706|-73.2123361
+212527|North Granby|Populated Place|54660|U5|0499|499|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415945N|0724946W|41.9959289|-72.829542
+212528|North Hollow|Populated Place|54975|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420202N|0725548W|42.0339831|-72.9301018
+212529|North Kent|Populated Place|55010|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414601N|0732542W|41.7670389|-73.4284554
+212530|North Wilton|Populated Place|55745|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411244N|0732758W|41.2123181|-73.4662333
+212531|North Woodstock|Populated Place|55920|U6|0509|509|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415925N|0715949W|41.9903748|-71.9970186
+212532|Northville|Populated Place|55640|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413745N|0732335W|41.6292616|-73.3931761
+212533|Ore Hill|Populated Place|57760|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415726N|0732801W|41.9573148|-73.4670667
+212534|Oronoque|Populated Place|57880|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411452N|0730605W|41.2478746|-73.1014975
+212535|Oxford|Populated Place|58230|U6|0541|541|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||412602N|0730700W|41.4339853|-73.1167766
+212536|Pachaug|Populated Place|58580|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413503N|0715626W|41.5842652|-71.9406294
+212538|Palestine|Populated Place|58790|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412156N|0731911W|41.3656512|-73.31984
+212539|Pegville|Populated Place|59180|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415823N|0724824W|41.9731517|-72.8067633
+212540|Pequabuck|Populated Place|59280|U6|0542|542|Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||414022N|0725935W|41.6728755|-72.9931608
+212541|Mashantucket Pequot Reservation|Civil|2145R|D1|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|03/21/2023||||412752N|0715829W|41.4644695|-71.9747539
+212543|Pine Hill|Populated Place|59665|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415144N|0724842W|41.8623202|-72.8117642
+212544|Pineville|Populated Place|59860|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415258N|0715104W|41.882876|-71.8511824
+212545|Podunk|Populated Place|60800|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||411920N|0723906W|41.3223202|-72.6517607
+212546|Pomeraug|Populated Place|60925|U6|||Connecticut|09|1|Naugatuck Valley|140|09/12/1979|06/07/2022||||413134N|0731239W|41.526207|-73.2109471
+212547|Pomfret Center|Populated Place|61100|U6|0574|0574|Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|12/13/2019||||415314N|0715743W|41.88732|-71.962018
+212548|Poquetanuck|Populated Place|61590|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/16/2011|Official|Board Decision|01/01/1906|412911N|0720225W|41.486487|-72.0403542
+212549|Puddle Town|Populated Place|62570|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415200N|0725729W|41.8667635|-72.9581591
+212550|Putney|Populated Place|62850|U6|||Connecticut|09|1|Greater Bridgeport|120|09/12/1979|06/07/2022||||411406N|0730642W|41.2350968|-73.1117757
+212551|Quaddick|Populated Place|62920|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415618N|0714914W|41.9384313|-71.8206262
+212552|Quakertown|Populated Place|63095|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412436N|0720015W|41.4100984|-72.0042416
+212553|Rainbow|Populated Place|63340|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415505N|0724133W|41.918153|-72.6925925
+212554|Rawson|Populated Place|63375|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||414825N|0720409W|41.8070426|-72.0692423
+212555|Ridgebury|Populated Place|63830|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||412138N|0733127W|41.3606503|-73.5242913
+212556|Riverbank|Populated Place|64355|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410617N|0733511W|41.1048187|-73.5865143
+212557|Riverdale|Populated Place|64410|U6|||Connecticut|09|1|Lower Connecticut River Valley|130|09/12/1979|06/07/2022||||413341N|0723458W|41.5614878|-72.5828685
+212558|Robertsville|Populated Place|64950|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415844N|0730238W|41.9789837|-73.0439959
+212560|Romford|Populated Place|65545|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414031N|0731727W|41.6753737|-73.2909503
+212561|Roxbury Falls|Populated Place|66000|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413030N|0731838W|41.5084286|-73.3106728
+212562|Salem|Populated Place|66140|U6|0632|632|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412925N|0721631W|41.4903761|-72.275359
+212563|Sanfordtown|Populated Place|66740|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411741N|0732144W|41.2948179|-73.3623415
+212564|Scantic|Populated Place|67190|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415346N|0723309W|41.8962087|-72.5525876
+212565|Sherman|Populated Place|68240|U6|0655|655|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||413445N|0732944W|41.5792607|-73.4956795
+212566|Shorehaven|Populated Place|68590|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1963|410530N|0732318W|41.0917635|-73.3884515
+212568|South Canaan|Populated Place|69710|U6|0668|668|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415742N|0732000W|41.9617602|-73.3334513
+212569|South Ellsworth|Populated Place|70060|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414908N|0732545W|41.818983|-73.4292884
+212570|South Kent|Populated Place|70620|U6|0681|681|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414046N|0732814W|41.6795386|-73.470679
+212571|South Norfolk|Populated Place|70935|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415523N|0731226W|41.9231503|-73.2073359
+212572|Thames View|Populated Place|75380|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412340N|0720632W|41.3945426|-72.1089658
+212574|Titicus|Populated Place|76010|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411732N|0733012W|41.2923175|-73.5034572
+212575|Tokeneke|Populated Place|76150|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1963|410400N|0732758W|41.0667636|-73.4662316
+212577|Topstone|Populated Place|76400|U6|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||411745N|0732656W|41.2959287|-73.4490109
+212578|Town Hill|Populated Place|76780|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||415111N|0725956W|41.8531523|-72.9989941
+212580|Trails Corner|Populated Place|77060|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||412029N|0720326W|41.3414874|-72.0572976
+212582|Vernon|Populated Place|78320|U6|0785|785|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414907N|0722846W|41.8187095|-72.4795296
+212583|Versailles|Populated Place|78460|U6|0786|0786|Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413606N|0720214W|41.601765|-72.0372982
+212584|Warren|Populated Place|79440|U6|0801|801|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414434N|0732055W|41.7428733|-73.3487304
+212585|Washington|Populated Place|79650|U6|0802|802|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||413753N|0731838W|41.6314845|-73.3106731
+212587|West Avon|Populated Place|81470|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414723N|0725148W|41.789821|-72.8634333
+212588|West Hartland|Populated Place|82730|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420027N|0725814W|42.0075947|-72.9706594
+212590|West Norwalk|Populated Place|83290|U4|||Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022||||410630N|0732744W|41.1084299|-73.462343
+212591|West Redding|Populated Place|83710|U6|0837|0837|Connecticut|09|1|Western Connecticut|190|09/12/1979|06/07/2022|Official|Board Decision|01/01/1977|411935N|0732603W|41.3264842|-73.4342882
+212592|West Simsbury|Populated Place|83990|U5|0836|836|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415223N|0725129W|41.8731531|-72.8581549
+212593|West Thompson|Populated Place|84200|U6|||Connecticut|09|1|Northeastern Connecticut|150|09/12/1979|06/07/2022||||415642N|0715439W|41.9450976|-71.9109058
+212594|West Woods|Populated Place|84760|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414833N|0732829W|41.8092605|-73.4748457
+212595|Westchester|Populated Place|81890|U6|||Connecticut|09|1|Southeastern Connecticut|180|09/12/1979|06/07/2022||||413302N|0722443W|41.5506545|-72.4120295
+212600|Woodville|Populated Place|88400|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||414217N|0731749W|41.7048181|-73.2970617
+212622|Eagleville|Populated Place|20950|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|414712N|0721635W|41.7867652|-72.2764683
+212631|Mansfield Four Corners|Populated Place|45330|U6|||Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414938N|0721558W|41.8273201|-72.2661903
+212632|Mansfield Depot|Populated Place|45260|U6|0367|367|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414805N|0721823W|41.8014872|-72.3064691
+212634|Merrow|Populated Place|46660|U6|0366|366|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||414928N|0721837W|41.8245425|-72.3103581
+212642|North Coventry|Populated Place|54215|U6|0156|156|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414754N|0722218W|41.7984318|-72.3717488
+212652|Coventry|Populated Place|17730|U6|0156|156|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414612N|0721818W|41.7700987|-72.3050803
+212654|South Willington|Populated Place|71180|U6|0684|0684|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415119N|0721805W|41.8553755|-72.301469
+212656|Storrs|Populated Place|73980|U5|0713|713|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|414830N|0721458W|41.8084314|-72.2495231
+212658|Tolland|Populated Place|76220|U6|0756|756|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415217N|0722207W|41.8714865|-72.3686931
+212665|Willington Hill|Populated Place|86020|U6|0846|846|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022||||415230N|0721550W|41.8750974|-72.2639679
+212667|Town of Tolland|Civil|76290|T1|||Connecticut|09|1|Capitol|110|08/27/2002|03/24/2023||||415243N|0722153W|41.8785971|-72.3648099
+212668|Tolland County (historical)|Civil|99013|X0|||Connecticut|09|1|Capitol|110|04/18/2023|04/18/2023||||415118N|0722011W|41.855066|-72.3365017
+212668|Tolland County (historical)|Civil|99013|X0|||Connecticut|09|2|Northeastern Connecticut|150|04/18/2023|04/18/2023||||415118N|0722011W|41.855066|-72.3365017
+212774|Allyn Point|Populated Place|00590|U6|||Connecticut|09|1|Southeastern Connecticut|180|08/27/2002|06/07/2022||||412630N|0720443W|41.4417649|-72.0786879
+212794|Fairfield County (historical)|Civil|99001|X0|||Connecticut|09|2|Greater Bridgeport|120|04/18/2023|04/18/2023||||411330N|0732216W|41.2249601|-73.3712046
+212794|Fairfield County (historical)|Civil|99001|X0|||Connecticut|09|1|Western Connecticut|190|04/18/2023|04/18/2023||||411330N|0732216W|41.2249601|-73.3712046
+212794|Fairfield County (historical)|Civil|99001|X0|||Connecticut|09|3|Naugatuck Valley|140|04/18/2023|04/18/2023||||411330N|0732216W|41.2249601|-73.3712046
+212796|Litchfield County (historical)|Civil|99005|X0|||Connecticut|09|3|Western Connecticut|190|04/18/2023|04/18/2023||||414733N|0731443W|41.7924974|-73.2453201
+212796|Litchfield County (historical)|Civil|99005|X0|||Connecticut|09|2|Naugatuck Valley|140|04/18/2023|04/18/2023||||414733N|0731443W|41.7924974|-73.2453201
+212796|Litchfield County (historical)|Civil|99005|X0|||Connecticut|09|1|Northwest Hills|160|04/18/2023|04/18/2023||||414733N|0731443W|41.7924974|-73.2453201
+212797|Middlesex County (historical)|Civil|99007|X0|||Connecticut|09|1|Lower Connecticut River Valley|130|04/18/2023|04/18/2023||||412607N|0723123W|41.4353818|-72.5231194
+212798|New Haven County (historical)|Civil|99009|X0|||Connecticut|09|2|Naugatuck Valley|140|04/18/2023|04/18/2023||||412056N|0725359W|41.3488232|-72.8998568
+212798|New Haven County (historical)|Civil|99009|X0|||Connecticut|09|1|South Central Connecticut|170|04/18/2023|04/18/2023||||412056N|0725359W|41.3488232|-72.8998568
+212799|New London County (historical)|Civil|99011|X0|||Connecticut|09|1|Southeastern Connecticut|180|04/18/2023|04/18/2023||||412800N|0720623W|41.4667862|-72.1065129
+212799|New London County (historical)|Civil|99011|X0|||Connecticut|09|2|Lower Connecticut River Valley|130|04/18/2023|04/18/2023||||412800N|0720623W|41.4667862|-72.1065129
+212799|New London County (historical)|Civil|99011|X0|||Connecticut|09|3|Northeastern Connecticut|150|04/18/2023|04/18/2023||||412800N|0720623W|41.4667862|-72.1065129
+212801|Windham County (historical)|Civil|99015|X0|||Connecticut|09|2|Southeastern Connecticut|180|04/18/2023|04/18/2023||||414948N|0715915W|41.8300455|-71.9874783
+212801|Windham County (historical)|Civil|99015|X0|||Connecticut|09|1|Northeastern Connecticut|150|04/18/2023|04/18/2023||||414948N|0715915W|41.8300455|-71.9874783
+212831|Long Hill|Populated Place|43650|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|04/01/1993|06/07/2022||||413152N|0723935W|41.5312095|-72.659816
+212832|Lakeridge Heights|Populated Place|41550|U4|||Connecticut|09|1|Lower Connecticut River Valley|130|04/01/1993|06/07/2022||||413119N|0723806W|41.5220429|-72.635093
+212885|Sachem Head|Populated Place|66070|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022|Official|Board Decision|01/01/1948|411445N|0724213W|41.2459307|-72.7037068
+212921|Mount Carmel|Populated Place|49600|U6|||Connecticut|09|1|South Central Connecticut|170|09/12/1979|06/07/2022||||412527N|0725419W|41.4242638|-72.90538
+213008|Joyceville|Populated Place|40055|U6|||Connecticut|09|1|Northwest Hills|160|09/12/1979|06/07/2022||||420255N|0732532W|42.0487028|-73.4256746
+213160|Hartford|Populated Place|37000|P1|0280|280|Connecticut|09|1|Capitol|110|09/12/1979|06/07/2022|Official|Board Decision|01/01/1931|414549N|0724106W|41.7637111|-72.6850932
+213162|Winchester Center|Populated Place|86580|U6|0844|0844|Connecticut|09|1|Northwest Hills|160|09/12/1979|06/16/2011|Official|Board Decision|09/08/1977|415400N|0730805W|41.9000953|-73.134833
+213310|North Cornwall|Populated Place|54170|U6|||Connecticut|09|1|Northwest Hills|160|08/27/2002|06/07/2022||||415215N|0731852W|41.8709278|-73.3145621
+213382|Town of Andover|Civil|01080|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414359N|0722234W|41.7331195|-72.3760493
+213383|Town of Ansonia|Civil|01220|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412039N|0730408W|41.3442507|-73.0689289
+213384|Town of Ashford|Civil|01430|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415328N|0721016W|41.8910913|-72.1710357
+213385|Town of Avon|Civil|02060|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414726N|0725114W|41.7906731|-72.8538402
+213386|Town of Barkhamsted|Civil|02760|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415554N|0725822W|41.931554|-72.9727667
+213387|Town of Beacon Falls|Civil|03250|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412620N|0730324W|41.4390242|-73.0567625
+213388|Town of Berlin|Civil|04300|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||413641N|0724633W|41.6113851|-72.7758191
+213389|Town of Bethany|Civil|04580|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412534N|0725935W|41.4259786|-72.9930641
+213390|Town of Bethel|Civil|04720|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||412229N|0732334W|41.3747197|-73.3928395
+213391|Town of Bethlehem|Civil|04930|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413815N|0731241W|41.6374841|-73.2113207
+213392|Town of Bloomfield|Civil|05910|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415033N|0724426W|41.8425788|-72.7406216
+213393|Town of Bolton|Civil|06260|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414559N|0722620W|41.7664908|-72.4390096
+213394|Town of Bozrah|Civil|06820|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413243N|0721030W|41.5453396|-72.1748869
+213395|Town of Branford|Civil|07310|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411645N|0724747W|41.2792791|-72.7965136
+213396|Town of Bridgeport|Civil|08070|T5|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||411114N|0731144W|41.1872277|-73.1954948
+213397|Town of Bridgewater|Civil|08210|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||413115N|0732136W|41.520882|-73.3601371
+213398|Town of Bristol|Civil|08490|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||414052N|0725626W|41.681165|-72.9406827
+213399|Town of Brookfield|Civil|08980|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||412803N|0732332W|41.4674209|-73.3923028
+213400|Town of Brooklyn|Civil|09190|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414713N|0715716W|41.7869744|-71.9543533
+213401|Town of Burlington|Civil|10100|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414535N|0725732W|41.7597648|-72.9589634
+213402|Town of Canaan|Civil|10940|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415735N|0731837W|41.959793|-73.3101651
+213403|Town of Canterbury|Civil|12130|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414152N|0715959W|41.6978914|-71.9997717
+213404|Town of Canton|Civil|12270|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415136N|0725430W|41.8600157|-72.9083026
+213405|Town of Chaplin|Civil|13810|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414735N|0720740W|41.7931475|-72.1276861
+213406|Town of Cheshire|Civil|14160|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413041N|0725413W|41.5113167|-72.9036581
+213407|Town of Chester|Civil|14300|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412421N|0722859W|41.4059384|-72.4831943
+213408|Town of Clinton|Civil|15350|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||411737N|0723140W|41.2936396|-72.5278477
+213409|Town of Colchester|Civil|15910|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413344N|0722051W|41.5620935|-72.3475247
+213410|Town of Colebrook|Civil|16050|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||420006N|0730451W|42.0015281|-73.0808538
+213411|Town of Columbia|Civil|16400|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414138N|0721826W|41.6938623|-72.3072303
+213412|Town of Cornwall|Civil|17240|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415050N|0731948W|41.847295|-73.3299468
+213413|Town of Coventry|Civil|17800|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414658N|0722022W|41.7828376|-72.3394156
+213414|Town of Cromwell|Civil|18080|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||413644N|0723950W|41.6121937|-72.6637979
+213415|Town of Danbury|Civil|18500|T5|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||412405N|0732815W|41.4014319|-73.4709616
+213416|Town of Darien|Civil|18850|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410307N|0732845W|41.051993|-73.479097
+213417|Town of Deep River|Civil|19130|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023|Vacated|Board Decision|01/01/1965|412208N|0722744W|41.368936|-72.4622926
+213418|Town of Derby|Civil|19550|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||411935N|0730460W|41.3265067|-73.0833063
+213419|Town of Durham|Civil|20810|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412744N|0724058W|41.4622245|-72.6828815
+213420|Town of Eastford|Civil|21860|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415329N|0720531W|41.8914247|-72.0920166
+213421|Town of East Granby|Civil|22070|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415633N|0724427W|41.9423801|-72.7409284
+213423|Town of East Hampton|Civil|22490|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||413410N|0723027W|41.5695453|-72.5074148
+213424|Town of East Hartford|Civil|22630|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414548N|0723655W|41.7634224|-72.6152171
+213425|Town of East Haven|Civil|22910|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411743N|0725132W|41.2953294|-72.8590049
+213426|Town of East Lyme|Civil|23400|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412120N|0721354W|41.3555485|-72.2315944
+213427|Town of Easton|Civil|23890|T1|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||411554N|0731800W|41.2649352|-73.3001073
+213428|Town of Essex|Civil|26270|T1|0536|536|Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412060N|0722452W|41.3499547|-72.4145426
+213429|Town of Fairfield|Civil|26620|T1|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||411034N|0731623W|41.1761951|-73.2731524
+213430|Town of Farmington|Civil|27600|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414344N|0725027W|41.7288039|-72.8407266
+213431|Town of Franklin|Civil|29910|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413657N|0720835W|41.615848|-72.1431232
+213432|Town of Glastonbury|Civil|31240|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414132N|0723250W|41.6921302|-72.5472184
+213433|Town of Goshen|Civil|32290|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415100N|0731401W|41.8500635|-73.2335833
+213434|Town of Granby|Civil|32640|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415810N|0725004W|41.9694767|-72.834567
+213435|Town of Greenwich|Civil|33620|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410247N|0733739W|41.0463124|-73.6273892
+213436|Town of Griswold|Civil|33900|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413507N|0715522W|41.585229|-71.922659
+213437|Town of Groton|Civil|34250|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412050N|0720149W|41.3473524|-72.0302413
+213438|Town of Guilford|Civil|34950|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411954N|0724202W|41.3315883|-72.7004785
+213439|Town of Haddam|Civil|35230|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412804N|0723245W|41.4676538|-72.5458483
+213440|Town of Hamden|Civil|35650|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412346N|0725517W|41.3960639|-72.9215202
+213441|Town of Hampton|Civil|36000|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414703N|0720330W|41.7840586|-72.0583861
+213442|Town of Hartford|Civil|37070|T5|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414558N|0724100W|41.7660707|-72.6834012
+213443|Town of Hartland|Civil|37140|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||420016N|0725655W|42.0043487|-72.9485863
+213444|Town of Harwinton|Civil|37280|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414518N|0730330W|41.755051|-73.0582683
+213445|Town of Hebron|Civil|37910|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||413934N|0722326W|41.6593502|-72.3904801
+213446|Town of Kent|Civil|40290|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414348N|0732714W|41.729912|-73.4539827
+213447|Town of Killingly|Civil|40500|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414952N|0715060W|41.830999|-71.8499073
+213448|Town of Killingworth|Civil|40710|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412245N|0723442W|41.3792151|-72.578452
+213449|Town of Lebanon|Civil|42390|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413753N|0721425W|41.6312816|-72.2401751
+213450|Town of Ledyard|Civil|42600|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412624N|0720100W|41.4400307|-72.0166945
+213451|Town of Lisbon|Civil|43230|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413605N|0720051W|41.601372|-72.0141282
+213452|Town of Litchfield|Civil|43370|T1|0030|30|Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414429N|0731135W|41.7413262|-73.1931368
+213453|Town of Lyme|Civil|44210|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||412347N|0722038W|41.3965096|-72.343804
+213454|Town of Madison|Civil|44560|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412024N|0723741W|41.3400071|-72.6279893
+213455|Town of Manchester|Civil|44700|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414631N|0723127W|41.775339|-72.5242105
+213456|Town of Mansfield|Civil|44910|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414721N|0721343W|41.7892016|-72.2286935
+213457|Town of Marlborough|Civil|45820|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||413759N|0722717W|41.6330659|-72.454694
+213458|Town of Meriden|Civil|46520|T5|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||413213N|0724741W|41.5369337|-72.794657
+213459|Town of Middlebury|Civil|46940|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413137N|0730722W|41.5270729|-73.1228261
+213460|Town of Middlefield|Civil|47080|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||413103N|0724254W|41.5175435|-72.7148854
+213461|Town of Middletown|Civil|47360|T5|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||413251N|0723918W|41.5476359|-72.6548766
+213462|Town of Milford|Civil|47535|T5|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411326N|0730332W|41.2237784|-73.0589114
+213463|Town of Monroe|Civil|48620|T1|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||412016N|0731330W|41.3379117|-73.225013
+213464|Town of Montville|Civil|48900|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412750N|0720925W|41.4637516|-72.1569754
+213465|Town of Morris|Civil|49460|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414123N|0731228W|41.6897931|-73.2078169
+213466|Town of Naugatuck|Civil|49950|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412920N|0730306W|41.4889558|-73.051678
+213467|Town of New Britain|Civil|50440|T5|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414033N|0724710W|41.6759263|-72.7861609
+213468|Town of New Canaan|Civil|50580|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410933N|0732957W|41.1592102|-73.4991576
+213469|Town of New Fairfield|Civil|50860|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||412917N|0732918W|41.4879319|-73.4882792
+213470|Town of New Hartford|Civil|51350|T1|0428|428|Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415039N|0730020W|41.8442246|-73.0054678
+213471|Town of New Haven|Civil|52070|T5|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411837N|0725527W|41.3104106|-72.9242536
+213472|Town of Newington|Civil|52140|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414113N|0724351W|41.6869986|-72.7308391
+213473|Town of New London|Civil|52350|T5|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||411958N|0720547W|41.3327822|-72.0962575
+213474|Town of New Milford|Civil|52630|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||413615N|0732517W|41.6042396|-73.4212989
+213475|Town of Newtown|Civil|52980|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||412356N|0731734W|41.3987895|-73.2927316
+213476|Town of Norfolk|Civil|53470|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415848N|0731147W|41.9800397|-73.1963504
+213477|Town of North Branford|Civil|53890|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412152N|0724637W|41.3645351|-72.7768378
+213478|Town of North Canaan|Civil|54030|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||420120N|0731737W|42.0222986|-73.2935639
+213479|Town of North Haven|Civil|54870|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412254N|0725126W|41.3817551|-72.8572675
+213480|Town of North Stonington|Civil|55500|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412811N|0715232W|41.4696782|-71.8754212
+213481|Town of Norwalk|Civil|56060|T5|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410535N|0732510W|41.0929562|-73.4194258
+213482|Town of Norwich|Civil|56270|T5|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413258N|0720518W|41.5494781|-72.0882714
+213483|Town of Old Lyme|Civil|57040|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||411854N|0721810W|41.3150688|-72.3027377
+213484|Town of Old Saybrook|Civil|57320|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||411741N|0722301W|41.2947331|-72.383644
+213485|Town of Orange|Civil|57600|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411658N|0730138W|41.2826958|-73.0271671
+213486|Town of Oxford|Civil|58300|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412553N|0730806W|41.4312929|-73.1350307
+213487|Town of Plainfield|Civil|59980|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414157N|0715355W|41.6991692|-71.8987224
+213488|Town of Plainville|Civil|60120|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414027N|0725127W|41.6741267|-72.85746
+213489|Town of Plymouth|Civil|60750|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413951N|0730135W|41.6641471|-73.026309
+213490|Town of Pomfret|Civil|61030|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415201N|0715900W|41.8670014|-71.9834005
+213491|Town of Portland|Civil|61800|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||413556N|0723521W|41.5988334|-72.5890555
+213492|Town of Preston|Civil|62150|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413120N|0720004W|41.5223093|-72.001029
+213493|Town of Prospect|Civil|62290|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412958N|0725834W|41.4993299|-72.9760306
+213494|Town of Putnam|Civil|62710|T1|0603|603|Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415434N|0715216W|41.909309|-71.8711555
+213495|Town of Redding|Civil|63480|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||411818N|0732330W|41.3050159|-73.3915503
+213496|Town of Ridgefield|Civil|63970|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||411823N|0733008W|41.3064649|-73.5023346
+213497|Town of Rocky Hill|Civil|65370|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||413926N|0723948W|41.6571997|-72.6632073
+213498|Town of Roxbury|Civil|65930|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||413314N|0731801W|41.5538576|-73.3003218
+213499|Town of Salem|Civil|66210|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412907N|0721559W|41.4853456|-72.2663154
+213500|Town of Salisbury|Civil|66420|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415910N|0732532W|41.9860285|-73.4255517
+213501|Town of Scotland|Civil|67400|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414152N|0720517W|41.6978172|-72.0879844
+213502|Town of Seymour|Civil|67610|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412252N|0730514W|41.3809868|-73.0872421
+213503|Town of Sharon|Civil|67960|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415127N|0732615W|41.8574772|-73.4375372
+213504|Town of Shelton|Civil|68170|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||411822N|0730818W|41.305985|-73.1382765
+213505|Town of Sherman|Civil|68310|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||413448N|0732955W|41.5801181|-73.4986609
+213506|Town of Simsbury|Civil|68940|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415222N|0724932W|41.8729067|-72.82557
+213507|Town of Southbury|Civil|69640|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||412828N|0731359W|41.4745411|-73.2329346
+213508|Town of Southington|Civil|70550|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||413618N|0725248W|41.6049597|-72.8801243
+213509|Town of South Windsor|Civil|71390|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415007N|0723424W|41.8352739|-72.5733469
+213510|Town of Sprague|Civil|71670|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||413750N|0720433W|41.6304515|-72.0758291
+213511|Town of Stamford|Civil|73070|T5|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410442N|0733259W|41.0781951|-73.5497964
+213512|Town of Sterling|Civil|73420|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||414209N|0714907W|41.7025171|-71.8184742
+213513|Town of Stonington|Civil|73770|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412155N|0715428W|41.3653405|-71.9077603
+213514|Town of Stratford|Civil|74190|T1|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||411216N|0730748W|41.2045232|-73.1299775
+213515|Town of Thomaston|Civil|75730|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||414010N|0730509W|41.6695549|-73.0858875
+213516|Town of Thompson|Civil|75870|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415847N|0715225W|41.9797568|-71.8735027
+213517|Town of Torrington|Civil|76570|T5|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||415006N|0730741W|41.8349498|-73.1281498
+213518|Town of Trumbull|Civil|77200|T1|||Connecticut|09|1|Greater Bridgeport|120|09/01/1995|03/24/2023||||411537N|0731230W|41.2602442|-73.208364
+213519|Town of Union|Civil|77830|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415935N|0720937W|41.9930291|-72.1602466
+213520|Town of Vernon|Civil|78250|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415011N|0722738W|41.8364388|-72.4606458
+213521|Town of Voluntown|Civil|78600|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||413448N|0714957W|41.5799489|-71.832419
+213522|Town of Wallingford|Civil|78740|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412732N|0724814W|41.4588666|-72.803801
+213523|Town of Warren|Civil|79510|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||414426N|0732042W|41.7405585|-73.3448748
+213524|Town of Washington|Civil|79720|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023||||413908N|0731852W|41.6523185|-73.3144484
+213525|Town of Waterbury|Civil|80070|T5|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413330N|0730210W|41.5582522|-73.0360691
+213526|Town of Waterford|Civil|80280|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||412110N|0720850W|41.3529088|-72.1473519
+213527|Town of Watertown|Civil|80490|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413658N|0730704W|41.6160156|-73.1177268
+213528|Town of Westbrook|Civil|81680|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|09/01/1995|03/24/2023||||411746N|0722746W|41.2961742|-72.4627939
+213529|Town of West Hartford|Civil|82590|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414601N|0724513W|41.7669315|-72.7535377
+213530|Town of West Haven|Civil|82870|T5|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||411626N|0725801W|41.2738505|-72.9669592
+213531|Town of Weston|Civil|83430|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||411342N|0732221W|41.228387|-73.3725292
+213532|Town of Westport|Civil|83500|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||410721N|0732044W|41.1225869|-73.3456842
+213533|Town of Wethersfield|Civil|84900|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||414205N|0724013W|41.7013156|-72.6703329
+213534|Town of Willington|Civil|85950|T1|||Connecticut|09|1|Capitol|110|09/01/1995|03/24/2023||||415322N|0721534W|41.8895539|-72.2593402
+213535|Town of Wilton|Civil|86370|T1|||Connecticut|09|1|Western Connecticut|190|09/01/1995|03/24/2023||||411225N|0732624W|41.2070407|-73.4400607
+213536|Town of Winchester|Civil|86440|T1|||Connecticut|09|1|Northwest Hills|160|09/01/1995|03/24/2023|Vacated|Board Decision|02/09/1965|415519N|0730610W|41.9218611|-73.1028097
+213537|Town of Windham|Civil|86790|T1|||Connecticut|09|1|Southeastern Connecticut|180|09/01/1995|03/24/2023||||414237N|0721001W|41.7101611|-72.1670618
+213538|Town of Wolcott|Civil|87560|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413603N|0725824W|41.6007128|-72.9733129
+213539|Town of Woodbridge|Civil|87700|T1|||Connecticut|09|1|South Central Connecticut|170|09/01/1995|03/24/2023||||412124N|0730037W|41.3566036|-73.0101814
+213540|Town of Woodbury|Civil|87910|T1|||Connecticut|09|1|Naugatuck Valley|140|09/01/1995|03/24/2023||||413341N|0731225W|41.5614885|-73.2070195
+213541|Town of Woodstock|Civil|88190|T1|||Connecticut|09|1|Northeastern Connecticut|150|09/01/1995|03/24/2023||||415810N|0720120W|41.9693738|-72.0222208
+942426|Amenia Union|Populated Place|01704|U6|||Connecticut|09|1|Northwest Hills|160|01/23/1980|01/14/2020||||414928N|0733018W|41.8245378|-73.5051244
+942968|Banksville|Populated Place|04345|U6|||New York|36|2|Westchester|119|04/18/2023|04/18/2023||||410828N|0733822W|41.1412071|-73.6395723
+942968|Banksville|Populated Place|04345|U6|||Connecticut|09|1|Western Connecticut|190|04/18/2023|04/18/2023||||410828N|0733822W|41.1412071|-73.6395723
+1852815|Long Hill|Populated Place|43790|U5|||Connecticut|09|1|Southeastern Connecticut|180|01/20/2000|06/07/2022||||412114N|0720308W|41.3539874|-72.0522976
+1867093|Blue Hills|Populated Place|06050|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||414846N|0724151W|41.812877|-72.6975934
+1867094|Canton Valley|Populated Place|12370|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||415003N|0725330W|41.8342645|-72.8917676
+1867095|Coventry Lake|Populated Place|17835|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||414620N|0721957W|41.7723209|-72.3325811
+1867096|Glastonbury Center|Populated Place|31270|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||414203N|0723558W|41.7009328|-72.5995347
+1867097|Heritage Village|Populated Place|37930|U5|||Connecticut|09|1|Naugatuck Valley|140|05/15/2000|06/07/2022||||412908N|0731416W|41.4856513|-73.2378925
+1867099|Salmon Brook|Populated Place|66455|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||415723N|0724743W|41.9564854|-72.795374
+1867100|Sherwood Manor|Populated Place|68450|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||420048N|0723351W|42.0134293|-72.5642544
+1867101|South Coventry|Populated Place|69990|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||414612N|0721818W|41.7700987|-72.3050803
+1867102|Southwood Acres|Populated Place|71460|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||415745N|0723417W|41.9625968|-72.5714769
+1867103|Suffield Depot|Populated Place|74655|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||415852N|0723859W|41.9812075|-72.6498129
+1867104|Terramuggus|Populated Place|75200|U5|||Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||413806N|0722813W|41.6350991|-72.4703638
+1867105|Weatogue|Populated Place|80770|U5|0819|819|Connecticut|09|1|Capitol|110|05/15/2000|06/07/2022||||415037N|0724942W|41.8437093|-72.8284317
+1930930|Golden Hill Paugussett Reservation|Civil|9100R|D4|||Connecticut|09|1|Southeastern Connecticut|180|08/07/2001|03/21/2023||||413308N|0721605W|41.5521832|-72.2680032
+1930930|Golden Hill Paugussett Reservation|Civil|9100R|D4|||Connecticut|09|2|Greater Bridgeport|120|08/07/2001|03/21/2023||||413308N|0721605W|41.5521832|-72.2680032
+2377810|Conning Towers Nautilus Park Census Designated Place|Census|16960|M2|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412306N|0720406W|41.3849746|-72.0683748
+2377811|Coventry Lake Census Designated Place|Census|17835|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414623N|0721948W|41.7731872|-72.3299279
+2377812|Crystal Lake Census Designated Place|Census|18220|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415600N|0722252W|41.9333691|-72.3810986
+2377813|Darien Census Designated Place (historical)|Census|18920|X0|||Connecticut|09|1|Western Connecticut|190|02/11/2008|12/19/2019||||410307N|0732845W|41.051993|-73.479097
+2377814|Deep River Center Census Designated Place|Census|19200|U2|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||412244N|0722628W|41.3788651|-72.4410345
+2377815|Durham Census Designated Place|Census|20740|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||412819N|0724058W|41.4720112|-72.6828748
+2377816|East Brooklyn Census Designated Place|Census|21160|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||414753N|0715408W|41.7981013|-71.9020838
+2377817|East Hampton Census Designated Place|Census|22420|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||413424N|0722906W|41.5732553|-72.4849363
+2377818|East Hartford Census Designated Place|Census|22700|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414548N|0723655W|41.7634224|-72.6152171
+2377819|East Haven Census Designated Place|Census|22980|U1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411743N|0725132W|41.2953294|-72.8590049
+2377820|Essex Village Census Designated Place|Census|26370|U2|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||412121N|0722331W|41.3559382|-72.3918831
+2377821|Georgetown Census Designated Place|Census|30540|U1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/22/2023||||411458N|0732603W|41.2493747|-73.434303
+2377822|Glastonbury Center Census Designated Place|Census|31270|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414206N|0723601W|41.7015651|-72.6001618
+2377823|Guilford Center Census Designated Place|Census|35020|U2|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411654N|0724034W|41.2816808|-72.6761402
+2377824|Hazardville Census Designated Place|Census|37770|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415931N|0723204W|41.9920586|-72.5344486
+2377825|Heritage Village Census Designated Place|Census|37930|U1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||412908N|0731405W|41.4854554|-73.2348557
+2377826|Higganum Census Designated Place|Census|38050|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||412926N|0723329W|41.4904915|-72.5580148
+2377827|Kensington Census Designated Place|Census|40150|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||413742N|0724607W|41.6283602|-72.7686479
+2377828|Lake Pocotopaug Census Designated Place|Census|41410|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||413546N|0723036W|41.595973|-72.5100113
+2377829|Long Hill Census Designated Place|Census|43790|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412113N|0720306W|41.353604|-72.0517522
+2377830|Madison Center Census Designated Place|Census|44630|U2|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411646N|0723601W|41.2795444|-72.6003428
+2377831|Mansfield Center Census Designated Place|Census|45120|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414541N|0721141W|41.7613904|-72.1946046
+2377832|Moodus Census Designated Place|Census|49110|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||413017N|0722641W|41.5047458|-72.444741
+2377833|Moosup Census Designated Place|Census|49180|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||414302N|0715233W|41.7172771|-71.8757788
+2377834|Mystic Census Designated Place|Census|49810|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412122N|0715716W|41.3562168|-71.9545192
+2377835|New Hartford Center Census Designated Place|Census|51420|U2|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/22/2023||||415249N|0725831W|41.8802422|-72.9753002
+2377836|Newington Census Designated Place|Census|52210|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414113N|0724351W|41.6869986|-72.7308391
+2377837|New Milford Census Designated Place|Census|52560|U1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/22/2023||||413450N|0732419W|41.5805977|-73.4052341
+2377838|New Preston Census Designated Place|Census|52770|U1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/22/2023||||414053N|0732108W|41.6812882|-73.3522324
+2377839|Niantic Census Designated Place|Census|53120|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||411909N|0721138W|41.3190925|-72.1937832
+2377840|Noank Census Designated Place|Census|53260|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||411953N|0715943W|41.3312599|-71.9952506
+2377841|North Granby Census Designated Place|Census|54660|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||420055N|0725039W|42.0152751|-72.8441383
+2377842|North Grosvenor Dale Census Designated Place|Census|54730|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||415910N|0715412W|41.9862362|-71.9033387
+2377843|North Haven Census Designated Place|Census|54940|U1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||412254N|0725126W|41.3817551|-72.8572675
+2377844|Northwest Harwinton Census Designated Place|Census|55725|U2|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/22/2023||||414637N|0730446W|41.776895|-73.079393
+2377845|Oakville Census Designated Place|Census|56690|U1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||413522N|0730526W|41.5893337|-73.0905186
+2377846|Old Mystic Census Designated Place|Census|57180|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412307N|0715906W|41.3852812|-71.9850612
+2377847|Old Saybrook Center Census Designated Place|Census|57390|U2|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||411729N|0722155W|41.2914838|-72.3651679
+2377848|Orange Census Designated Place|Census|57670|U1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411658N|0730138W|41.2826958|-73.0271671
+2377849|Oxoboxo River Census Designated Place|Census|58520|U2|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412639N|0720730W|41.4442447|-72.1251305
+2377850|Pawcatuck Census Designated Place|Census|59140|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412239N|0715057W|41.3775104|-71.8492629
+2377851|Plainfield Village Census Designated Place|Census|60090|U2|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||414036N|0715530W|41.6766247|-71.924862
+2377852|Poquonock Bridge Census Designated Place|Census|61730|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412016N|0720103W|41.3378273|-72.0174961
+2377853|Portland Census Designated Place|Census|61870|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||413451N|0723713W|41.5807342|-72.6202872
+2377854|Putnam Census Designated Place|Census|62640|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||415504N|0715439W|41.9178668|-71.9108218
+2377855|Quinebaug Census Designated Place|Census|63270|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||420038N|0715613W|42.0106523|-71.9370043
+2377856|Ridgefield Census Designated Place|Census|63900|U1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/22/2023||||411615N|0732943W|41.2707063|-73.495239
+2377857|Rockville Census Designated Place|Census|65230|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415160N|0722705W|41.8665662|-72.4514993
+2377858|Salmon Brook Census Designated Place|Census|66455|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415727N|0724731W|41.9574868|-72.7918967
+2377859|Saybrook Manor Census Designated Place|Census|67050|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||411654N|0722423W|41.2815703|-72.4065075
+2377860|Sherwood Manor Census Designated Place|Census|68450|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||420037N|0723400W|42.0101781|-72.566678
+2377861|Simsbury Center Census Designated Place|Census|69010|U2|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415251N|0724840W|41.8807765|-72.8111353
+2377862|South Coventry Census Designated Place|Census|69990|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414555N|0721802W|41.7652321|-72.300572
+2377863|South Windham Census Designated Place|Census|71250|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||414106N|0721104W|41.6849827|-72.1845286
+2377864|Southwood Acres Census Designated Place|Census|71460|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415730N|0723422W|41.9581984|-72.5726391
+2377865|South Woodstock Census Designated Place|Census|71530|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||415552N|0715720W|41.931214|-71.9554924
+2377866|Stafford Springs Census Designated Place|Census|72300|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415734N|0721838W|41.9595304|-72.3105009
+2377867|Storrs Census Designated Place|Census|73980|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414830N|0721505W|41.808297|-72.2513866
+2377868|Stratford Census Designated Place (historical)|Census|74260|X0|||Connecticut|09|1|Greater Bridgeport|120|02/11/2008|12/19/2019||||411216N|0730748W|41.2045232|-73.1299775
+2377869|Suffield Depot Census Designated Place|Census|74655|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415904N|0723847W|41.9843278|-72.6465127
+2377870|Tariffville Census Designated Place|Census|75100|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415425N|0724606W|41.907076|-72.7683377
+2377871|Terramuggus Census Designated Place|Census|75200|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||413804N|0722809W|41.6344004|-72.4692411
+2377872|Terryville Census Designated Place|Census|75240|U1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||414042N|0730023W|41.6783697|-73.0064677
+2377873|Thompsonville Census Designated Place|Census|75940|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415930N|0723547W|41.9916074|-72.5964765
+2377874|Trumbull Census Designated Place (historical)|Census|77270|X0|||Connecticut|09|1|Greater Bridgeport|120|02/11/2008|12/19/2019||||411537N|0731230W|41.2602442|-73.208364
+2377875|Wallingford Center Census Designated Place|Census|78880|U2|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||412660N|0724908W|41.4499132|-72.8188584
+2377876|Wauregan Census Designated Place|Census|80630|U1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/22/2023||||414459N|0715449W|41.7497964|-71.9137302
+2377877|Weatogue Census Designated Place|Census|80770|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415045N|0724946W|41.8458736|-72.8294212
+2377878|Westbrook Center Census Designated Place|Census|81750|U2|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||411649N|0722631W|41.2801643|-72.4420692
+2377879|West Hartford Census Designated Place|Census|82660|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414601N|0724513W|41.7669315|-72.7535377
+2377880|Westport Census Designated Place (historical)|Census|83570|X0|||Connecticut|09|1|Western Connecticut|190|02/11/2008|12/19/2019||||410721N|0732044W|41.1225869|-73.3456842
+2377881|West Simsbury Census Designated Place|Census|83990|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415233N|0725042W|41.875731|-72.8450717
+2377882|Wethersfield Census Designated Place|Census|84970|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414205N|0724013W|41.7013156|-72.6703329
+2377883|Willimantic Census Designated Place|Census|85810|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||414301N|0721241W|41.7170701|-72.2113916
+2377884|Windsor Locks Census Designated Place|Census|87140|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415536N|0723916W|41.926711|-72.6543945
+2377885|Winsted Census Designated Place|Census|87350|U1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/22/2023||||415534N|0730403W|41.9262007|-73.0674786
+2377886|Woodbury Center Census Designated Place|Census|87980|U2|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||413238N|0731217W|41.5438705|-73.2048565
+2378251|Town of East Haddam|Civil|22280|T1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/24/2023||||412847N|0722340W|41.4798224|-72.3943598
+2378267|City of Ansonia|Civil|01150|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||412039N|0730408W|41.3442507|-73.0689289
+2378268|Borough of Bantam|Civil|02690|C1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/25/2023||||414329N|0731432W|41.7247451|-73.2422628
+2378269|City of Bridgeport|Civil|08000|C1|||Connecticut|09|1|Greater Bridgeport|120|02/11/2008|03/25/2023||||411114N|0731144W|41.1872277|-73.1954948
+2378270|City of Bristol|Civil|08420|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||414052N|0725626W|41.681165|-72.9406827
+2378271|City of Danbury|Civil|18430|C1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/25/2023||||412405N|0732815W|41.4014319|-73.4709616
+2378272|Borough of Danielson|Civil|18780|C1|||Connecticut|09|1|Northeastern Connecticut|150|02/11/2008|03/25/2023||||414831N|0715308W|41.8085621|-71.8855546
+2378273|City of Derby|Civil|19480|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||411935N|0730460W|41.3265067|-73.0833063
+2378274|Borough of Fenwick|Civil|27810|C1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/25/2023||||411616N|0722117W|41.2710696|-72.3545851
+2378275|City of Groton|Civil|34180|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||411930N|0720414W|41.3251069|-72.0704624
+2378276|Borough of Groton Long Point|Civil|34460|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||411853N|0720031W|41.3145891|-72.0086837
+2378277|City of Hartford|Civil|37000|C1|||Connecticut|09|1|Capitol|110|02/11/2008|03/25/2023||||414558N|0724100W|41.7660707|-72.6834012
+2378278|Borough of Jewett City|Civil|39940|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||413625N|0715851W|41.6068961|-71.980742
+2378279|Borough of Litchfield|Civil|43300|C1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/25/2023||||414445N|0731121W|41.7457042|-73.1892384
+2378280|City of Meriden|Civil|46450|C1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/25/2023||||413213N|0724741W|41.5369337|-72.794657
+2378281|City of Middletown|Civil|47290|C1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/25/2023||||413251N|0723918W|41.5476359|-72.6548766
+2378282|City of Milford (balance)|Populated Place|47515|C8|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411325N|0730342W|41.2237373|-73.0616367
+2378283|Borough of Naugatuck|Civil|49880|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||412920N|0730306W|41.4889558|-73.051678
+2378284|City of New Britain|Civil|50370|C1|||Connecticut|09|1|Capitol|110|02/11/2008|03/25/2023||||414033N|0724710W|41.6759263|-72.7861609
+2378285|City of New Haven|Civil|52000|C1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/25/2023||||411837N|0725527W|41.3104106|-72.9242536
+2378286|City of New London|Civil|52280|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||411958N|0720547W|41.3327822|-72.0962575
+2378287|Borough of Newtown|Civil|52910|C1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/25/2023||||412443N|0731843W|41.4118973|-73.3119499
+2378288|City of Norwalk|Civil|55990|C1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/25/2023||||410535N|0732510W|41.0929562|-73.4194258
+2378289|City of Norwich|Civil|56200|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||413258N|0720518W|41.5494781|-72.0882714
+2378290|City of Shelton|Civil|68100|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||411822N|0730818W|41.305985|-73.1382765
+2378291|City of Stamford|Civil|73000|C1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/25/2023||||410442N|0733259W|41.0781951|-73.5497964
+2378292|Borough of Stonington|Civil|73700|C1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/25/2023||||411960N|0715408W|41.3333161|-71.9022286
+2378293|City of Torrington|Civil|76500|C1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/25/2023||||415006N|0730741W|41.8349498|-73.1281498
+2378294|City of Waterbury|Civil|80000|C1|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/25/2023||||413330N|0730210W|41.5582522|-73.0360691
+2378295|City of West Haven|Civil|82800|C1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/25/2023||||411626N|0725801W|41.2738505|-72.9669592
+2378296|Borough of Woodmont|Civil|88050|C1|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/25/2023||||411329N|0725924W|41.2248186|-72.9900332
+2378334|City of Milford|Civil|47500|C3|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|||||411325N|0730332W|41.2237236|-73.058827
+2378335|Bethel Census Designated Place|Census|04790|U1|||Connecticut|09|1|Western Connecticut|190|02/11/2008|03/22/2023||||412154N|0732445W|41.365099|-73.4125091
+2378336|Bethlehem Village Census Designated Place|Census|04945|U2|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||413824N|0731211W|41.6400951|-73.2030393
+2378337|Blue Hills Census Designated Place|Census|06050|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414848N|0724144W|41.8133727|-72.6954422
+2378338|Branford Center Census Designated Place|Census|07345|U2|||Connecticut|09|1|South Central Connecticut|170|02/11/2008|03/22/2023||||411638N|0724854W|41.2773204|-72.8151388
+2378339|Broad Brook Census Designated Place|Census|08770|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415435N|0723233W|41.9096927|-72.542592
+2378340|Canaan Census Designated Place|Census|10870|U1|||Connecticut|09|1|Northwest Hills|160|02/11/2008|03/22/2023||||420205N|0731956W|42.0347649|-73.3322868
+2378341|Canton Valley Census Designated Place|Census|12370|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/21/2023||||414954N|0725352W|41.8315575|-72.8977429
+2378342|Manchester Census Designated Place|Census|44690|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414646N|0723113W|41.7795064|-72.5203215
+2378343|Somers Census Designated Place|Census|69150|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||415930N|0722642W|41.9916849|-72.4451229
+2378344|Waterford Census Designated Place|Census|80210|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||412043N|0720744W|41.3452792|-72.1288158
+2378345|Cheshire Village Census Designated Place|Census|14200|U2|||Connecticut|09|1|Naugatuck Valley|140|02/11/2008|03/22/2023||||413015N|0725349W|41.5040909|-72.896869
+2378346|Chester Center Census Designated Place|Census|14370|U2|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||412406N|0722728W|41.4017696|-72.4578507
+2378347|Clinton Census Designated Place|Census|15420|U1|||Connecticut|09|1|Lower Connecticut River Valley|130|02/11/2008|03/22/2023||||411634N|0723149W|41.2761953|-72.530403
+2378348|Colchester Census Designated Place|Census|15840|U1|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|03/22/2023||||413439N|0721958W|41.5775925|-72.3327425
+2378349|Collinsville Census Designated Place|Census|16120|U1|||Connecticut|09|1|Capitol|110|02/11/2008|03/22/2023||||414908N|0725520W|41.8189895|-72.9221441
+2378352|Nautilus Park|Populated Place|50160|U3|||Connecticut|09|1|Southeastern Connecticut|180|02/11/2008|06/07/2022||||412254N|0720425W|41.381798|-72.073619
+2419022|Mohegan Reservation|Civil|2320R|D2|||Connecticut|09|1|Southeastern Connecticut|180|04/11/2008|03/21/2023||||412907N|0720522W|41.4853477|-72.0893299
+2512506|Naval Submarine Base New London|Military|||0719|0719|Connecticut|09|1|Southeastern Connecticut|180|11/17/2008|05/31/2022||||412354N|0720510W|41.3984372|-72.0861485
+2629781|Waterford|Populated Place|80210|U5|||Connecticut|09|1|Southeastern Connecticut|180|08/30/2010|06/07/2022||||412030N|0720809W|41.3417|-72.13597
+2631221|Cannondale Census Designated Place|Census|11990|U1|||Connecticut|09|1|Western Connecticut|190|08/30/2010|03/22/2023||||411258N|0732531W|41.2161576|-73.4252641
+2631222|Wilton Center Census Designated Place|Census|86380|U2|||Connecticut|09|1|Western Connecticut|190|08/30/2010|03/22/2023||||411129N|0732534W|41.1912796|-73.4261635
+2631548|Baltic Census Designated Place|Census|02550|U1|||Connecticut|09|1|Southeastern Connecticut|180|06/24/2010|03/22/2023||||413650N|0720512W|41.6139855|-72.0866412
+2631559|Byram Census Designated Place|Census|10660|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410004N|0733910W|41.0012028|-73.6528048
+2631560|Brooklyn Census Designated Place|Census|09120|U1|||Connecticut|09|1|Northeastern Connecticut|150|06/24/2010|03/22/2023||||414723N|0715717W|41.7897459|-71.9547752
+2631561|Cos Cob Census Designated Place|Census|17520|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410305N|0733536W|41.0512748|-73.5934155
+2631562|Falls Village Census Designated Place|Census|27390|U1|||Connecticut|09|1|Northwest Hills|160|06/24/2010|03/22/2023||||415727N|0732122W|41.9576271|-73.3562088
+2631563|Gales Ferry Census Designated Place|Census|30190|U1|||Connecticut|09|1|Southeastern Connecticut|180|06/24/2010|03/22/2023||||412517N|0720507W|41.4214839|-72.0853924
+2631564|Glenville Census Designated Place|Census|31520|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410206N|0733956W|41.0350417|-73.6655475
+2631566|Greenwich Census Designated Place|Census|33690|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410142N|0733738W|41.0283767|-73.6272387
+2631567|Lakeville Census Designated Place|Census|41830|U1|||Connecticut|09|1|Northwest Hills|160|06/24/2010|03/22/2023||||415734N|0732655W|41.959431|-73.4485089
+2631569|Norfolk Census Designated Place|Census|53400|U1|||Connecticut|09|1|Northwest Hills|160|06/24/2010|03/22/2023||||415930N|0731139W|41.9917065|-73.1940414
+2631571|Old Greenwich Census Designated Place|Census|56900|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410113N|0733410W|41.0203129|-73.5695343
+2631572|Pemberwick Census Designated Place|Census|59210|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410121N|0733923W|41.0224962|-73.6563289
+2631573|Plantsville Census Designated Place|Census|60260|U1|||Connecticut|09|1|Capitol|110|06/24/2010|03/22/2023||||413459N|0725331W|41.5831554|-72.8918517
+2631574|Riverside Census Designated Place|Census|64530|U1|||Connecticut|09|1|Western Connecticut|190|06/24/2010|03/22/2023||||410150N|0733500W|41.0304988|-73.5834006
+2631575|Sharon Census Designated Place|Census|67890|U1|||Connecticut|09|1|Northwest Hills|160|06/24/2010|03/22/2023||||415242N|0732819W|41.8784258|-73.4719756
+2631576|Southport Census Designated Place|Census|71040|U1|||Connecticut|09|1|Greater Bridgeport|120|06/24/2010|03/22/2023||||410803N|0731716W|41.1341868|-73.2878189
+2631577|Thomaston Census Designated Place|Census|75660|U1|||Connecticut|09|1|Naugatuck Valley|140|06/24/2010|03/22/2023||||414026N|0730448W|41.6738843|-73.0799448
+2631578|Watertown Census Designated Place|Census|80420|U1|||Connecticut|09|1|Naugatuck Valley|140|06/24/2010|03/22/2023||||413603N|0730714W|41.6009425|-73.1206304
+2633319|Mashantucket Census Designated Place|Census|45995|U2|||Connecticut|09|1|Southeastern Connecticut|180|07/15/2010|03/22/2023||||412752N|0715829W|41.4644695|-71.9747539
+2805053|Darien Downtown Census Designated Place|Census|18936|U2|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410436N|0732812W|41.0767823|-73.4698773
+2805054|Noroton Census Designated Place|Census|53540|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410328N|0732931W|41.0578617|-73.4920486
+2805055|Noroton Heights Census Designated Place|Census|53610|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410427N|0732950W|41.0740912|-73.4972222
+2805056|Tokeneke Census Designated Place|Census|76150|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410325N|0732754W|41.0570625|-73.4649736
+2805059|Stratford Downtown Census Designated Place|Census|74303|U2|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411156N|0730740W|41.1988489|-73.1276692
+2805067|Lordship Census Designated Place|Census|44000|U1|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||410907N|0730657W|41.1520233|-73.1158454
+2805068|Oronoque Census Designated Place|Census|57880|U1|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411510N|0730632W|41.2526575|-73.1090084
+2805069|Trumbull Center Census Designated Place|Census|77278|U2|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411430N|0731101W|41.2415355|-73.1836103
+2805070|Daniels Farm Census Designated Place|Census|18675|U1|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411640N|0731208W|41.2778544|-73.202197
+2805071|Long Hill Census Designated Place|Census|43580|U1|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411560N|0731342W|41.266596|-73.2283632
+2805072|Tashua Census Designated Place|Census|75116|U1|||Connecticut|09|1|Greater Bridgeport|120|12/19/2019|03/22/2023||||411634N|0731513W|41.2761483|-73.2537399
+2805087|Coleytown Census Designated Place|Census|16085|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||411027N|0732046W|41.1741926|-73.3460572
+2805088|Compo Census Designated Place|Census|16525|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410722N|0732105W|41.1227591|-73.3515277
+2805089|Greens Farms Census Designated Place|Census|33480|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410730N|0731916W|41.1250913|-73.3212079
+2805090|Old Hill Census Designated Place|Census|56935|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410856N|0732235W|41.149008|-73.3764693
+2805091|Poplar Plains Census Designated Place|Census|61555|U2|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||411017N|0732238W|41.1714078|-73.3771068
+2805092|Saugatuck Census Designated Place|Census|66770|U1|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410642N|0732207W|41.111691|-73.3687498
+2805093|Staples Census Designated Place|Census|73175|U2|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410903N|0731942W|41.1508111|-73.3283633
+2805094|Westport Village Census Designated Place|Census|83586|U2|||Connecticut|09|1|Western Connecticut|190|12/19/2019|03/22/2023||||410835N|0732139W|41.1429791|-73.3608742
+2805928|Ball Pond Census Designated Place|Census|02480|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412743N|0733137W|41.4618274|-73.5268352
+2805929|Bigelow Corners Census Designated Place|Census|04965|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412810N|0733020W|41.4693433|-73.5056354
+2805930|Bogus Hill Census Designated Place|Census|06155|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413026N|0732745W|41.5073373|-73.4623786
+2805931|Bogus Hill|Populated Place|06155|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||413028N|0732749W|41.5078534|-73.4636087
+2805932|Branchville Census Designated Place|Census|07100|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411604N|0732636W|41.2678405|-73.4433695
+2805933|Brookfield Center Census Designated Place|Census|09050|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/21/2023||||412745N|0732315W|41.4623624|-73.387528
+2805934|Candlewood Isle Census Designated Place|Census|11360|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412840N|0732708W|41.4777148|-73.4522878
+2805935|Candlewood Isle|Populated Place|11360|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||412912N|0732721W|41.48664|-73.455856
+2805936|Candlewood Knolls Census Designated Place|Census|11430|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412845N|0732749W|41.4790554|-73.4636133
+2805937|Candlewood Lake Club Census Designated Place|Census|11500|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412937N|0732614W|41.4937301|-73.437227
+2805938|Candlewood Orchards Census Designated Place|Census|11640|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412808N|0732614W|41.4689373|-73.4373
+2805939|Candlewood Shores Census Designated Place|Census|11780|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412852N|0732617W|41.4811659|-73.4379814
+2805940|Dodgingtown Census Designated Place|Census|20250|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412247N|0732109W|41.3797651|-73.3523692
+2805941|East Village Census Designated Place|Census|24520|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/22/2023||||412140N|0731104W|41.3612132|-73.18455
+2805942|Fairfield University Census Designated Place|Census|26698|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/21/2023||||410932N|0731525W|41.1589527|-73.2570566
+2805943|Hawleyville Census Designated Place|Census|37490|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412544N|0732102W|41.4289121|-73.3504431
+2805944|Indian Field Census Designated Place|Census|39695|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||410106N|0733625W|41.0182571|-73.6069787
+2805945|Indian Field|Populated Place|39695|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||410114N|0733624W|41.0205143|-73.6066968
+2805946|Inglenook Census Designated Place|Census|39747|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413123N|0732825W|41.5230663|-73.473539
+2805947|Inglenook|Populated Place|39747|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||413130N|0732832W|41.5249748|-73.4755791
+2805948|Kellogg Point Census Designated Place|Census|40077|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412805N|0732736W|41.4681903|-73.4598894
+2805949|Kellogg Point|Populated Place|40077|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||412805N|0732736W|41.4679444|-73.4598933
+2805950|Knollcrest Census Designated Place|Census|40920|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413004N|0732801W|41.5011915|-73.4668755
+2805951|Lakes East Census Designated Place|Census|41585|U2|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411953N|0732928W|41.3314577|-73.4910697
+2805952|Lakes West Census Designated Place|Census|41736|U2|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412006N|0733046W|41.3350214|-73.5129119
+2805953|Lakeside Woods Census Designated Place|Census|41714|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413317N|0732902W|41.5548085|-73.4840187
+2805954|Mamanasco Lake Census Designated Place|Census|44660|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411908N|0733131W|41.3188661|-73.5252361
+2805955|Mamanasco Lake|Populated Place|44660|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||411909N|0733149W|41.3192238|-73.5301625
+2805956|Mill Plain Census Designated Place|Census|47990|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/21/2023||||410914N|0731610W|41.153764|-73.269468
+2805957|Murray Census Designated Place|Census|49720|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/22/2023||||411151N|0731722W|41.1974067|-73.2895255
+2805958|New Canaan Census Designated Place|Census|50576|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||410831N|0732926W|41.141948|-73.4904755
+2805959|Plattsville Census Designated Place|Census|60365|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/22/2023||||411333N|0731533W|41.225936|-73.2590959
+2805960|Redding Center Census Designated Place|Census|63620|U2|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411824N|0732259W|41.306663|-73.3830242
+2805961|Ridgebury Census Designated Place|Census|63830|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412125N|0733136W|41.3569933|-73.5267518
+2805962|Rock Ridge Census Designated Place|Census|65160|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||410204N|0733854W|41.0344202|-73.6483955
+2805963|Route 7 Gateway Census Designated Place|Census|65685|U2|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411902N|0732829W|41.3171559|-73.4746174
+2805964|Sacred Heart University Census Designated Place|Census|66086|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/22/2023||||411317N|0731439W|41.2214799|-73.2442003
+2805965|Sail Harbor Census Designated Place|Census|66113|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413136N|0732755W|41.5265284|-73.4652227
+2805966|Sail Harbor|Populated Place|66113|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||413147N|0732759W|41.5296585|-73.466378
+2805967|Sandy Hook Census Designated Place|Census|66700|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||412446N|0731438W|41.412738|-73.2439567
+2805968|Sherman Census Designated Place|Census|68240|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413429N|0732945W|41.5746239|-73.4957247
+2805969|South Wilton Census Designated Place|Census|71215|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411023N|0732460W|41.1729995|-73.4166379
+2805970|Stepney Census Designated Place|Census|73280|U1|||Connecticut|09|1|Greater Bridgeport|120|03/18/2020|03/22/2023||||411932N|0731603W|41.3255943|-73.2673956
+2805971|Taylor Corners Census Designated Place|Census|75132|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||412647N|0733143W|41.4464133|-73.5286873
+2805972|Topstone Census Designated Place|Census|76400|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411747N|0732648W|41.2963081|-73.4465704
+2805973|West Mountain Census Designated Place|Census|83045|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411758N|0733218W|41.2993845|-73.5383466
+2805974|West Mountain|Populated Place|83045|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||411753N|0733204W|41.2981289|-73.5345492
+2805975|Weston Census Designated Place|Census|83360|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||411212N|0732244W|41.2032365|-73.3787806
+2805976|Bridgewater Census Designated Place|Census|08140|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413205N|0732152W|41.5347813|-73.3645823
+2805978|Chimney Point Census Designated Place|Census|14615|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413009N|0732629W|41.5025505|-73.441312
+2805979|Chimney Point|Populated Place|14615|U5|||Connecticut|09|1|Western Connecticut|190|03/18/2020|||||413010N|0732627W|41.5026474|-73.4407703
+2805980|Cornwall Census Designated Place|Census|17170|U1|||Connecticut|09|1|Northwest Hills|160|03/18/2020|03/22/2023||||415040N|0731958W|41.8443223|-73.3326721
+2805981|Cornwall Bridge Census Designated Place|Census|17310|U1|||Connecticut|09|1|Northwest Hills|160|03/18/2020|03/22/2023||||414819N|0732307W|41.8053891|-73.3852298
+2805982|Gaylordsville Census Designated Place|Census|30470|U1|||Connecticut|09|1|Western Connecticut|190|03/18/2020|03/22/2023||||413828N|0732857W|41.6409804|-73.4825563
+2805983|Pleasant Valley Census Designated Place|Census|60540|U1|||Connecticut|09|1|Northwest Hills|160|03/18/2020|03/22/2023||||415430N|0725932W|41.9083273|-72.992311
+2805984|Riverton Census Designated Place|Census|64880|U1|||Connecticut|09|1|Northwest Hills|160|03/18/2020|03/22/2023||||415747N|0730060W|41.9631415|-73.0165584
+2805985|West Cornwall Census Designated Place|Census|82030|U1|||Connecticut|09|1|Northwest Hills|160|03/18/2020|03/22/2023||||415151N|0732139W|41.864206|-73.3607879
+2805986|Northford Census Designated Place|Census|54450|U1|||Connecticut|09|1|South Central Connecticut|170|03/18/2020|03/22/2023||||412342N|0724657W|41.3949164|-72.7826156
+2805987|Quinnipiac University Census Designated Place|Census|63313|U1|||Connecticut|09|1|South Central Connecticut|170|03/18/2020|03/22/2023||||412508N|0725334W|41.419016|-72.8928473
+2805988|Dayville Census Designated Place|Census|18990|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415039N|0715257W|41.8442233|-71.8823916
+2805989|Lake Bungee Census Designated Place|Census|41226|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415715N|0720355W|41.9542395|-72.0652182
+2805990|Lake Bungee|Populated Place|41226|U5|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|||||415712N|0720343W|41.9533815|-72.0618505
+2805991|Lake Chaffee Census Designated Place|Census|41238|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415620N|0721146W|41.9388785|-72.1960023
+2805992|Lake Chaffee|Populated Place|41238|U5|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|||||415628N|0721141W|41.9410978|-72.1946056
+2805993|Mechanicsville Census Designated Place|Census|46240|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415745N|0715247W|41.9624406|-71.879784
+2805994|Quasset Lake Census Designated Place|Census|63165|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415521N|0715902W|41.9226117|-71.9839458
+2805995|Quasset Lake|Populated Place|63165|U5|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|||||415520N|0715853W|41.922175|-71.9813335
+2805996|Witches Woods Census Designated Place|Census|87455|U1|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|03/22/2023||||415655N|0720420W|41.948599|-72.0723479
+2805997|Witches Woods|Populated Place|87455|U5|||Connecticut|09|1|Northeastern Connecticut|150|03/18/2020|||||415648N|0720412W|41.9466091|-72.069937
+2812663|Botsford Census Designated Place|Census|06680|U1|||Connecticut|09|1|Western Connecticut|190|06/18/2020|03/22/2023||||412132N|0731602W|41.3587758|-73.2671593
+2813335|Taylor Corners Census Designated Place|Census|75065|U1|||Connecticut|09|1|Western Connecticut|190|08/03/2020|03/22/2023||||412647N|0733143W|41.4464133|-73.5286872
+2830244|Capitol Planning Region|Civil|99110|H5|||Connecticut|09|1|Capitol|110|02/15/2022|03/21/2023||||414907N|0723419W|41.8185107|-72.5720501
+2830245|Greater Bridgeport Planning Region|Civil|99120|H5|||Connecticut|09|1|Greater Bridgeport|120|02/15/2022|03/21/2023||||411106N|0731231W|41.1851324|-73.2085115
+2830246|Lower Connecticut River Valley Planning Region|Civil|99130|H5|||Connecticut|09|1|Lower Connecticut River Valley|130|02/15/2022|03/21/2023||||412515N|0722932W|41.4207213|-72.4922863
+2830249|Naugatuck Valley Planning Region|Civil|99140|H5|||Connecticut|09|1|Naugatuck Valley|140|02/15/2022|03/21/2023||||413123N|0730510W|41.5231515|-73.0860421
+2830250|Northeastern Connecticut Planning Region|Civil|99150|H5|||Connecticut|09|1|Northeastern Connecticut|150|02/15/2022|03/21/2023||||414937N|0715837W|41.8269745|-71.9769253
+2830251|Northwest Hills Planning Region|Civil|99160|H5|||Connecticut|09|1|Northwest Hills|160|02/15/2022|03/21/2023||||415049N|0731316W|41.8469196|-73.2212148
+2830252|South Central Connecticut Planning Region|Civil|99170|H5|||Connecticut|09|1|South Central Connecticut|170|02/15/2022|03/21/2023||||411740N|0725001W|41.2944704|-72.8336661
+2830253|Southeastern Connecticut Planning Region|Civil|99180|H5|||Connecticut|09|1|Southeastern Connecticut|180|02/15/2022|03/21/2023||||412905N|0720603W|41.4847895|-72.1007273
+2830254|Western Connecticut Planning Region|Civil|99190|H5|||Connecticut|09|1|Western Connecticut|190|02/15/2022|03/21/2023||||411652N|0732649W|41.2810043|-73.4470355

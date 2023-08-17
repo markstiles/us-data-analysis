@@ -1,0 +1,409 @@
+﻿feature_id|feature_name|feature_class|state_name|state_numeric|county_name|county_numeric|map_name|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec|source_lat_dms|source_long_dms|source_lat_dec|source_long_dec
+528562|Bald Eagle Hill|Summit|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|06/13/2018||||384913N|0770037W|38.8202341|-77.0102514|||0.0|0.0
+528563|Barnaby Terrace|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385000N|0765921W|38.8334463|-76.989142|||0.0|0.0
+528564|Barnaby Woods|Populated Place|District of Columbia|11|District of Columbia|000|Washington West||06/07/2022||||385829N|0770335W|38.9748326|-77.0596997|||0.0|0.0
+528567|Benning Heights|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385254N|0765610W|38.8817789|-76.9360852|||0.0|0.0
+528569|Boundary Channel|Channel|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979||Official|Board Decision|01/01/1920|385249N|0770319W|38.8803898|-77.0552551|||0.0|0.0
+528571|Brightwood Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385725N|0770130W|38.9570551|-77.0249767|||0.0|0.0
+528572|Broad Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|||||385638N|0770256W|38.9439998|-77.0488661|385721N|0770406W|38.9558333|-77.0683333
+528576|Burleith|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385455N|0770421W|38.9153892|-77.0724777|||0.0|0.0
+528577|Camp Simms (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|01/01/2000|05/31/2022||||385039N|0765852W|38.8441667|-76.9811111|||0.0|0.0
+528578|Colonial Village|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385933N|0770224W|38.9926101|-77.0399771|||0.0|0.0
+528580|Congress Heights|Populated Place|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|06/07/2022||||385034N|0770001W|38.8428906|-77.0002535|||0.0|0.0
+528582|Congress Park|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385028N|0765927W|38.8412239|-76.9908088|||0.0|0.0
+528596|Fenwick Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|01/05/2006||||385902N|0770232W|38.9838889|-77.0422222|385946N|0770231W|38.9961111|-77.0419444
+528605|Glover Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385515N|0770438W|38.9209446|-77.0772|||0.0|0.0
+528606|Good Hope|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385145N|0765750W|38.8626125|-76.9638637|||0.0|0.0
+528607|Goose Island|Island|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|||||384830N|0770148W|38.8084466|-77.0299765|||0.0|0.0
+528614|Hawthorne|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385849N|0770317W|38.9803881|-77.0546996|||0.0|0.0
+528617|Hickey Hill|Summit|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|04/08/2020||||385445N|0765727W|38.9126372|-76.9575166|||0.0|0.0
+528618|Hickey Run|Stream|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|||||385429N|0765726W|38.9081673|-76.957197|385500N|0765809W|38.9166667|-76.9691667
+528623|Hoover Hill|Summit|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|||||385619N|0765814W|38.9387222|-76.9705308|||0.0|0.0
+528624|Ivy City|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385440N|0765905W|38.9112227|-76.9846978|||0.0|0.0
+528630|Kenilworth|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385421N|0765625W|38.9059451|-76.9402521|||0.0|0.0
+528631|Kent|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385601N|0770613W|38.9337221|-77.1035895|||0.0|0.0
+528636|Little Falls|Falls|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|||||385600N|0770705W|38.9334443|-77.1180342|||0.0|0.0
+528641|Manor Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385750N|0770057W|38.9639995|-77.0158099|||0.0|0.0
+528646|Mount Hamilton|Summit|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|04/08/2020||||385431N|0765831W|38.9086649|-76.9753796|||0.0|0.0
+528651|North Gate|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385914N|0770207W|38.9873324|-77.0352548|||0.0|0.0
+528659|Piney Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|||||385606N|0770249W|38.9351111|-77.0469216|385621N|0770206W|38.9391667|-77.035
+528660|Potomac Heights|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385539N|0770628W|38.9276111|-77.1077563|||0.0|0.0
+528664|River Terrace|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385331N|0765727W|38.8920564|-76.9574747|||0.0|0.0
+528665|Roaches Run|Stream|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|07/08/2015||||385147N|0770211W|38.863168|-77.0363657|385150N|0770230W|38.8638889|-77.0416667
+528687|Three Sisters Islands|Island|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979||Official|Board Decision|01/01/1977|385414N|0770448W|38.9040005|-77.0799779|||0.0|0.0
+528690|Trinidad|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385420N|0765904W|38.9056673|-76.98442|||0.0|0.0
+528693|Washington Highlands|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||384955N|0765941W|38.8320574|-76.9946977|||0.0|0.0
+528696|Wesley Heights|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385552N|0770517W|38.9312222|-77.0880336|||0.0|0.0
+528718|Mexico (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385400N|0770302W|38.9001117|-77.0505327|||0.0|0.0
+528758|East Washington Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|06/07/2022||||385331N|0765637W|38.8920564|-76.9435854|||0.0|0.0
+528859|Alexandria Aqueduct|Canal|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385414N|0770410W|38.9040005|-77.0694221|||0.0|0.0
+528879|Pinehurst Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385816N|0770238W|38.9712216|-77.0438661|385837N|0770403W|38.9769444|-77.0675
+528916|Northeast Quadrant|Civil|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|||||385445N|0765833W|38.9126116|-76.9758086|||0.0|0.0
+528917|Northwest Quadrant|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385557N|0770233W|38.9326111|-77.0424771|||0.0|0.0
+528918|Southeast Quadrant|Civil|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1993|||||385149N|0765828W|38.8637236|-76.9744195|||0.0|0.0
+528921|Re-Survey on New Seat (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|02/01/1991|||||385624N|0770304W|38.940111|-77.0510884|||0.0|0.0
+528922|Mill Seat (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|02/01/1991|||||385624N|0770304W|38.940111|-77.0510884|||0.0|0.0
+528939|Garfield Heights|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385120N|0765810W|38.8556682|-76.9694193|||0.0|0.0
+528941|Georgetown Channel|Channel|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979||Official|Board Decision|01/01/1978|385105N|0770124W|38.8515015|-77.0233097|||0.0|0.0
+528942|Georgetown Reservoir|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|10/22/2019||||385448N|0770540W|38.9133262|-77.0944006|||0.0|0.0
+528944|Kingman Lake|Lake|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|10/22/2019|Official|Board Decision|01/01/1977|385405N|0765751W|38.9013983|-76.9640894|||0.0|0.0
+528947|Marbury Point|Cape|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|01/12/2011|Official|Board Decision|01/01/1960|384855N|0770142W|38.815391|-77.0283098|||0.0|0.0
+528948|Park View|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385555N|0770125W|38.9320556|-77.0235877|||0.0|0.0
+528950|Milkhouse Ford|Crossing|District of Columbia|11|District of Columbia|000|Washington West|04/01/1993|03/26/2021||||385754N|0770251W|38.9651106|-77.0474772|||0.0|0.0
+528951|Little Island|Island|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385328N|0770334W|38.8912229|-77.0594218|||0.0|0.0
+528967|Tunlaw Heights (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385545N|0770434W|38.9292779|-77.0760889|||0.0|0.0
+528968|Fairview Heights (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385555N|0770449W|38.9320555|-77.0802557|||0.0|0.0
+528998|Metropolis View|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385540N|0770001W|38.9278891|-77.0002539|||0.0|0.0
+529001|Isherwood|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|03/01/1991|06/07/2022||||385340N|0765844W|38.8945563|-76.9788642|||0.0|0.0
+529002|Tete Du Pont|Cape|District of Columbia|11|District of Columbia|001|Washington East|03/01/1991|||||385324N|0765741W|38.890112|-76.9613637|||0.0|0.0
+529003|Fox Ferry (historical)|Crossing|District of Columbia|11|District of Columbia|001|Alexandria|03/01/1991|09/06/2005||||384806N|0770135W|38.8017802|-77.0263653|||0.0|0.0
+529004|Shepherd Ferry (historical)|Crossing|District of Columbia|11|District of Columbia|000|Alexandria|03/01/1991|03/26/2021||||384901N|0770139W|38.8170576|-77.0274764|||0.0|0.0
+529006|Harlem (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385422N|0770448W|38.9062226|-77.0799779|||0.0|0.0
+529007|Weston (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385544N|0770419W|38.9290001|-77.0719221|||0.0|0.0
+529008|Soapstone Valley|Valley|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|02/03/2017||||385644N|0770305W|38.945469|-77.05125|385651N|0770351W|38.9475664|-77.0642681
+529019|Reno Reservoir|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/03/2019||||385714N|0770439W|38.9538878|-77.0775811|||0.0|0.0
+529035|Poplar Point|Cape|District of Columbia|11|District of Columbia|001|Alexandria|03/01/1991|||||385211N|0770006W|38.8698345|-77.0016425|||0.0|0.0
+529040|Gravel Point|Cape|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|||||385322N|0770349W|38.8895563|-77.0635886|||0.0|0.0
+529048|Good Hope Hill|Summit|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1991|04/08/2020||||385204N|0765745W|38.8678824|-76.9624725|||0.0|0.0
+529049|Potomac City (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1991|06/07/2022||||385135N|0765954W|38.8598347|-76.998309|||0.0|0.0
+529066|Licking Banks|Bar|District of Columbia|11|District of Columbia|000|Washington East|04/01/1991|01/29/2021||||385445N|0765717W|38.9126116|-76.9546969|||0.0|0.0
+529075|Gibsons Spring (historical)|Spring|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|||||385351N|0765856W|38.8976119|-76.9821977|||0.0|0.0
+529113|Parrotts Woods|Woods|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|||||385446N|0770323W|38.9128893|-77.0563663|||0.0|0.0
+529263|North Cleveland Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385700N|0770414W|38.9501108|-77.0705332|||0.0|0.0
+529264|Lanier Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385535N|0770224W|38.9265002|-77.039977|||0.0|0.0
+529265|Judiciary Square|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385355N|0770059W|38.8987229|-77.0163653|||0.0|0.0
+529266|Mount Vernon Square|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385417N|0770122W|38.9048339|-77.0227543|||0.0|0.0
+529267|Chinatown|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385403N|0770122W|38.900945|-77.0227543|||0.0|0.0
+529268|Thomas Circle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385422N|0770144W|38.9062227|-77.0288656|||0.0|0.0
+529269|Logan Circle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385445N|0770154W|38.9126115|-77.0316434|||0.0|0.0
+529270|Southwest|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385252N|0770059W|38.8812232|-77.0163652|||0.0|0.0
+529274|Pope Branch|Stream|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|||||385243N|0765818W|38.8787233|-76.9716417|385222N|0765710W|38.8728902|-76.9527523
+529275|Shepherd Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385905N|0770159W|38.9848324|-77.0330325|||0.0|0.0
+529276|Rock Creek Gardens|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385919N|0770244W|38.9887212|-77.0455327|||0.0|0.0
+529277|Varnum|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385635N|0770019W|38.9431666|-77.0052541|||0.0|0.0
+529278|Bloomingdale|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|04/01/1991|06/07/2022||||385500N|0770041W|38.9167782|-77.0113652|||0.0|0.0
+529279|Truxton Circle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385435N|0770054W|38.9098338|-77.0149764|||0.0|0.0
+529280|East Central|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385400N|0770044W|38.9001118|-77.0121985|||0.0|0.0
+529281|West End|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385425N|0770259W|38.907056|-77.0496994|||0.0|0.0
+529282|Farragut Square|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385410N|0770239W|38.9028895|-77.0441437|||0.0|0.0
+529283|Franklin McPherson Square|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385405N|0770159W|38.9015006|-77.0330323|||0.0|0.0
+529284|Forest Hills|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385703N|0770329W|38.9509441|-77.0580329|||0.0|0.0
+529285|Friendship Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385725N|0770444W|38.9570551|-77.0788668|||0.0|0.0
+529286|Foxhall|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385520N|0770539W|38.9223334|-77.0941448|||0.0|0.0
+529287|Cathedral Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385532N|0770439W|38.9256668|-77.0774778|||0.0|0.0
+529288|Senate Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385455N|0770522W|38.9153892|-77.0894225|||0.0|0.0
+529289|Adams Morgan|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385517N|0770232W|38.9215002|-77.0421992|||0.0|0.0
+529290|Northwest Rectangle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385340N|0770242W|38.8945562|-77.0449771|||0.0|0.0
+529291|Scott Circle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385433N|0770209W|38.9092783|-77.0358102|||0.0|0.0
+529292|Northeast Boundary|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385333N|0765459W|38.8926121|-76.9163624|||0.0|0.0
+529293|Lincoln Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385340N|0765544W|38.8945564|-76.9288628|||0.0|0.0
+529294|Central Northeast|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385345N|0765629W|38.8959453|-76.9413632|||0.0|0.0
+529295|Mayfair-Parkside|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385405N|0765659W|38.9015007|-76.9496967|||0.0|0.0
+529296|Eastland Gardens|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385430N|0765634W|38.908445|-76.9427522|||0.0|0.0
+529297|Gateway|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385515N|0765749W|38.9209448|-76.9635861|||0.0|0.0
+529298|Brentwood Village|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385515N|0765904W|38.9209447|-76.98442|||0.0|0.0
+529299|University Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385623N|0765937W|38.9398333|-76.9935871|||0.0|0.0
+529300|Michigan Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385655N|0765909W|38.948722|-76.9858091|||0.0|0.0
+529301|Kingman Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385400N|0765829W|38.9001118|-76.9746974|||0.0|0.0
+529302|Lincoln Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385328N|0765854W|38.8912231|-76.981642|||0.0|0.0
+529303|Southeast|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385250N|0765924W|38.8806677|-76.9899756|||0.0|0.0
+529304|Dupont Park|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385217N|0765701W|38.8715013|-76.9502522|||0.0|0.0
+529305|Penn Branch|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385225N|0765726W|38.8737234|-76.9571968|||0.0|0.0
+529306|Woodland|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385142N|0765814W|38.8617792|-76.9705305|||0.0|0.0
+529307|Fairlawn|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385215N|0765844W|38.8709456|-76.9788641|||0.0|0.0
+529308|Randle Highlands|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385213N|0765759W|38.8703902|-76.9663638|||0.0|0.0
+529309|Buena Vista|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385125N|0765846W|38.857057|-76.9794196|||0.0|0.0
+529310|Shipley Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1991|06/07/2022||||385050N|0765809W|38.847335|-76.9691415|||0.0|0.0
+529311|Edgewood|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385521N|0770002W|38.9226114|-77.0005316|||0.0|0.0
+529312|Stanton Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385405N|0765960W|38.9015007|-76.999976|||0.0|0.0
+529313|Capitol Hill|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385320N|0770001W|38.8890009|-77.0002537|||0.0|0.0
+529314|Georgetown Heights (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385455N|0770429W|38.9153892|-77.0747|||0.0|0.0
+529315|Jumpin' Jack Spring|Spring|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|||||385822N|0770251W|38.9728882|-77.0474772|||0.0|0.0
+529317|Spring Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|||||385316N|0765806W|38.8878899|-76.9683083|385351N|0765857W|38.8975|-76.9825
+529318|Washington City|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385400N|0770059W|38.9001118|-77.0163653|||0.0|0.0
+529320|Jackson Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|04/08/2020||||385530N|0770249W|38.9250928|-77.0470051|||0.0|0.0
+529325|Youngsborough (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385445N|0770033W|38.9126115|-77.0091428|||0.0|0.0
+529327|Deep Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|||||385415N|0770414W|38.9042783|-77.0705332|385530N|0770425W|38.925|-77.0736111
+529328|East End|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385345N|0770039W|38.8959451|-77.0108095|||0.0|0.0
+529329|Buzzard Point|Populated Place|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1991|06/07/2022||||385220N|0770039W|38.8723345|-77.0108094|||0.0|0.0
+529334|Bellevue|Populated Place|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|06/07/2022||||384936N|0770111W|38.8267797|-77.0196984|||0.0|0.0
+529347|Eckington|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385445N|0770033W|38.9126115|-77.0091428|||0.0|0.0
+529357|Knox Hill Dwellings|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385112N|0765801W|38.853446|-76.9669192|||0.0|0.0
+529369|Oxon Creek|Bay|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|||||384826N|0770135W|38.8073356|-77.0263653|||0.0|0.0
+529384|The Palisades|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|10/12/2018||||385530N|0770605W|38.9251112|-77.1013673|||0.0|0.0
+529389|Washington Channel|Channel|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|||||385218N|0770112W|38.8717789|-77.0199764|||0.0|0.0
+529401|Abby Manor (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385323N|0770019W|38.8898342|-77.0052539|||0.0|0.0
+529405|Brightwood|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385740N|0770139W|38.9612218|-77.0274768|||0.0|0.0
+529406|Brookland|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385558N|0765903W|38.932889|-76.9841423|||0.0|0.0
+529407|Buzzard Point|Cape|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|06/02/2009||||385150N|0770046W|38.8640013|-77.012754|||0.0|0.0
+529409|Chillum Station|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385720N|0770015W|38.9556664|-77.0041429|||0.0|0.0
+529410|Cleveland Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385610N|0770356W|38.9362221|-77.0655331|||0.0|0.0
+529411|Crestwood|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385630N|0770226W|38.9417777|-77.0405325|||0.0|0.0
+529415|Greenway|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385315N|0765717W|38.8876121|-76.9546968|||0.0|0.0
+529417|Lamond Riggs|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385759N|0770027W|38.9664995|-77.0074764|||0.0|0.0
+529419|Marshall Heights|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385310N|0765541W|38.8862233|-76.9280294|||0.0|0.0
+529423|Naylor Gardens|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385124N|0765760W|38.8567793|-76.9666414|||0.0|0.0
+529424|Petworth|Populated Place|District of Columbia|11|District of Columbia|000|Washington West||06/07/2022||||385645N|0770130W|38.9459442|-77.0249767|||0.0|0.0
+529430|Spring Valley|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385622N|0770556W|38.9395553|-77.0988672|||0.0|0.0
+529431|Twining|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022|Official|Board Decision|01/01/1895|385218N|0765757W|38.8717791|-76.9658082|||0.0|0.0
+529433|Woodley Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385543N|0770321W|38.9287223|-77.0558107|||0.0|0.0
+529434|Woodridge|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385552N|0765816W|38.9312224|-76.9710864|||0.0|0.0
+529435|Saint James Creek (historical)|Stream|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1993|||||385152N|0770051W|38.8645568|-77.0141428|385152N|0770051W|38.8645568|-77.0141428
+529437|Bealls Levels (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385357N|0770204W|38.8992784|-77.0344212|||0.0|0.0
+529438|Port Royal (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385423N|0770206W|38.9065005|-77.0349768|||0.0|0.0
+529455|Easby Point|Cape|District of Columbia|11|District of Columbia|001|Washington West|01/01/1991|||||385339N|0770323W|38.8942785|-77.0563662|||0.0|0.0
+529471|Chevy Chase|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385750N|0770404W|38.9639995|-77.0677554|||0.0|0.0
+529472|Dupont Circle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385430N|0770239W|38.9084449|-77.0441437|||0.0|0.0
+529473|Carrollsburg (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385232N|0770024W|38.8756678|-77.0066426|||0.0|0.0
+529475|Giesboro|Populated Place|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1991|06/07/2022||||385040N|0770059W|38.8445571|-77.0163651|||0.0|0.0
+529476|Washington County (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|||||385800N|0770229W|38.9667772|-77.041366|||0.0|0.0
+529578|The Mole|Cape|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|||||385400N|0770328W|38.9001117|-77.0577552|||0.0|0.0
+529673|Caffreys Spring (historical)|Spring|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385349N|0770129W|38.8970562|-77.0246988|||0.0|0.0
+529689|Silver Spring Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385858N|0770226W|38.9828881|-77.0405326|385906N|0770127W|38.985|-77.0241667
+529701|Georgetown Heights|Summit|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|04/08/2020||||385457N|0770445W|38.9157501|-77.0791422|||0.0|0.0
+529702|Peters Point|Cape|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385330N|0770320W|38.8917785|-77.0555328|||0.0|0.0
+529703|Peters Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|04/08/2020||||385342N|0770306W|38.895104|-77.0516415|||0.0|0.0
+529707|Linnean Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|04/08/2020||||385610N|0770260W|38.936193|-77.049932|||0.0|0.0
+529715|Ripps Island (historical)|Island|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385326N|0770217W|38.8906675|-77.0380324|||0.0|0.0
+529718|Dobbins Addition (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385535N|0770039W|38.9265002|-77.0108096|||0.0|0.0
+529719|Armsleigh Park (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385643N|0770437W|38.9453887|-77.0769222|||0.0|0.0
+529720|Morris Addition (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|05/01/1991|06/07/2022||||385420N|0765809W|38.9056673|-76.9691417|||0.0|0.0
+529721|Monastery Lot (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|05/01/1991|06/07/2022||||385510N|0765824W|38.9195559|-76.9733086|||0.0|0.0
+529727|Camp Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|04/08/2020||||385517N|0770401W|38.9214924|-77.0669197|||0.0|0.0
+529729|Tohoga (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385410N|0770344W|38.9028894|-77.0621997|||0.0|0.0
+529739|Chevy Chase Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385734N|0770439W|38.959555|-77.0774778|||0.0|0.0
+529740|Sheridan-Kalorama|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385452N|0770259W|38.9145558|-77.0496994|||0.0|0.0
+529741|Kalorama Triangle|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385500N|0770229W|38.9167781|-77.0413659|||0.0|0.0
+529893|Pretty Prospect (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385515N|0770244W|38.9209446|-77.0455326|||0.0|0.0
+529894|Bathing Beach|Beach|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385254N|0770205W|38.8817787|-77.034699|||0.0|0.0
+529895|Reedy Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385445N|0770123W|38.9126115|-77.0230321|385555N|0770137W|38.9319444|-77.0269444
+529898|Westover Place|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|06/07/2022||||385611N|0770509W|38.9364999|-77.0858113|||0.0|0.0
+529939|Hampshire Knolls|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385740N|0770014W|38.9612218|-77.0038652|||0.0|0.0
+529940|The Cloisters|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385540N|0770019W|38.9278891|-77.005254|||0.0|0.0
+529941|Park Place|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385550N|0770019W|38.9306668|-77.005254|||0.0|0.0
+529942|Foxhall Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385450N|0770424W|38.9140003|-77.0733111|||0.0|0.0
+529943|Foxhall Crescent|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385523N|0770532W|38.9231668|-77.0922004|||0.0|0.0
+529944|Embassy Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385608N|0770459W|38.9356666|-77.0830335|||0.0|0.0
+529945|Cloisters|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385440N|0770359W|38.9112226|-77.0663665|||0.0|0.0
+529946|Sutton Place|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385553N|0770454W|38.9315|-77.0816445|||0.0|0.0
+529947|Westchester|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385533N|0770447W|38.9259445|-77.0797001|||0.0|0.0
+529948|Westminster|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385453N|0770117W|38.9148337|-77.0213654|||0.0|0.0
+529949|Westmoreland Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385650N|0770559W|38.947333|-77.0997005|||0.0|0.0
+529950|Riggs Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|06/07/2022||||385715N|0765939W|38.9542775|-76.9941426|||0.0|0.0
+529951|North Michigan Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|06/07/2022||||385635N|0765839W|38.9431666|-76.9774755|||0.0|0.0
+529952|Edgewood Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|06/07/2022||||385524N|0765934W|38.9234447|-76.9927537|||0.0|0.0
+529953|West Over View|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|06/01/1991|06/07/2022||||385205N|0765749W|38.868168|-76.9635859|||0.0|0.0
+529954|Fort Davis|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|06/01/1991|06/07/2022||||385200N|0765646W|38.8667792|-76.9460854|||0.0|0.0
+529979|Fishing Shore|Beach|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385440N|0770549W|38.9112225|-77.0969227|||0.0|0.0
+529984|Federal Spring (historical)|Spring|District of Columbia|11|District of Columbia|001|Washington East|05/01/1991|||||385344N|0765901W|38.8956675|-76.9835866|||0.0|0.0
+529990|McGees Ferry (historical)|Crossing|District of Columbia|11|District of Columbia|000|Washington West|05/01/1991|03/26/2021||||385400N|0770330W|38.9001117|-77.0583107|||0.0|0.0
+530001|Franklin Park Springs (historical)|Spring|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385407N|0770151W|38.9020561|-77.03081|||0.0|0.0
+530002|Evans Point|Cape|District of Columbia|11|District of Columbia|001|Washington East|05/01/1991|||||385244N|0765828W|38.8790011|-76.9744196|||0.0|0.0
+530019|Babcock Lakes (historical)|Lake|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|08/24/2015||||385324N|0770219W|38.8901119|-77.038588|||0.0|0.0
+530034|High Service Reservoir (historical)|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385447N|0770356W|38.913167|-77.0655331|||0.0|0.0
+530077|New Troy (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385330N|0770019W|38.8917786|-77.0052539|||0.0|0.0
+530100|The Houpyard|Civil|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|||||385324N|0765914W|38.890112|-76.9871978|||0.0|0.0
+530101|Mill Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385420N|0770016W|38.9056673|-77.0044205|||0.0|0.0
+530107|Plain Dealing (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385511N|0770139W|38.9198336|-77.0274767|||0.0|0.0
+530108|Turkey Buzzard Plantation (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385240N|0770044W|38.87789|-77.0121984|||0.0|0.0
+530109|Burnes Discovery (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385320N|0770214W|38.8890008|-77.0371991|||0.0|0.0
+530110|Cerne Abbey Manor (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385240N|0770044W|38.87789|-77.0121984|||0.0|0.0
+530111|Ormes Luck (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385422N|0770314W|38.9062227|-77.0538662|||0.0|0.0
+530112|Expense (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385430N|0770104W|38.9084449|-77.0177542|||0.0|0.0
+530113|Evans Littleworth (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385237N|0765904W|38.8770566|-76.9844198|||0.0|0.0
+530114|Meurs (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385330N|0765834W|38.8917787|-76.9760864|||0.0|0.0
+530115|Hazard (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385230N|0765859W|38.8751123|-76.9830309|||0.0|0.0
+530116|Houps Addition (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385300N|0765944W|38.8834454|-76.9955313|||0.0|0.0
+530117|Elinor (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385359N|0770129W|38.8998339|-77.0246988|||0.0|0.0
+530118|Gordons Meadow (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385350N|0770039W|38.897334|-77.0108095|||0.0|0.0
+530119|Saint Philip and Jacob Tract|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385550N|0770609W|38.9306667|-77.1024784|||0.0|0.0
+530120|White Haven Tract|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385430N|0770509W|38.9084448|-77.0858114|||0.0|0.0
+530148|Klingle Valley|Valley|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|10/26/2016||||385601N|0770306W|38.9335879|-77.0517875|385602N|0770347W|38.9339094|-77.0631004
+530151|Piney Branch Valley|Valley|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|10/27/2016||||385607N|0770252W|38.9352457|-77.047792|385619N|0770207W|38.938563|-77.0352438
+530156|Mount Alto|Summit|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|04/08/2020||||385525N|0770427W|38.9235643|-77.0742256|||0.0|0.0
+530173|Fort Baker (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1991|05/31/2022||||385144N|0765751W|38.8622222|-76.9641667|||0.0|0.0
+530178|The Potomac Gorge|Valley|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|02/16/2017||||385410N|0770415W|38.9026579|-77.0708525|385842N|0771413W|38.9783406|-77.2369673
+530180|Terra Firma Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385605N|0770429W|38.9348333|-77.0747|||0.0|0.0
+530181|Fletchalls Chance Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385645N|0770439W|38.9459442|-77.0774778|||0.0|0.0
+530182|Friendship Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385700N|0770529W|38.9501108|-77.091367|||0.0|0.0
+530183|Gizor Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385640N|0770359W|38.9445553|-77.0663665|||0.0|0.0
+530184|Cowtown (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385530N|0770134W|38.9251113|-77.0260878|||0.0|0.0
+530185|Bloodfield (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385435N|0770139W|38.9098338|-77.0274767|||0.0|0.0
+530214|Washington Aqueduct|Canal|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|04/23/2010||||385616N|0770645W|38.9378887|-77.1124786|||0.0|0.0
+530284|Widowsville (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385630N|0770434W|38.9417776|-77.0760889|||0.0|0.0
+530288|Robeyville (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385650N|0770524W|38.947333|-77.0899781|||0.0|0.0
+530408|Wisconsin Avenue Reservoir (historical)|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385448N|0770357W|38.9134447|-77.0658109|||0.0|0.0
+530435|Mount Saint Sepulchre|Summit|District of Columbia|11|District of Columbia|001|Washington East|07/01/1991|04/08/2020||||385615N|0765906W|38.9375739|-76.9850455|||0.0|0.0
+530460|Gisborough Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Alexandria|08/01/1991|||||385100N|0770029W|38.8501127|-77.0080315|||0.0|0.0
+530461|Upper Gisborough Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Alexandria|08/01/1991|||||385100N|0770029W|38.8501127|-77.0080315|||0.0|0.0
+530462|Haddocks Hill (historical)|Civil|District of Columbia|11|District of Columbia|001|Anacostia|08/01/1991|||||385200N|0765829W|38.8667791|-76.9746973|||0.0|0.0
+530463|Lower Gisborough Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Alexandria|08/01/1991|||||384920N|0770029W|38.8223353|-77.0080314|||0.0|0.0
+530511|Elderslie Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385450N|0770339W|38.9140003|-77.0608108|||0.0|0.0
+530515|Norway Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385830N|0770149W|38.9751104|-77.0302547|||0.0|0.0
+530518|Little Indian Rock Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385428N|0770504W|38.9078893|-77.0844224|||0.0|0.0
+530519|Indian Rock Terrace|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385432N|0770514W|38.9090004|-77.0872003|||0.0|0.0
+530520|Colony Hill|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385447N|0770514W|38.913167|-77.0872003|||0.0|0.0
+530527|Knaves Disappointment Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|||||385420N|0770414W|38.9056672|-77.0705332|||0.0|0.0
+530554|Columbia Heights|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385532N|0770146W|38.9256669|-77.0294212|||0.0|0.0
+530559|LeDroit Park|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385457N|0770057W|38.9159448|-77.0158097|||0.0|0.0
+530565|Mount Pleasant (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385510N|0770154W|38.9195558|-77.0316434|||0.0|0.0
+530566|Jamaica (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385440N|0770154W|38.9112226|-77.0316434|||0.0|0.0
+530608|The Gift (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|02/01/1991|||||385624N|0770304W|38.940111|-77.0510884|||0.0|0.0
+530614|Potomac Aqueduct (historical)|Canal|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|||||385410N|0770409W|38.9028894|-77.0691443|||0.0|0.0
+530689|Washington City Canal (historical)|Canal|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385318N|0770056W|38.8884453|-77.0155318|||0.0|0.0
+530704|The Chance (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385330N|0765834W|38.8917787|-76.9760864|||0.0|0.0
+530705|Little Prevention (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385355N|0770324W|38.8987228|-77.056644|||0.0|0.0
+530706|Duddington Manor (historical)|Civil|District of Columbia|11|District of Columbia|001|Alexandria|06/01/1991|||||385225N|0770034W|38.8737233|-77.0094205|||0.0|0.0
+530707|The Neck (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385420N|0765859W|38.9056673|-76.983031|||0.0|0.0
+530708|Success (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385511N|0770149W|38.9198336|-77.0302546|||0.0|0.0
+530713|Duck Creek (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385334N|0770230W|38.8928896|-77.0416436|385342N|0770218W|38.895|-77.0383333
+530714|The Vineyard (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385333N|0770309W|38.8926118|-77.0524772|||0.0|0.0
+530716|The Inclosure (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385410N|0770004W|38.9028895|-77.0010871|||0.0|0.0
+530717|The Gleaning (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385403N|0770049W|38.900945|-77.0135874|||0.0|0.0
+530718|Flints Discovery (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|||||385500N|0770139W|38.9167781|-77.0274767|||0.0|0.0
+530719|The Adventure (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington East|06/01/1991|||||385240N|0765856W|38.87789|-76.9821976|||0.0|0.0
+530731|Foxhall Village|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385442N|0770504W|38.9117781|-77.0844224|||0.0|0.0
+530732|Greenleaf Point|Cape|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|01/12/2011|Official|Board Decision|05/25/1891|385142N|0770103W|38.8617791|-77.0174763|||0.0|0.0
+530772|New Scotland Hundred (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385314N|0770320W|38.8873341|-77.0555328|||0.0|0.0
+530775|Southwest Quadrant|Civil|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1993|||||385123N|0770039W|38.8565014|-77.0108094|||0.0|0.0
+530786|Massachusetts Avenue Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385535N|0770354W|38.9265001|-77.0649776|||0.0|0.0
+530787|Kalorama Heights|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385500N|0770309W|38.9167781|-77.0524773|||0.0|0.0
+530794|Nacotchtanke (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|05/01/1991|06/07/2022||||385330N|0765734W|38.8917787|-76.9594192|||0.0|0.0
+530819|Masons Ferry (historical)|Crossing|District of Columbia|11|District of Columbia|001|Washington West|08/01/1991|||||385407N|0770346W|38.902056|-77.0627553|||0.0|0.0
+530826|Reflecting Pool|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|08/01/1991|10/22/2019||||385322N|0770241W|38.8893505|-77.0446529|||0.0|0.0
+530885|Nacocktanke (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1991|06/07/2022||||385330N|0765729W|38.8917787|-76.9580302|||0.0|0.0
+530886|Fort Bayard (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|05/31/2022||||385719N|0770530W|38.9552778|-77.0916667|||0.0|0.0
+530887|Fort Dupont|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385221N|0765619W|38.8726124|-76.9385852|||0.0|0.0
+530888|Fort Lincoln New Town|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385520N|0765723W|38.9223337|-76.9563637|||0.0|0.0
+530889|Tenleytown|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|04/13/2016|Official|Board Decision|05/15/1900|385658N|0770509W|38.9495552|-77.0858113|||0.0|0.0
+530951|Benning|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022|Official|Board Decision|01/01/1895|385342N|0765656W|38.895112|-76.9488634|||0.0|0.0
+530952|Capitol View|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385322N|0765553W|38.8895565|-76.9313629|||0.0|0.0
+530953|Douglass Dwellings|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|12/18/1979|06/07/2022||||385054N|0765840W|38.8484461|-76.9777529|||0.0|0.0
+530955|Hillcrest|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385143N|0765729W|38.862057|-76.9580301|||0.0|0.0
+530956|Langdon|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385523N|0765826W|38.923167|-76.9738642|||0.0|0.0
+530959|Terra Cotta|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|06/07/2022||||385713N|0765954W|38.9537219|-76.9983095|||0.0|0.0
+530967|Round Hill|Summit|District of Columbia|11|District of Columbia|001|Washington East|02/01/1993|04/08/2020||||385534N|0765919W|38.9261144|-76.9884988|||0.0|0.0
+530968|Bennings Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington East|02/01/1993|||||385328N|0765731W|38.8912231|-76.9585859|385240N|0765623W|38.8777778|-76.9397222
+530971|Pennsylvania Avenue Hights|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|02/01/1993|06/07/2022||||385205N|0765729W|38.868168|-76.9580301|||0.0|0.0
+530972|Navy Yard Channel|Channel|District of Columbia|11|District of Columbia|001|Washington East|02/01/1993|||||385234N|0765902W|38.8762233|-76.9838643|||0.0|0.0
+530978|Carp Pond (historical)|Lake|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|08/24/2015||||385327N|0770233W|38.8909274|-77.0424669|||0.0|0.0
+530999|Sixteenth Street Reservoir (historical)|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|||||385717N|0770214W|38.954833|-77.0371992|||0.0|0.0
+531009|Battery Reno (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385721N|0770439W|38.9558333|-77.0775|||0.0|0.0
+531010|Battery Rossell (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385715N|0770356W|38.9541667|-77.0655556|||0.0|0.0
+531011|Fort on Kennedys Hill (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|02/01/1993|05/31/2022||||385245N|0765622W|38.8791667|-76.9394444|||0.0|0.0
+531049|Davis Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|||||385528N|0770625W|38.9245556|-77.1069229|385608N|0770524W|38.9355556|-77.09
+531050|Gillam Branch (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|||||385553N|0770645W|38.9315|-77.1124786|385558N|0770557W|38.9327778|-77.0991667
+531051|Brightwood Reservoir (historical)|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|||||385725N|0770204W|38.9570551|-77.0344213|||0.0|0.0
+531053|First High Reservoir (historical)|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|03/01/1993|||||385606N|0770054W|38.9351111|-77.0149765|||0.0|0.0
+531058|Burnham Barrier|Island|District of Columbia|11|District of Columbia|000|Washington East|03/01/1993|02/13/2018||||385345N|0765752W|38.8959452|-76.9644193|||0.0|0.0
+531060|Anacostia First High Reservoir|Reservoir|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1993|10/22/2019||||385138N|0765841W|38.8604437|-76.9779296|||0.0|0.0
+531063|Sauis Addition (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1993|06/07/2022||||385700N|0770149W|38.9501108|-77.0302546|||0.0|0.0
+531064|Fernwood Heights (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1993|06/07/2022||||385630N|0770334W|38.9417777|-77.0594218|||0.0|0.0
+531066|Battery Sill (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|03/01/1993|05/31/2022||||385740N|0770218W|38.9611111|-77.0383333|||0.0|0.0
+531069|Battery Terrill (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|03/01/1993|05/31/2022||||385725N|0770340W|38.9569444|-77.0611111|||0.0|0.0
+531070|Bunker Hill|Summit|District of Columbia|11|District of Columbia|001|Washington East|03/01/1993|04/08/2020||||385607N|0765918W|38.9353812|-76.9883068|||0.0|0.0
+531072|Fairfax Village|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385143N|0765704W|38.862057|-76.9510855|||0.0|0.0
+531074|Giesboro Point|Cape|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|01/12/2011|Official|Board Decision|12/31/1891|385052N|0770111W|38.8478905|-77.0196985|||0.0|0.0
+531077|Mount Pleasant|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385550N|0770227W|38.9306668|-77.0408103|||0.0|0.0
+531080|Duddington Pasture (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385257N|0770139W|38.882612|-77.0274766|||0.0|0.0
+531086|American University Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385705N|0770524W|38.9514996|-77.0899781|||0.0|0.0
+531096|Reno|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|06/07/2022||||385710N|0770442W|38.9528885|-77.0783111|||0.0|0.0
+531298|Battery Smeade (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385741N|0770338W|38.9613889|-77.0605556|||0.0|0.0
+531299|Battery Parrott (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385505N|0770523W|38.9180556|-77.0897222|||0.0|0.0
+531300|Battery Vermont (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385615N|0770640W|38.9375|-77.1111111|||0.0|0.0
+531302|Maddox Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|||||385508N|0770610W|38.9190002|-77.1027562|385544N|0770539W|38.9288889|-77.0941667
+531303|Stickfoot Branch|Stream|District of Columbia|11|District of Columbia|001|Alexandria|02/01/1993|||||385154N|0770008W|38.8651124|-77.0021981|385103N|0765840W|38.850946|-76.9777529
+531307|Fort Carroll (historical)|Military|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1993|05/31/2022||||385016N|0770024W|38.8377778|-77.0066667|||0.0|0.0
+531308|Fort Greble (historical)|Military|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1993|05/31/2022||||384938N|0770053W|38.8272222|-77.0147222|||0.0|0.0
+531309|Hains Point|Cape|District of Columbia|11|District of Columbia|001|Alexandria|12/18/1979|||||385126N|0770118W|38.8573347|-77.021643|||0.0|0.0
+531312|Tiber Creek (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385326N|0770221W|38.8906675|-77.0391435|385456N|0770113W|38.9155556|-77.0202778
+531316|Capitol Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|08/16/2021||||385323N|0770032W|38.8897341|-77.0089892|||0.0|0.0
+531345|Newspaper Row (historical)|Area|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385348N|0770155W|38.8967785|-77.0319211|||0.0|0.0
+531413|Pipetown (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|06/07/2022||||385251N|0765859W|38.8809455|-76.9830309|||0.0|0.0
+531429|Cookes Park|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1993|06/07/2022||||385441N|0770337W|38.9115004|-77.0602553|||0.0|0.0
+531432|Cherry Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|06/01/1993|01/15/2021||||385454N|0770343W|38.9151036|-77.0619196|||0.0|0.0
+531433|Fairview Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|06/01/1993|01/15/2021||||385455N|0770348W|38.9153814|-77.0633085|||0.0|0.0
+531434|Forsythia Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|06/01/1993|01/15/2021||||385453N|0770346W|38.9148258|-77.062753|||0.0|0.0
+531435|Crabapple Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|06/01/1993|01/15/2021||||385451N|0770350W|38.9142558|-77.0638879|||0.0|0.0
+531456|Anacostia|Populated Place|District of Columbia|11|District of Columbia|000|Anacostia|12/18/1979|06/07/2022||||385159N|0765902W|38.8665013|-76.9838643|||0.0|0.0
+531459|McLean Gardens|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385614N|0770431W|38.9373332|-77.0752556|||0.0|0.0
+531460|McMillan Reservoir|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|10/22/2019||||385530N|0770101W|38.9248611|-77.016997|||0.0|0.0
+531463|Rock Creek|Stream|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|07/08/2015||||385358N|0770326W|38.8995561|-77.0571996|391155N|0770820W|39.1987175|-77.1388696
+531468|Theodore Roosevelt Island|Island|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/20/2016|Official|Congressional Legislation|02/11/1933|385344N|0770343W|38.8956674|-77.0619219|||0.0|0.0
+531471|Barry Farms|Populated Place|District of Columbia|11|District of Columbia|001|Anacostia|04/01/1993|06/07/2022||||385123N|0765929W|38.8565015|-76.9913644|||0.0|0.0
+531475|Foundry Branch|Stream|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385418N|0770445W|38.9051116|-77.0791445|385633N|0770433W|38.9425|-77.0758333
+531506|Foggy Bottom|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385405N|0770344W|38.9015006|-77.0621997|||0.0|0.0
+531507|Hamburgh (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|06/07/2022||||385325N|0770309W|38.8903897|-77.0524772|||0.0|0.0
+531513|Shaw|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|06/01/1991|06/07/2022||||385443N|0770117W|38.9120559|-77.0213654|||0.0|0.0
+531561|Deanwood|Populated Place|District of Columbia|11|District of Columbia|000|Washington East|04/01/1993|06/07/2022|Official|Board Decision|01/01/1897|385354N|0765546W|38.8984452|-76.9294183|||0.0|0.0
+531562|Fort Davis (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|12/18/1979|05/31/2022||||385159N|0765702W|38.8663889|-76.9505556|||0.0|0.0
+531563|Fort DeRussy (historical)|Military|District of Columbia|11|District of Columbia|000|Washington West|04/01/1993|05/31/2022||||385747N|0770304W|38.9630556|-77.0511111|||0.0|0.0
+531564|Fort Slemmer (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|05/31/2022||||385623N|0770005W|38.9397222|-77.0013889|||0.0|0.0
+531565|Fort Stanton (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|12/18/1979|05/31/2022||||385141N|0765838W|38.8613889|-76.9772222|||0.0|0.0
+531566|Fort Stevens (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|05/31/2022||||385751N|0770144W|38.9641667|-77.0288889|||0.0|0.0
+531569|Slash Run (historical)|Stream|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385508N|0770229W|38.9190003|-77.0413659|385433N|0770201W|38.9091667|-77.0336111
+531572|Fort Slocum (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|05/31/2022||||385735N|0770052W|38.9597222|-77.0144444|||0.0|0.0
+531577|Fort Sedgwick (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|03/01/1991|05/31/2022||||385303N|0765611W|38.8841667|-76.9363889|||0.0|0.0
+531578|Fort Wagner (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1991|05/31/2022||||385136N|0765811W|38.86|-76.9697222|||0.0|0.0
+531579|Fort Snyder (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1991|05/31/2022||||385049N|0765857W|38.8469444|-76.9825|||0.0|0.0
+531580|Fort Nonence (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|05/31/2022||||Unknown|Unknown|0.0|0.0|||0.0|0.0
+531598|Columbia Armory (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|05/31/2022||||385316N|0770114W|38.8877778|-77.0205556|||0.0|0.0
+531619|Hells Bottom (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|06/07/2022||||385358N|0770326W|38.8995561|-77.0571996|||0.0|0.0
+531620|Fort Reno (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|05/31/2022||||385702N|0770450W|38.9505556|-77.0805556|||0.0|0.0
+531621|Washington Armory (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|07/01/1991|05/31/2022||||385316N|0770115W|38.8877778|-77.0208333|||0.0|0.0
+531646|Brinetown (historical)|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|08/01/1993|06/07/2022||||385453N|0770404W|38.9148336|-77.0677554|||0.0|0.0
+531663|Georgetown|Populated Place|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/07/2022||||385417N|0770345W|38.9048338|-77.0624775|||0.0|0.0
+531712|Murder Bay (historical)|Area|District of Columbia|11|District of Columbia|000|Washington West|05/01/1991|05/31/2021||||385337N|0770201W|38.8936933|-77.0336607|||0.0|0.0
+531728|Rock Creek Valley|Valley|District of Columbia|11|District of Columbia|001|Washington West|02/01/1991|08/01/2018||||385359N|0770328W|38.8996572|-77.057878|391145N|0770824W|39.1958558|-77.1399612
+531749|Rock of Dumbarton|Area|District of Columbia|11|District of Columbia|001|Washington West|08/23/1993|||||385420N|0770339W|38.9056672|-77.0608108|||0.0|0.0
+531765|Rosedale|Populated Place|District of Columbia|11|District of Columbia|001|Washington East|03/01/1991|06/07/2022||||385350N|0765844W|38.8973341|-76.9788643|||0.0|0.0
+531829|Columbia Island|Island|District of Columbia|11|District of Columbia|000|Washington West|12/18/1979|06/21/2016|Official|Board Decision|01/01/1920|385256N|0770326W|38.8823342|-77.0571996|||0.0|0.0
+531831|Kidwell Meadows|Area|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|||||385322N|0770249W|38.8895563|-77.0469215|||0.0|0.0
+531843|Tidal Basin|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|06/02/2009||||385301N|0770220W|38.8837231|-77.0388658|||0.0|0.0
+531854|Fort Totten (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|05/31/2022||||385655N|0770017W|38.9486111|-77.0047222|||0.0|0.0
+531855|Fort Saratoga (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|05/31/2022||||385546N|0765842W|38.9294444|-76.9783333|||0.0|0.0
+531871|Washington|Populated Place|District of Columbia|11|District of Columbia|001|Washington West|12/18/1979|06/07/2022|Official|Board Decision|01/01/1931|385342N|0770211W|38.8951118|-77.0363658|||0.0|0.0
+531875|Pulpit Rock|Pillar|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|||||385642N|0770248W|38.9451109|-77.0466438|||0.0|0.0
+531895|Capitol Reflecting Pool|Reservoir|District of Columbia|11|District of Columbia|001|Washington West|03/01/1991|10/22/2019||||385323N|0770049W|38.8897924|-77.0136485|||0.0|0.0
+531907|Lees Hill|Summit|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|04/08/2020||||385448N|0770356W|38.9133367|-77.0655093|||0.0|0.0
+531914|Mount Saint Alban|Summit|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|04/08/2020||||385550N|0770414W|38.9306589|-77.0705309|||0.0|0.0
+531936|Fort Chaplin (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|02/01/1993|05/31/2022||||385321N|0765635W|38.8891667|-76.9430556|||0.0|0.0
+531983|Anacostia Flats|Area|District of Columbia|11|District of Columbia|001|Anacostia|03/01/1993|||||385155N|0765911W|38.8653902|-76.9863643|||0.0|0.0
+532032|Anacostia River|Stream|District of Columbia|11|District of Columbia|000|Alexandria|12/18/1979|12/10/2013|Official|Board Decision|01/01/1890|385113N|0770113W|38.8537237|-77.0202541|385633N|0765638W|38.9426111|-76.9438634
+532034|Beaverdam Creek|Stream|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|||||385500N|0765634W|38.9167783|-76.9427522|385713N|0765143W|38.9537221|-76.8619166
+532037|Piney Run|Stream|District of Columbia|11|District of Columbia|001|Washington East|12/18/1979|||||385332N|0765639W|38.8923342|-76.9441409|385237N|0765525W|38.8769444|-76.9236111
+532039|Watts Branch|Stream|District of Columbia|11|District of Columbia|000|Washington East|12/18/1979|07/08/2015||||385420N|0765726W|38.9056674|-76.957197|385214N|0765416W|38.8706432|-76.9045399
+532040|National Guard District of Columbia Rifle Range (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|02/01/1993|05/31/2022||||385416N|0770423W|38.9044444|-77.0730556|||0.0|0.0
+597850|Oxon Creek|Stream|Maryland|24|Prince George's|033|Alexandria|09/12/1979|06/23/2006|Official|Board Decision|01/01/1892|384826N|0770136W|38.8073356|-77.026643|384900N|0770023W|38.8166667|-77.0063889
+597915|Potomac River|Stream|Maryland|24|St. Mary's|037|Burgess|09/12/1979|07/08/2020|Official|Board Decision|01/01/1931|375954N|0762002W|37.9982645|-76.3338878|393142N|0783516W|39.52833|-78.58778
+1468388|Hunter Point|Cape|Virginia|51|Arlington|013|Alexandria|09/28/1979|04/14/2014||||385031N|0770201W|38.8420571|-77.0335878|||0.0|0.0
+1478084|Four Mile Run|Stream|Virginia|51|Arlington|013|Alexandria|09/28/1979|07/31/2017|Official|Board Decision|01/01/1975|385024N|0770241W|38.8401128|-77.0446992|385355N|0771014W|38.8987226|-77.1705357
+1680414|Battery Gaines (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|05/31/2022||||385621N|0770520W|38.9391667|-77.0888889|||0.0|0.0
+1680416|Battery Georgetown (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1991|05/31/2022||||385509N|0770524W|38.9191667|-77.09|||0.0|0.0
+1680418|Battery Kemble (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|05/31/2022||||385549N|0770543W|38.9302778|-77.0952778|||0.0|0.0
+1680419|Battery Kingsbury (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|05/31/2022||||385748N|0770239W|38.9633333|-77.0441667|||0.0|0.0
+1680420|Battery Mahon (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|05/31/2022||||385342N|0765640W|38.895|-76.9444444|||0.0|0.0
+1680421|Battery Martin Scott (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|04/01/1993|05/31/2022||||385550N|0770540W|38.9305556|-77.0944444|||0.0|0.0
+1680424|Battery Morris (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|05/31/2022||||385544N|0765837W|38.9288889|-76.9769444|||0.0|0.0
+1680825|Fort Kearny (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|05/31/2022||||385654N|0770330W|38.9483333|-77.0583333|||0.0|0.0
+1680854|Fort Mahan (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|05/31/2022||||385340N|0765639W|38.8944444|-76.9441667|||0.0|0.0
+1681190|Maine Avenue Armory (historical)|Military|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1991|05/31/2022||||385222N|0770113W|38.8727778|-77.0202778|||0.0|0.0
+1702382|District of Columbia|Civil|District of Columbia|11|District of Columbia|001|Washington West|11/26/1996|03/22/2023||||385417N|0770059W|38.9047746|-77.0163024|||0.0|0.0
+1934375|Fort Gaines (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|08/07/2001|05/31/2022||||385610N|0770515W|38.9361111|-77.0875|||0.0|0.0
+2013820|Battery Ricketts (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|11/05/2003|05/31/2022||||385123N|0765830W|38.8563889|-76.975|||0.0|0.0
+2071908|Rock of Dumbarton Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|08/03/2005|||||385418N|0770340W|38.905|-77.06111|||0.0|0.0
+2085363|Fletchers Cove|Bay|District of Columbia|11|District of Columbia|001|Washington West|03/17/2006|||||385507N|0770611W|38.9186|-77.103|||0.0|0.0
+2390665|City of Washington|Civil|District of Columbia|11|District of Columbia|001|Washington West|02/19/2008|03/25/2023||||385417N|0770059W|38.9047746|-77.0163024|||0.0|0.0
+2458367|Fort Lincoln (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|06/27/2008|05/31/2022||||385536N|0765723W|38.9267|-76.9565|||0.0|0.0
+2496982|Point Reno|Summit|District of Columbia|11|District of Columbia|001|Washington West|09/08/2008|04/08/2020|Official|Board Decision|09/03/2008|385706N|0770434W|38.9517864|-77.076023|||0.0|0.0
+2512033|Anacostia Annex (historical)|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385119N|0770039W|38.8552886|-77.010841|||0.0|0.0
+2512207|Fort Lesley J McNair|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385200N|0770060W|38.8667669|-77.0166025|||0.0|0.0
+2512274|Marine Barracks|Military|District of Columbia|11|District of Columbia|001|Washington East|11/17/2008|05/31/2022||||385242N|0765952W|38.8782494|-76.997647|||0.0|0.0
+2512345|Naval Research Laboratory|Military|District of Columbia|11|District of Columbia|001|Alexandria|11/17/2008|05/31/2022||||384926N|0770121W|38.8238335|-77.022423|||0.0|0.0
+2512365|United States Naval Observatory|Military|District of Columbia|11|District of Columbia|001|Washington West|11/17/2008|05/31/2022||||385517N|0770401W|38.9215133|-77.0668685|||0.0|0.0
+2512383|Walter Reed Army Medical Center|Military|District of Columbia|11|District of Columbia|001|Washington West|11/17/2008|05/31/2022||||385830N|0770153W|38.9751258|-77.031402|||0.0|0.0
+2512386|Washington Navy Yard|Military|District of Columbia|11|District of Columbia|001|Anacostia|11/17/2008|05/31/2022||||385226N|0765942W|38.8738225|-76.995|||0.0|0.0
+2512447|Bolling Air Force Base (historical)|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385024N|0770102W|38.8398896|-77.017269|||0.0|0.0
+2575396|Little River|Gut|District of Columbia|11|District of Columbia|001|Washington West|01/22/2010|||||385340N|0770353W|38.8944444|-77.0647222|||0.0|0.0
+2790960|Heritage Island|Island|District of Columbia|11|District of Columbia|000|Washington East|02/13/2018|||||385333N|0765758W|38.8925183|-76.9662432|||0.0|0.0
+2813927|Joint Base Anacostia-Bolling|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/20/2020|05/31/2022||||385024N|0770102W|38.8398896|-77.017269|||0.0|0.0
