@@ -1,0 +1,5 @@
+# flash app docs
+https://code.visualstudio.com/docs/python/tutorial-flask#_create-and-run-a-minimal-flask-app
+
+# start env
+python -m flask run
