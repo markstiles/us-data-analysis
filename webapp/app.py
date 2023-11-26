@@ -7,7 +7,7 @@ import flask
 import pandas as pd
 
 from flask import Flask
-from torchinfo import summary
+from flask import render_template
 from sklearn.preprocessing import MinMaxScaler
 
 app = Flask(__name__)
@@ -30,9 +30,10 @@ scaler = None
 def home():
     return "Hello, Flask!"
 
-@app.route("/test", methods=["GET"])
-def test():
-    data = {"success": False}
+@app.route("/location/<placename>", methods=["POST"])
+def location(placename):
+    places = places_df[places_df.Place_Name.str.contains(placename, na=False, case=False)][['Place_Name', 'GeoId', 'All_Revenue']]
+    data = {"places": places.to_json(orient="records")}
     return flask.jsonify(data)
 
 @app.route("/predict", methods=["POST"])
