@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Census Model Tester</title>
+    <link href="{{ url_for('static', filename='site.css')}}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <!--<img src="">-->
+    </header>
+    <h1></h1>
+    <div class="content">
+        <div class="location-form-wrap">
+            <h2>Location</h2>
+            <form class="location-form" action="/location" method="post">
+                <div class="form-row">
+                    <label for="location-name">Location Name</label>
+                    <input type="text" id="location-name" class="location-name" />
+                    <button class="submit">Lookup</button>
+                </div>
+                <div class="geo-id"></div>
+                <button class="submit-geoid">Load Data</button>
+            </form>
+        </div>
+        <div class="predict-form-wrap">
+            <h2>Prediction</h2>
+            <form class="predict-form" action="/predict" method="post">
+                <button class="submit">Submit</button>
+            </form>
+        </div>
+        <div class="progress-indicator">
+            <img src="{{ url_for('static', filename='spinner.gif')}}" />
+        </div>
+    </div>
+    <footer>{{ date.strftime("%A, %d %B, %Y at %X") }}
+    </footer>
+    <script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='site.js')}}"></script>
+</body>
+</html>

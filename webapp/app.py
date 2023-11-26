@@ -9,6 +9,7 @@ import pandas as pd
 from flask import Flask
 from flask import render_template
 from sklearn.preprocessing import MinMaxScaler
+from datetime import datetime
 
 app = Flask(__name__)
 
@@ -28,11 +29,20 @@ scaler = None
 
 @app.route("/")
 def home():
-    return "Hello, Flask!"
+    return render_template(
+        "home.html",
+        date=datetime.now()
+    )
 
 @app.route("/location/<placename>", methods=["POST"])
 def location(placename):
     places = places_df[places_df.Place_Name.str.contains(placename, na=False, case=False)][['Place_Name', 'GeoId', 'All_Revenue']]
+    data = {"places": places.to_json(orient="records")}
+    return flask.jsonify(data)
+
+@app.route("/geolocation/<geoid>", methods=["POST"])
+def location(geoid):
+    places = places_df[places_df.GeoId == ][['Place_Name', 'GeoId', 'All_Revenue']]
     data = {"places": places.to_json(orient="records")}
     return flask.jsonify(data)
 
@@ -70,7 +80,7 @@ def load_model():
 
 def load_places():
     global places_df
-    places_df = pd.read_csv('https://raw.githubusercontent.com/markstiles/us-data-analysis/main/places_data.csv')
+    places_df = pd.read_csv('../places_data.csv')
     places_df.drop(places_df.columns[[0]], axis=1, inplace=True)
     places_df = places_df.fillna(0)
     state_dummies = pd.get_dummies(places_df.State_Name)
