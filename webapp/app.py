@@ -5,6 +5,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import flask
 import pandas as pd
+import joblib 
 
 from flask import Flask
 from flask import render_template
@@ -27,10 +28,10 @@ model = nn.Sequential(
 places_df = None
 scaler = None
 props = ['Population','Median_Age','Average_Income','Percent_High_School','Percent_Bachelors','Housing_Units_Total',
-    'Housing_Units_Single_Family','Percent_In_Poverty','Food_Services_Employers','Waste_Management_Employers',
-    'Arts_Employers','Education_Employers','Finance_Employers','Healthcare_Employers','Information_Employers',
-    'Technical_Employers','Real_Estate_Employers','Retail_Employers',
-    'Transportation_Employers','Utilities_Employers']
+    'Housing_Units_Single_Family','Percent_In_Poverty','Food_Services_Employees','Waste_Management_Employees',
+    'Arts_Employees','Education_Employees','Finance_Employees','Healthcare_Employees','Information_Employees',
+    'Technical_Employees','Real_Estate_Employees','Retail_Employees','Transportation_Employees','Utilities_Employees',
+    'Percent_Employed','1_Unit_Buildings','2_Unit_Buildings','3_4_Unit_Buildings','5_Over_Unit_Buildings']
 drop_final_cols = ['Place_Name', 'GeoId', 'All_Revenue', 'State_Abbr']
 drop_cols = [
     'State_Name','Type','All_Employers','All_Employees','All_Payroll',
@@ -96,27 +97,9 @@ def predict():
         data["name"] = place.Place_Name
         
         # update values
-        place.Population = flask.request.form.get("population")
-        place.Median_Age = flask.request.form.get("medianage")
-        place.Average_Income = flask.request.form.get("avgincome")
-        place.Percent_High_School = flask.request.form.get("perhighschool")
-        place.Percent_Bachelors = flask.request.form.get("perbach")
-        place.Housing_Units_Total = flask.request.form.get("housingtotal")
-        place.Housing_Units_Single_Family = flask.request.form.get("housingsingle")
-        place.Percent_In_Poverty = flask.request.form.get("perpoverty")
-        place.Food_Services_Employers = flask.request.form.get("foodemp")
-        place.Waste_Management_Employers = flask.request.form.get("wasteemp")
-        place.Arts_Employers = flask.request.form.get("artsemp")
-        place.Education_Employers = flask.request.form.get("edemp")
-        place.Finance_Employers = flask.request.form.get("finemp")
-        place.Healthcare_Employers = flask.request.form.get("healthemp")
-        place.Information_Employers = flask.request.form.get("infoemp")
-        place.Technical_Employers = flask.request.form.get("techemp")
-        place.Real_Estate_Employers = flask.request.form.get("reemp")
-        place.Retail_Employers = flask.request.form.get("retailemp")
-        place.Transportation_Employers = flask.request.form.get("transemp")
-        place.Utilities_Employers = flask.request.form.get("utilityemp")
-
+        for d in props:
+            place[d] = flask.request.form.get(d)    
+        
         # scale and predict
         place_scaled = scaler.transform(prep_series(place))
         prediction = model(torch.tensor(place_scaled, dtype=torch.float32)).item()
@@ -150,6 +133,7 @@ def load_places():
 def load_scaler():
     global scaler
     scaler = MinMaxScaler()
+    #scaler = joblib.load('scaler.save') 
     x = prep_df(places_df)
     scaler.fit(x)
 
