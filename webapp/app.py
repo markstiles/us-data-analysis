@@ -27,11 +27,12 @@ model = nn.Sequential(
 )
 places_df = None
 scaler = None
-props = ['Population','Median_Age','Average_Income','Percent_High_School','Percent_Bachelors','Housing_Units_Total',
-    'Housing_Units_Single_Family','Percent_In_Poverty','Food_Services_Employees','Waste_Management_Employees',
+props = ['Population','Median_Age','Average_Income','Housing_Units_Total',
+    'Percent_In_Poverty','Food_Services_Employees','Waste_Management_Employees',
     'Arts_Employees','Education_Employees','Finance_Employees','Healthcare_Employees','Information_Employees',
     'Technical_Employees','Real_Estate_Employees','Retail_Employees','Transportation_Employees','Utilities_Employees',
-    'Percent_Employed','1_Unit_Buildings','2_Unit_Buildings','3_4_Unit_Buildings','5_Over_Unit_Buildings']
+    'Percent_Employed','Ownership_Rate','Vacancy_Rate','Percent_Broadband','Housing_Units_Median_Value',
+    'Average_House_Value','Median_Owner_Monthly_Cost','Avg_Owner_Monthly_Cost','Median_Rent','Average_Rent']
 drop_final_cols = ['Place_Name', 'GeoId', 'All_Revenue', 'State_Abbr']
 drop_cols = [
     'State_Name','Type','All_Employers','All_Employees','All_Payroll',
@@ -109,6 +110,7 @@ def predict():
         data["prediction"] = f'{int(prediction):,}'
         diff = int(prediction-actual)
         percent_diff = int((diff/actual)*100)
+        data["change"] = f'{diff:,}'
         data["difference"] = f'{percent_diff:,}'
         data["success"] = True
 

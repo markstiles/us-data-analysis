@@ -14,6 +14,7 @@ jQuery(document).ready(function ()
     var results = ".results";
     var actual = results + " .actual";
     var prediction = results + " .prediction";
+    var change = results + " .change";
     var difference = results + " .difference";
 
     jQuery(locationFormSubmit).click(function (e)
@@ -126,6 +127,7 @@ jQuery(document).ready(function ()
             
             jQuery(actual).text(r.actual)
             jQuery(prediction).text(r.prediction)
+            jQuery(change).text("$" + r.change)
             jQuery(difference).text(r.difference + "%")
         });
     }    
