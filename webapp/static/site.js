@@ -6,7 +6,7 @@ jQuery(document).ready(function ()
     var locationForm = ".location-form";
     var locationFormSubmit = locationForm + " .submit";
     var locationGeoId = locationForm + " .geo-id";
-    var locationFormSubmitGeodId = locationForm + " .submit-geoid";
+    var locationWrap = ".location-wrap";
     var predictForm = ".predict-form";
     var predictFormFields = predictForm + " .predict-form-fields"
     var predictFormSubmit = predictForm + " .submit";
@@ -24,13 +24,6 @@ jQuery(document).ready(function ()
         LookupLocation();
     });
 
-    jQuery(locationFormSubmitGeodId).click(function (e)
-    {
-        e.preventDefault();
-
-        LoadLocationData();
-    });
-
     jQuery(predictFormSubmit).click(function (e)
     {
         e.preventDefault();
@@ -40,16 +33,18 @@ jQuery(document).ready(function ()
   
     function LookupLocation()
     {
+        console.log('LookupLocation');
+
         var locationValue = jQuery(locationForm + " .location-name").val();
         var locationUrl = jQuery(locationForm).attr("action") + "/" + locationValue;
         
-        jQuery(progressIndicator).show();
+        //jQuery(progressIndicator).show();
         
         jQuery.get(
             locationUrl
         ).done(function (r)
         {
-            jQuery(progressIndicator).hide();
+            //jQuery(progressIndicator).hide();
             
             parsed_places = JSON.parse(r.places);
             
@@ -70,18 +65,36 @@ jQuery(document).ready(function ()
             }
             
             jQuery(locationGeoId).html(output);
+            
+            LoadLocationData();
+
+            jQuery(locationWrap).click(function (e)
+            {
+                e.preventDefault();
+
+                jQuery(this).find('input').prop("checked", true);
+
+                LoadLocationData();
+            });
         });
     }
 
     function LoadLocationData()
     {
+        console.log('LoadLocationData');
+
         var geoIdValue = jQuery(locationForm + " input:radio[name='geoid']:checked").val();
-        var geoidUrl = jQuery(locationForm).attr("geo-action") + "/" + geoIdValue;
-                
-        jQuery(progressIndicator).show();
+        
+        console.log(geoIdValue);
+
+        var geoIdUrl = jQuery(locationForm).attr("geo-action") + "/" + geoIdValue;
+        
+        console.log(geoIdUrl);
+        
+        //jQuery(progressIndicator).show();
         
         jQuery.get(
-            geoidUrl
+            geoIdUrl
         ).done(function (r)
         {
             parsed_place = JSON.parse(r.place)[0];
@@ -99,7 +112,7 @@ jQuery(document).ready(function ()
             
             jQuery(predictFormFields).html(output);
             
-            jQuery(progressIndicator).hide();
+            //jQuery(progressIndicator).hide();
 
             PredictRevenue();
         });
@@ -107,6 +120,8 @@ jQuery(document).ready(function ()
 
     function PredictRevenue()
     {
+        console.log('PredictRevenue');
+
         var geoidValue = jQuery(locationForm + " input:radio[name='geoid']:checked").val();
         postData = { geoid: geoidValue }
         
@@ -116,18 +131,18 @@ jQuery(document).ready(function ()
             postData[fieldName] = jQuery(this).val();
         });
 
-        jQuery(progressIndicator).show();
+        //jQuery(progressIndicator).show();
         
         jQuery.post(
             jQuery(predictForm).attr("action"),
             postData
         ).done(function (r)
         {
-            jQuery(progressIndicator).hide();
+            //jQuery(progressIndicator).hide();
             
-            jQuery(actual).text("$" + r.actual)
-            jQuery(prediction).text("$" + r.prediction)
-            jQuery(change).text("$" + r.change)
+            jQuery(actual).text("$" + r.actual + ",000")
+            jQuery(prediction).text("$" + r.prediction + ",000")
+            jQuery(change).text("$" + r.change + ",000")
             jQuery(difference).text(r.difference + "%")
         });
     }    

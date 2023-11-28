@@ -13,24 +13,30 @@ button:hover { background-color:#710035; }
 .container { width: 1200px; margin: 0px auto; position:relative; border-radius: 5px; overflow:hidden; padding:10px; }
 .bg { position: absolute; top: 0; bottom: 0; right: 0; left: 0;  z-index:-1;} 
 .bg-shadow { position: absolute; top: 0; bottom: 0; right: 0; left: 0; background-color:#fff; z-index:-1; }
+.hr { border-top: 1px solid #ccc; margin:10px; }
 /* PROGRESS INDICATOR */
-.progress-indicator { display: none; width: 100%; height:100%; margin: 0px auto; position: absolute; top: 0px; left: 0px; right: 0px; text-align: center; }
+.progress-indicator { display: none; width: 100%; height:100%; margin: 0px auto; position: absolute; top: 108px; left: 0px; right: 0px; text-align: center; }
 .progress-indicator img { width:50px; top: 300px; position:absolute; z-index:9; }
 .progress-indicator .cover { opacity: 0.8; background-color: #fff; height:100%; }
 /* LOCATION */
 .location-form-wrap { display:inline-block; width: 400px; margin-right:10px; vertical-align: top; }
 .location-wrap { padding: 5px 2px; }
 .location-wrap:nth-child(odd) { background-color:#eee; }
-.predict-form-wrap { display:inline-block; width: 450px; margin-right:10px; vertical-align: top; }
+.location-wrap label {  }
+.predict-form-wrap { display:inline-block; width: 440px; margin-right:10px; vertical-align: top; }
 .geo-id,
 .predict-form-fields,
-.results { border-radius: 5px; border:1px solid #ccc; margin: 15px 0; padding: 5px; }
-.submit-geoid { }
+.results { border-radius: 5px; border:1px solid #ccc; margin: 15px 0; padding: 5px; overflow: auto; }
+.geo-id { max-height: 545px; }
+.predict-form-fields { max-height: 600px; }
+.results { background-color: #dd008d; color: #fff; }
+.submit-geoid { margin-left: 313px; }
 .predict-form .form-row { }
 .predict-form .form-row:nth-child(odd) { background-color:#eee; }
-.predict-form .form-row label { width:340px; display:inline-block; }
+.predict-form .form-row label { width:315px; display:inline-block; }
 .predict-form .form-row input { width:80px; display:inline-block; text-align:right; margin-right:10px; }
-.predict-form .submit { margin-left:382px; }
-.results-wrap { width:300px; display:inline-block; vertical-align: top; }
-.predict-data .label { width: 180px; display: inline-block; text-align: right; margin-right:5px; }
+.predict-form .submit { margin-left:371px; }
+.results-wrap { width:330px; display:inline-block; vertical-align: top; }
+.predict-data { margin-bottom:4px; }
+.predict-data .label { width: 170px; display: inline-block; text-align: right; margin-right:5px; }
 .predict-data .value { font-weight:bold; }
