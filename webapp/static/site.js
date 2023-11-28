@@ -125,8 +125,8 @@ jQuery(document).ready(function ()
         {
             jQuery(progressIndicator).hide();
             
-            jQuery(actual).text(r.actual)
-            jQuery(prediction).text(r.prediction)
+            jQuery(actual).text("$" + r.actual)
+            jQuery(prediction).text("$" + r.prediction)
             jQuery(change).text("$" + r.change)
             jQuery(difference).text(r.difference + "%")
         });
