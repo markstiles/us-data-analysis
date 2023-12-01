@@ -15,15 +15,19 @@ from datetime import datetime
 app = Flask(__name__)
 
 model = nn.Sequential(
-    nn.Linear(174, 2048),
+    nn.Linear(174, 100),
     nn.ReLU(),
-    nn.Linear(2048, 1024),
+    nn.Linear(100, 100),
     nn.ReLU(),
-    nn.Linear(1024, 2048),
+    nn.Linear(100, 100),
     nn.ReLU(),
-    nn.Linear(2048, 512),
+    nn.Linear(100, 100),
     nn.ReLU(),
-    nn.Linear(512, 1)
+    nn.Linear(100, 100),
+    nn.ReLU(),
+    nn.Linear(100, 100),
+    nn.ReLU(),
+    nn.Linear(100, 1)
 )
 places_df = None
 scaler = None
@@ -134,8 +138,8 @@ def load_places():
 
 def load_scaler():
     global scaler
-    scaler = MinMaxScaler()
-    #scaler = joblib.load('scaler.save') 
+    #scaler = MinMaxScaler()
+    scaler = joblib.load('../scaler.save') 
     x = prep_df(places_df)
     scaler.fit(x)
 
@@ -146,6 +150,10 @@ def prep_df(df):
 def prep_series(series):
     new_series = series.drop(labels=drop_final_cols).values.reshape(1,-1)
     return new_series
+
+print('name')
+print(__name__)
+#if __name__ == "__main__"
 
 if __name__ == "app":
     load_model()
