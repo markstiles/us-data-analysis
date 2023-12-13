@@ -16,6 +16,11 @@ jQuery(document).ready(function ()
     var prediction = results + " .prediction";
     var change = results + " .change";
     var difference = results + " .difference";
+    var updates = ".updates";
+    var updatePrediction = updates + " .prediction";
+    var updateChange = updates + " .change";
+    var updateDifference = updates + " .difference";
+    var storedPrediction = 0;
 
     jQuery(locationFormSubmit).click(function (e)
     {
@@ -28,7 +33,7 @@ jQuery(document).ready(function ()
     {
         e.preventDefault();
 
-        PredictRevenue();
+        PredictRevenue(false);
     });
   
     function LookupLocation()
@@ -114,11 +119,11 @@ jQuery(document).ready(function ()
             
             //jQuery(progressIndicator).hide();
 
-            PredictRevenue();
+            PredictRevenue(true);
         });
     }
 
-    function PredictRevenue()
+    function PredictRevenue(updateInitialPredictions)
     {
         console.log('PredictRevenue');
 
@@ -140,10 +145,21 @@ jQuery(document).ready(function ()
         {
             //jQuery(progressIndicator).hide();
             
-            jQuery(actual).text("$" + r.actual + ",000")
-            jQuery(prediction).text("$" + r.prediction + ",000")
-            jQuery(change).text("$" + r.change + ",000")
-            jQuery(difference).text(r.difference + "%")
+            if(updateInitialPredictions)
+            {
+                storedPrediction = parseInt(r.prediction.split(",").join(""))
+                jQuery(actual).text("$" + r.actual + ",000")
+                jQuery(prediction).text("$" + r.prediction + ",000")
+                jQuery(change).text("$" + r.change + ",000")
+                jQuery(difference).text(r.difference + "%")
+            }
+            
+            jQuery(updatePrediction).text("$" + r.prediction + ",000")
+            calcPred = parseInt(r.prediction.split(",").join(""))
+            delta = calcPred - storedPrediction
+            jQuery(updateChange).text("$" + delta.toLocaleString() + ",000")
+            percent = Math.round(100 * (Math.abs(delta) / storedPrediction))
+            jQuery(updateDifference).text(percent + "%")
         });
     }    
 });

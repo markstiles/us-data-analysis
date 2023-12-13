@@ -3,6 +3,7 @@ header { padding: 20px 0px; position:relative; margin-bottom:15px; }
 footer { padding: 20px 0px; position:relative; }
 h1 { font-weight:normal; font-size: 40px; margin:0px; }
 h2 { font-size: 24px; margin: 5px 0 15px 0; border-bottom: 2px solid #ccc; }
+h3 { font-size:16px; margin: 0px; }
 form { }
 form fieldset { border:none; padding: 0px; margin: 20px 0; }
 .form-row { margin: 0 0 5px; }
@@ -25,10 +26,10 @@ button:hover { background-color:#710035; }
 .predict-form-wrap { display:inline-block; width: 440px; margin-right:10px; vertical-align: top; }
 .geo-id,
 .predict-form-fields,
-.results { border-radius: 5px; border:1px solid #ccc; margin: 15px 0; padding: 5px; overflow: auto; }
+.results, .updates { border-radius: 5px; border:1px solid #ccc; margin: 15px 0; padding: 5px; overflow: auto; }
 .geo-id { max-height: 545px; }
 .predict-form-fields { max-height: 600px; }
-.results { background-color: #dd008d; color: #fff; }
+.results, .updates { background-color: #dd008d; color: #fff; }
 .submit-geoid { margin-left: 313px; }
 .predict-form .form-row { }
 .predict-form .form-row:nth-child(odd) { background-color:#eee; }
